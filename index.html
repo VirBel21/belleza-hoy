@@ -14,7 +14,7 @@
   <div class="wrap top-row">
     <strong class="brand"><i aria-hidden="true"></i>Belleza<span>Hoy</span></strong>
     <nav aria-label="Secciones" class="nav">
-      <a href="#main">Buscar</a><a href="#flash">Flash</a><a href="#comparador">Comparador</a><a href="#perfumes">Perfumes</a><a href="#kbeauty">K-beauty</a>
+      <a href="#main">Buscar</a><a href="#halloween" id="nav-hal" hidden>Halloween</a><a href="#flash">Flash</a><a href="#comparador">Comparador</a><a href="#perfumes">Perfumes</a><a href="#kbeauty">K-beauty</a>
       <a href="#moda">Moda</a><a href="#virales">Virales</a><a href="#calendario">Calendario</a>
     </nav>
     <button id="theme" class="btn ghost" type="button" aria-label="Cambiar modo claro u oscuro">◐</button>
@@ -25,6 +25,8 @@
   <div id="example-banner" class="notice warn" hidden>
     <strong>Datos de ejemplo.</strong> Todos los productos y precios de esta versión son ficticios y llevan la etiqueta «EJEMPLO». No los uses para comprar.
   </div>
+
+  <div id="campana" class="campana" hidden></div>
 
   <section class="hero" aria-labelledby="h-hero">
     <h1 id="h-hero">Qué merece la pena comprar hoy</h1>
@@ -69,6 +71,11 @@
   <section id="results" aria-labelledby="h-res" hidden>
     <h2 id="h-res">Resultados <span class="muted small" id="res-n"></span></h2>
     <div id="res-out"></div>
+  </section>
+
+  <section id="halloween" aria-labelledby="h-hal" hidden>
+    <h2 id="h-hal">🎃 Ofertas de Halloween en Primor <span class="muted small">(máx. 8)</span></h2>
+    <div id="hal-out"></div>
   </section>
 
   <section id="flash" aria-labelledby="h-flash">

@@ -111,11 +111,17 @@ function comparator(items) {
 
 // ---------- render ----------
 const byType = (t) => DATA.productos.filter((p) => p.tipo === t && passes(p));
+const halActive = () => {
+  const c = CFG.campana; if (!c) return false;
+  const end = new Date(c.hasta + "T23:59:59"); return new Date() <= end;
+};
 function render() {
   const active = !!(F.q || F.cat || F.store || F.brand || F.pct || F.watch);
   const show = (id, on) => { $(id).hidden = !on; };
   const beauty = F.g !== "moda", fashion = F.g !== "belleza";
   ["#flash", "#comparador", "#perfumes", "#kbeauty", "#virales"].forEach((id) => show(id, beauty && !active));
+  show("#halloween", beauty && !active && halActive());
+  $("#nav-hal").hidden = !halActive();
   show("#moda", fashion && !active);
   show("#results", active);
   if (active) {
@@ -130,6 +136,7 @@ function render() {
   $("#flash-out").innerHTML = flash.length ? grid(flash, 6)
     : `<div class="empty">Hoy no hay descuentos realmente destacables (umbral: ${DATA.meta.umbral_flash} %).</div>`;
   $("#cmp-out").innerHTML = comparator(byType("comparador"));
+  $("#hal-out").innerHTML = grid(byType("halloween").sort((a, b) => pct(b).v - pct(a).v), 8);
   $("#perf-out").innerHTML = grid(byType("perfume").sort((a, b) => pct(b).v - pct(a).v), 8);
   $("#kb-out").innerHTML = grid(byType("kbeauty"), 5);
   $("#moda-out").innerHTML = grid(byType("moda"), 6);
@@ -139,6 +146,12 @@ function render() {
   $("#wl-out").innerHTML = wl.length ? `<div class="grid">${wl.map((p) => card(p)).join("")}</div>` : `<div class="empty">Aún no has guardado nada. Toca ♡ en cualquier producto.</div>`;
 }
 
+function campana() {
+  const c = CFG.campana, el = $("#campana");
+  if (!c || !halActive()) return;
+  el.hidden = false;
+  el.innerHTML = `<div class="wrap campana-in"><span>🎃 <strong>${esc(c.nombre)}</strong>: ${esc(c.texto)} <span class="small">Hasta el ${fday(c.hasta)}${c.hasta_confirmado ? "" : " (fecha no confirmada por la tienda)"}.</span></span><a class="btn" href="#halloween">Ver ofertas</a></div>`;
+}
 function header() {
   $("#updated").textContent = `Última actualización: ${fdate(DATA.meta.actualizado)}`;
   $("#example-banner").hidden = !DATA.meta.ejemplo;
@@ -195,7 +208,7 @@ function report() {
   const sec = (t, items) => { if (!items.length) return; L.push(t.toUpperCase()); items.forEach((p) => { const d = pct(p); L.push(`- ${p.producto} (${p.marca}, ${p.formato}) · ${p.tienda}: ${eur(p.precio_actual)}${p.precio_anterior ? ` (antes ${eur(p.precio_anterior)}${d.v ? `, −${d.v}%${d.calc ? " cálculo propio" : ""}` : ""})` : ""} · ${hasLink(p) ? p.enlace : "no verificado"}`); }); L.push(""); };
   sec("Flash", DATA.productos.filter((p) => p.tipo === "flash" && pct(p).v >= DATA.meta.umbral_flash));
   sec("Comparador", DATA.productos.filter((p) => p.tipo === "comparador"));
-  sec("Perfumes", byType("perfume").slice(0, 8)); sec("K-beauty", byType("kbeauty").slice(0, 5)); sec("Moda", byType("moda").slice(0, 6)); sec("Virales", byType("viral").slice(0, 5));
+  sec("Halloween en Primor", byType("halloween").slice(0, 8)); sec("Perfumes", byType("perfume").slice(0, 8)); sec("K-beauty", byType("kbeauty").slice(0, 5)); sec("Moda", byType("moda").slice(0, 6)); sec("Virales", byType("viral").slice(0, 5));
   L.push("Los precios pueden cambiar: confirma siempre en la tienda.");
   return L.join("\n");
 }
@@ -224,5 +237,5 @@ $("#dl-report").addEventListener("click", () => {
 });
 
 Promise.all([fetch("data/productos.json", { cache: "no-cache" }).then((r) => r.json()), fetch("data/config.json", { cache: "no-cache" }).then((r) => r.json())])
-  .then(([d, c]) => { DATA = d; CFG = c; header(); filters(); calendar(); render(); })
+  .then(([d, c]) => { DATA = d; CFG = c; campana(); header(); filters(); calendar(); render(); })
   .catch(() => { $("#updated").textContent = "No se pudieron cargar los datos. Abre la web desde un servidor (ver README), no con doble clic."; });

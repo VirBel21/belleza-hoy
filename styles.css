@@ -122,3 +122,7 @@ textarea{width:100%;min-height:120px;font-family:ui-monospace,monospace;font-siz
 [hidden]{display:none!important}
 
 .rating{font-size:.9rem}.rating span:first-child{color:#f5a623}
+
+.campana{background:linear-gradient(90deg,#ff7a1a,#ff4d6d);color:#fff}
+.campana-in{display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap;padding-top:10px;padding-bottom:10px}
+.campana .btn{background:#fff;color:#c2410c;border-color:#fff}
