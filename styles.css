@@ -67,7 +67,7 @@ select,input,textarea{font:inherit;color:var(--ink);background:var(--bg);border:
 .grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}
 .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px;display:flex;flex-direction:column;gap:8px;position:relative;min-width:0;transition:transform .15s,border-color .15s}
 .card:hover{transform:translateY(-2px);border-color:var(--accent)}
-.ph{height:104px;border-radius:12px;background:linear-gradient(135deg,hsl(var(--h,260) 80% 92%),hsl(calc(var(--h,260) + 40) 80% 86%));display:grid;place-items:center;color:hsl(var(--h,260) 45% 38%);font:800 2.2rem var(--font)}
+.ph{position:relative;overflow:hidden;height:132px;border-radius:12px;background:linear-gradient(135deg,hsl(var(--h,260) 80% 92%),hsl(calc(var(--h,260) + 40) 80% 86%));display:grid;place-items:center;color:hsl(var(--h,260) 45% 38%);font:800 2.2rem var(--font)}
 @media(prefers-color-scheme:dark){:root:not([data-theme="light"]) .ph{background:linear-gradient(135deg,hsl(var(--h,260) 35% 22%),hsl(calc(var(--h,260) + 40) 35% 17%));color:hsl(var(--h,260) 70% 80%)}}
 :root[data-theme="dark"] .ph{background:linear-gradient(135deg,hsl(var(--h,260) 35% 22%),hsl(calc(var(--h,260) + 40) 35% 17%));color:hsl(var(--h,260) 70% 80%)}
 .card h3{font-size:1rem;margin:0;line-height:1.3;font-weight:650}
@@ -113,3 +113,10 @@ select,input,textarea{font:inherit;color:var(--ink);background:var(--bg);border:
 .tbl td,.tbl th{border-top:1px solid var(--line);padding:6px;text-align:left}
 textarea{width:100%;min-height:120px;font-family:ui-monospace,monospace;font-size:.8rem}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.btn,.card{transition:none}}
+
+.ph img{z-index:1;position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#fff;padding:6px}
+.ph span{position:relative;z-index:0}
+.seg{display:inline-flex;gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:4px;margin:10px 0 4px;max-width:100%;overflow-x:auto}
+.segbtn{font:inherit;font-size:.9rem;font-weight:600;border:0;background:transparent;color:var(--muted);padding:8px 16px;border-radius:999px;cursor:pointer;white-space:nowrap;min-height:40px}
+.segbtn[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+[hidden]{display:none!important}

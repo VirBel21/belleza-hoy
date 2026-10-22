@@ -1,6 +1,6 @@
 # Belleza Hoy · comparador de precios (v0.2, datos reales del 22/10/2026)
 
-`data/productos.json` contiene 14 productos leídos de fichas de Druni y Primor (stock sin confirmar donde la ficha es ambigua). Los datos de ejemplo de la v0.1 están en `data/ejemplo.json`. Moda y virales están vacíos: no hay datos verificados todavía. Mango devolvió 429 al leerla; no se forzó.
+`data/productos.json` contiene 59 productos leídos de fichas de Druni y Primor (stock sin confirmar donde la ficha es ambigua). Los datos de ejemplo de la v0.1 están en `data/ejemplo.json`. Moda y virales están vacíos: no hay datos verificados todavía. Mango devolvió 429 al leerla; no se forzó.
 
 
 Web estática, sin dependencias. Para verla en local:
@@ -45,3 +45,10 @@ Regla de oro: solo se publican datos verificados ese día en la ficha, con su en
 ## Actualización diaria automática
 
 Tarea programada «Actualizar ofertas de belleza» (cada día a las 9:05, con la app de Claude abierta; si está cerrada se ejecuta al abrirla). Lee las URLs de `config.json`, verifica cada ficha y reescribe `productos.json`. Notino y Douglas responden 403 y Mango 429: no se fuerza el acceso, esos datos se meten a mano en `admin.html`.
+
+## Cómo se leen Druni y Primor (v0.3)
+
+Con el navegador integrado de Claude (no con WebFetch, que daba falsos «Agotado»/«No está disponible»):
+- **Druni:** cada ficha trae datos estructurados `application/ld+json` (precio, `InStock`, imagen). Las secciones útiles son `/ofertas-flash` y `/virales-tiktok` (de ahí sale el motivo viral verificado).
+- **Primor:** el listado `/ofertas-flash` muestra «Añadir al carrito»; la ficha incluye `availability: InStock` y el precio de cada tamaño (`optionPrices`).
+- Los precios «Tan bajo como» son el mínimo entre variantes: se publican con `precio_desde: true`.

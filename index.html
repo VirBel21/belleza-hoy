@@ -14,7 +14,7 @@
   <div class="wrap top-row">
     <strong class="brand"><i aria-hidden="true"></i>Belleza<span>Hoy</span></strong>
     <nav aria-label="Secciones" class="nav">
-      <a href="#main">Buscar</a><a href="#flash">Flash</a><a href="#comparador">Comparador</a><a href="#kbeauty">K-beauty</a>
+      <a href="#main">Buscar</a><a href="#flash">Flash</a><a href="#comparador">Comparador</a><a href="#perfumes">Perfumes</a><a href="#kbeauty">K-beauty</a>
       <a href="#moda">Moda</a><a href="#virales">Virales</a><a href="#calendario">Calendario</a>
     </nav>
     <button id="theme" class="btn ghost" type="button" aria-label="Cambiar modo claro u oscuro">◐</button>
@@ -34,6 +34,11 @@
       <input id="q" type="search" autocomplete="off" placeholder="Busca marca, producto o tienda">
       <div id="chips" class="chips" aria-label="Marcas disponibles"></div>
       <p id="q-count" class="muted small" aria-live="polite"></p>
+    </div>
+    <div class="seg" role="group" aria-label="Mostrar">
+      <button type="button" class="segbtn" data-g="todo" aria-pressed="true">Todo</button>
+      <button type="button" class="segbtn" data-g="belleza" aria-pressed="false">Belleza y perfumes</button>
+      <button type="button" class="segbtn" data-g="moda" aria-pressed="false">Moda</button>
     </div>
     <div class="hero-grid">
       <div class="countdown" aria-live="polite">
@@ -61,6 +66,11 @@
     <button id="f-reset" class="btn ghost" type="button">Quitar filtros</button>
   </section>
 
+  <section id="results" aria-labelledby="h-res" hidden>
+    <h2 id="h-res">Resultados <span class="muted small" id="res-n"></span></h2>
+    <div id="res-out"></div>
+  </section>
+
   <section id="flash" aria-labelledby="h-flash">
     <h2 id="h-flash">Alertas flash y mayores descuentos</h2>
     <div id="flash-out"></div>
@@ -70,6 +80,11 @@
     <h2 id="h-cmp">Comparador entre tiendas</h2>
     <p class="muted small">Solo se comparan productos con el mismo formato. Si hay una sola tienda, lo decimos.</p>
     <div id="cmp-out"></div>
+  </section>
+
+  <section id="perfumes" aria-labelledby="h-perf">
+    <h2 id="h-perf">Perfumes en oferta <span class="muted small">(máx. 8)</span></h2>
+    <div id="perf-out"></div>
   </section>
 
   <section id="kbeauty" aria-labelledby="h-kb">

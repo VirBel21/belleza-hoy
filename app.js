@@ -10,7 +10,7 @@ const store = {
 };
 
 let DATA, CFG, watch = new Set(store.get("watch", []));
-const F = { q: "", cat: "", store: "", brand: "", pct: 0, watch: false };
+const F = { g: "todo", q: "", cat: "", store: "", brand: "", pct: 0, watch: false };
 const norm = (s) => String(s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 
 // ---------- cálculo ----------
@@ -27,6 +27,8 @@ function prevPrice(p) {
   return h.length ? h[h.length - 1].precio : null;
 }
 function passes(p) {
+  if (F.g === "moda" && p.categoria !== "moda") return false;
+  if (F.g === "belleza" && p.categoria === "moda") return false;
   if (F.q && !norm(`${p.marca} ${p.producto} ${p.tienda} ${p.categoria}`).includes(norm(F.q.trim()))) return false;
   if (F.cat && p.categoria !== F.cat) return false;
   if (F.store && p.tienda !== F.store) return false;
@@ -50,7 +52,7 @@ function spark(p) {
 function card(p, opts = {}) {
   const d = pct(p);
   return `<article class="card">
-    <div class="ph" style="--h:${(p.marca.charCodeAt(0) * 37) % 360}" role="img" aria-label="Sin imagen: se mostrará la de la tienda enlazada">${esc(p.marca[0] || "?")}</div>
+    <div class="ph" style="--h:${(p.marca.charCodeAt(0) * 37) % 360}">${p.imagen ? `<img src="${esc(p.imagen)}" alt="${esc(p.marca + " " + p.producto)} (imagen de ${esc(p.tienda)})" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}<span aria-hidden="true">${esc(p.marca[0] || "?")}</span></div>
     <div>${p.ejemplo ? '<span class="tag ej">EJEMPLO</span> ' : ""}${stockTag(p)}${!hasLink(p) ? '<span class="tag bad">No verificado</span>' : ""}</div>
     <h3>${esc(p.producto)}</h3>
     <div class="meta">${esc(p.marca)} · ${esc(p.formato)} · ${esc(p.tienda)}</div>
@@ -80,7 +82,8 @@ const grid = (items, max) => {
 function comparator(items) {
   const groups = {};
   items.forEach((p) => (groups[p.grupo] ??= []).push(p));
-  const out = Object.values(groups).map((all) => {
+  const gl = Object.values(groups).sort((x, y) => new Set(y.map((p) => p.tienda)).size - new Set(x.map((p) => p.tienda)).size).slice(0, 8);
+  const out = gl.map((all) => {
     const fc = {};
     all.forEach((p) => (fc[p.formato] = (fc[p.formato] || 0) + 1));
     const ref = Object.entries(fc).sort((a, b) => b[1] - a[1])[0][0];
@@ -108,6 +111,17 @@ function comparator(items) {
 // ---------- render ----------
 const byType = (t) => DATA.productos.filter((p) => p.tipo === t && passes(p));
 function render() {
+  const active = !!(F.q || F.cat || F.store || F.brand || F.pct || F.watch);
+  const show = (id, on) => { $(id).hidden = !on; };
+  const beauty = F.g !== "moda", fashion = F.g !== "belleza";
+  ["#flash", "#comparador", "#perfumes", "#kbeauty", "#virales"].forEach((id) => show(id, beauty && !active));
+  show("#moda", fashion && !active);
+  show("#results", active);
+  if (active) {
+    const r = DATA.productos.filter(passes).sort((x, y) => pct(y).v - pct(x).v);
+    $("#res-n").textContent = `(${r.length})`;
+    $("#res-out").innerHTML = r.length ? `<div class="grid">${r.map((p) => card(p)).join("")}</div>` : `<div class="empty">No hay productos verificados con esa búsqueda. Prueba con otra marca o quita filtros.</div>`;
+  }
   const flash = DATA.productos
     .filter((p) => p.tipo === "flash" && passes(p) && pct(p).v >= DATA.meta.umbral_flash && p.disponibilidad !== "no disponible")
     .filter((p) => !(p.mostrada_antes && !(prevPrice(p) != null && p.precio_actual < prevPrice(p))))
@@ -115,6 +129,7 @@ function render() {
   $("#flash-out").innerHTML = flash.length ? grid(flash, 6)
     : `<div class="empty">Hoy no hay descuentos realmente destacables (umbral: ${DATA.meta.umbral_flash} %).</div>`;
   $("#cmp-out").innerHTML = comparator(byType("comparador"));
+  $("#perf-out").innerHTML = grid(byType("perfume").sort((a, b) => pct(b).v - pct(a).v), 8);
   $("#kb-out").innerHTML = grid(byType("kbeauty"), 5);
   $("#moda-out").innerHTML = grid(byType("moda"), 6);
   $("#vir-out").innerHTML = grid(byType("viral"), 5);
@@ -163,6 +178,7 @@ function filters() {
   fill("#f-store", u("tienda"), null, "tienda"); fill("#f-brand", u("marca"), null, "marca");
   const bind = (id, key, cast = (x) => x) => $(id).addEventListener("change", (e) => { F[key] = cast(e.target.type === "checkbox" ? e.target.checked : e.target.value); render(); });
   bind("#f-cat", "cat"); bind("#f-store", "store"); bind("#f-brand", "brand"); bind("#f-pct", "pct", Number); bind("#f-watch", "watch");
+  document.querySelectorAll(".segbtn").forEach((b) => b.addEventListener("click", () => { F.g = b.dataset.g; document.querySelectorAll(".segbtn").forEach((x) => x.setAttribute("aria-pressed", String(x === b))); render(); }));
   const chips = $("#chips");
   chips.innerHTML = u("marca").map((b) => `<button type="button" class="chip" data-b="${esc(b)}" aria-pressed="false">${esc(b)}</button>`).join("");
   const sync = () => { chips.querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", String(norm(c.dataset.b) === norm(F.q)))); const n = DATA.productos.filter(passes).length; $("#q-count").textContent = F.q ? `${n} resultado${n === 1 ? "" : "s"} para «${F.q}»` : ""; };
@@ -178,7 +194,7 @@ function report() {
   const sec = (t, items) => { if (!items.length) return; L.push(t.toUpperCase()); items.forEach((p) => { const d = pct(p); L.push(`- ${p.producto} (${p.marca}, ${p.formato}) · ${p.tienda}: ${eur(p.precio_actual)}${p.precio_anterior ? ` (antes ${eur(p.precio_anterior)}${d.v ? `, −${d.v}%${d.calc ? " cálculo propio" : ""}` : ""})` : ""} · ${hasLink(p) ? p.enlace : "no verificado"}`); }); L.push(""); };
   sec("Flash", DATA.productos.filter((p) => p.tipo === "flash" && pct(p).v >= DATA.meta.umbral_flash));
   sec("Comparador", DATA.productos.filter((p) => p.tipo === "comparador"));
-  sec("K-beauty", byType("kbeauty").slice(0, 5)); sec("Moda", byType("moda").slice(0, 6)); sec("Virales", byType("viral").slice(0, 5));
+  sec("Perfumes", byType("perfume").slice(0, 8)); sec("K-beauty", byType("kbeauty").slice(0, 5)); sec("Moda", byType("moda").slice(0, 6)); sec("Virales", byType("viral").slice(0, 5));
   L.push("Los precios pueden cambiar: confirma siempre en la tienda.");
   return L.join("\n");
 }
