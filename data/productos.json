@@ -1,35 +1,64 @@
 {
  "meta": {
-  "actualizado": "2026-10-22T15:10:00+02:00",
+  "actualizado": "2026-10-22T16:20:00+02:00",
   "ejemplo": false,
   "umbral_flash": 30,
-  "nota": "Datos leídos de fichas de Druni y Primor el 22/10/2026. % calculados por nosotros salvo indicación."
+  "nota": "Datos leídos el 22/10/2026 de fichas y listados de Druni, Primor, Zara, Mango, Bershka y H&M. Stock: Druni y Primor marcan «InStock»/botón de compra; moda sin comprobar por talla."
  },
  "productos": [
   {
-   "id": "druni-renergie-50ml",
-   "producto": "Rénergie Collagen Lift-Xtend Cream",
-   "marca": "Lancôme",
-   "formato": "50 ml",
-   "tienda": "Druni",
-   "precio_actual": 60.5,
-   "precio_anterior": 110.0,
-   "descuento_pct": null,
-   "enlace": "https://www.druni.es/renergie-collage-lift-xtend-cream-lancome-crema-facial-antienvejecimiento",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
+   "id": "primor-guerlain-abeille-150",
+   "producto": "Abeille Royale Loción Fortificante con Jalea Real",
+   "marca": "Guerlain",
+   "formato": "150 ml",
+   "tienda": "Primor",
+   "precio_actual": 36.09,
+   "precio_anterior": 88.05,
+   "descuento_pct": 59,
+   "enlace": "https://www.primor.eu/es_es/guerlain-abeille-royale-locion-fortificante-con-jalea-real-14253.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/3/3346470615557_1_f102.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "flash",
    "grupo": null,
    "motivo": null,
-   "ventaja": "La ficha muestra «Añadir al carrito» y a la vez «No está disponible»: confirma el stock en la tienda.",
+   "ventaja": "Oferta flash de 24 h. El listado mostraba 43,99 €; aquí va el precio de la ficha.",
    "fecha_limite": null,
    "precio_desde": false,
    "ejemplo": false,
    "historial": [
     {
      "fecha": "2026-10-22",
-     "precio": 60.5
+     "precio": 36.09
+    }
+   ]
+  },
+  {
+   "id": "primor-clarins-serumv-50",
+   "producto": "Serum V Shaping Facial Lift",
+   "marca": "Clarins",
+   "formato": "50 ml",
+   "tienda": "Primor",
+   "precio_actual": 42.18,
+   "precio_anterior": 95.0,
+   "descuento_pct": 56,
+   "enlace": "https://www.primor.eu/es_es/clarins-serum-v-shaping-facial-lift-contorno-perfecto-15809.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/0/T/0TF17128_1_a007.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash de 24 h. El listado mostraba 56,99 €; aquí va el precio de la ficha.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 42.18
     }
    ]
   },
@@ -43,13 +72,14 @@
    "precio_anterior": 55.0,
    "descuento_pct": null,
    "enlace": "https://www.druni.es/aquasource-cica-nutri-cream-estuche-biotherm-tratamiento-regenerante",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
+   "imagen": "https://www.druni.es/media/catalog/product/5/0/5022142.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "flash",
    "grupo": null,
    "motivo": null,
-   "ventaja": "Oferta flash «solo hoy». Stock sin confirmar en la ficha.",
+   "ventaja": "Oferta flash «solo hoy».",
    "fecha_limite": "2026-10-22",
    "precio_desde": false,
    "ejemplo": false,
@@ -57,6 +87,818 @@
     {
      "fecha": "2026-10-22",
      "precio": 24.95
+    }
+   ]
+  },
+  {
+   "id": "primor-wondersculpt-clear-5",
+   "producto": "Gel de cejas Wonder Sculpt Clear",
+   "marca": "Clarins",
+   "formato": "5 ml",
+   "tienda": "Primor",
+   "precio_actual": 13.43,
+   "precio_anterior": 28.0,
+   "descuento_pct": 52,
+   "enlace": "https://www.primor.eu/es_es/clarins-gel-de-cejas-wonder-sculpt-clear-145423.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3666057427343_1_122f.webp",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash de 24 h.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 13.43
+    }
+   ]
+  },
+  {
+   "id": "primor-shiseido-vitalperf-estuche",
+   "producto": "Estuche Vital Perfection Advanced Cream Holiday Pouch",
+   "marca": "Shiseido",
+   "formato": "estuche",
+   "tienda": "Primor",
+   "precio_actual": 84.9,
+   "precio_anterior": 174.0,
+   "descuento_pct": 51,
+   "enlace": "https://www.primor.eu/es_es/shiseido-estuche-advanced-cream-holiday-pouch-153151.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/4/3423222161712_1_6097.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash de 24 h.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 84.9
+    }
+   ]
+  },
+  {
+   "id": "druni-renergie-50ml",
+   "producto": "Rénergie Collagen Lift-Xtend Cream",
+   "marca": "Lancôme",
+   "formato": "50 ml",
+   "tienda": "Druni",
+   "precio_actual": 60.5,
+   "precio_anterior": 110.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/renergie-collage-lift-xtend-cream-lancome-crema-facial-antienvejecimiento",
+   "imagen": "https://www.druni.es/media/catalog/product/5/0/5023253.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 60.5
+    }
+   ]
+  },
+  {
+   "id": "primor-rich-girl-30",
+   "producto": "Rich Girl Eau de Toilette",
+   "marca": "Police",
+   "formato": "30 ml",
+   "tienda": "Primor",
+   "precio_actual": 15.01,
+   "precio_anterior": 35.0,
+   "descuento_pct": 57,
+   "enlace": "https://www.primor.eu/es_es/police-rich-girl-eau-de-toilette-127009.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/0/6/0679602001366_df13.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "perfume",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Otros tamaños en la ficha (100 ml a 26,60 €).",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 15.01
+    }
+   ]
+  },
+  {
+   "id": "druni-rochas-inblack-90",
+   "producto": "Mademoiselle Rochas In Black Eau de Parfum",
+   "marca": "Rochas",
+   "formato": "90 ml",
+   "tienda": "Druni",
+   "precio_actual": 36.95,
+   "precio_anterior": 115.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/mademoiselle-rochas-in-black-rochas-eau-parfum-mujer",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "perfume",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash de 24 h. «Solo hoy».",
+   "fecha_limite": "2026-10-22",
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 36.95
+    }
+   ]
+  },
+  {
+   "id": "druni-mercedes-air-100",
+   "producto": "Air Eau de Parfum hombre",
+   "marca": "Mercedes-Benz",
+   "formato": "100 ml",
+   "tienda": "Druni",
+   "precio_actual": 44.95,
+   "precio_anterior": 105.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/air-mercedes-benz-eau-parfum-hombre",
+   "imagen": "https://www.druni.es/media/catalog/product/1/6/1616210.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "perfume",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash «solo hoy». Land y Sea al mismo precio en Druni.",
+   "fecha_limite": "2026-10-22",
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 44.95
+    }
+   ]
+  },
+  {
+   "id": "druni-pepejeans-london-80",
+   "producto": "London Calling Her Eau de Parfum",
+   "marca": "Pepe Jeans",
+   "formato": "80 ml",
+   "tienda": "Druni",
+   "precio_actual": 29.95,
+   "precio_anterior": 42.95,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/london-calling-her-pepe-jeans-eau-parfum-mujer",
+   "imagen": "https://www.druni.es/media/catalog/product/1/6/1666316.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "perfume",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash «solo hoy».",
+   "fecha_limite": "2026-10-22",
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 29.95
+    }
+   ]
+  },
+  {
+   "id": "primor-montblanc-legendblue-set",
+   "producto": "Set Legend Blue Eau de Parfum",
+   "marca": "Montblanc",
+   "formato": "EDP 100 ml + gel 100 ml + 2 minis 7,5 ml",
+   "tienda": "Primor",
+   "precio_actual": 51.91,
+   "precio_anterior": 121.0,
+   "descuento_pct": 57,
+   "enlace": "https://www.primor.eu/es_es/mont-blanc-set-legend-blue-eau-de-parfum-122564.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/3/3386460167000_9f16.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "perfume",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash de 24 h.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 51.91
+    }
+   ]
+  },
+  {
+   "id": "primor-dg-onlyone-50",
+   "producto": "The Only One Eau de Parfum",
+   "marca": "Dolce & Gabbana",
+   "formato": "50 ml",
+   "tienda": "Primor",
+   "precio_actual": 58.44,
+   "precio_anterior": 123.0,
+   "descuento_pct": null,
+   "enlace": "https://www.primor.eu/es_es/dolce-gabbana-the-only-one-edp-111781.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/4/A/4AF05231_1_9bfe.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "perfume",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash de 24 h. Otros tamaños en la ficha.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 58.44
+    }
+   ]
+  },
+  {
+   "id": "primor-marcjacobs-daisy-75",
+   "producto": "Daisy Ever So Fresh Eau de Parfum",
+   "marca": "Marc Jacobs",
+   "formato": "75 ml",
+   "tienda": "Primor",
+   "precio_actual": 63.6,
+   "precio_anterior": 125.0,
+   "descuento_pct": 49,
+   "enlace": "https://www.primor.eu/es_es/marc-jacobs-daisy-ever-so-fresh-eau-de-parfum-112042.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3616303423841_M_a543.jpeg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "perfume",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash de 24 h. Otros tamaños en la ficha.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 63.6
+    }
+   ]
+  },
+  {
+   "id": "primor-issey-pourhomme-75",
+   "producto": "L'Eau d'Issey Pour Homme Eau Essentielle EDP",
+   "marca": "Issey Miyake",
+   "formato": "75 ml",
+   "tienda": "Primor",
+   "precio_actual": 53.09,
+   "precio_anterior": 103.0,
+   "descuento_pct": 48,
+   "enlace": "https://www.primor.eu/es_es/issey-miyake-l-eau-d-issey-pour-homme-eau-essentielle-eau-de-parfum-146526.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/4/3423222134815_1_30f8.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "perfume",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash de 24 h. Otros tamaños en la ficha.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 53.09
+    }
+   ]
+  },
+  {
+   "id": "primor-narciso-radiante-30",
+   "producto": "Narciso Radiante Eau de Parfum",
+   "marca": "Narciso Rodriguez",
+   "formato": "30 ml",
+   "tienda": "Primor",
+   "precio_actual": 42.92,
+   "precio_anterior": 83.0,
+   "descuento_pct": 48,
+   "enlace": "https://www.primor.eu/es_es/narciso-rodriguez-narciso-radiante-eau-de-parfum-127133.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/4/3423222121952_1_99c8.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "perfume",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash de 24 h. Otros tamaños en la ficha.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 42.92
+    }
+   ]
+  },
+  {
+   "id": "primor-zadig-30",
+   "producto": "Zadig Eau de Parfum recargable",
+   "marca": "Zadig & Voltaire",
+   "formato": "30 ml",
+   "tienda": "Primor",
+   "precio_actual": 38.13,
+   "precio_anterior": 74.0,
+   "descuento_pct": 48,
+   "enlace": "https://www.primor.eu/es_es/zadig-voltaire-zadig-eau-de-parfum-recargable-122097.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/4/3423222118976_1_9e69.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "perfume",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash de 24 h. Otros tamaños y recarga en la ficha.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 38.13
+    }
+   ]
+  },
+  {
+   "id": "primor-rich-girl-100",
+   "producto": "Rich Girl Eau de Toilette",
+   "marca": "Police",
+   "formato": "100 ml",
+   "tienda": "Primor",
+   "precio_actual": 26.6,
+   "precio_anterior": 62.0,
+   "descuento_pct": 57,
+   "enlace": "https://www.primor.eu/es_es/police-rich-girl-eau-de-toilette-127009.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/0/6/0679602001366_df13.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "comparador",
+   "grupo": "g-richgirl-100",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 26.6
+    }
+   ]
+  },
+  {
+   "id": "druni-rich-girl-100",
+   "producto": "Rich Girl Eau de Toilette",
+   "marca": "Police",
+   "formato": "100 ml",
+   "tienda": "Druni",
+   "precio_actual": 26.95,
+   "precio_anterior": 62.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/rich-girl-police-eau-toilette-mujer",
+   "imagen": "https://www.druni.es/media/catalog/product/1/6/1699956.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "comparador",
+   "grupo": "g-richgirl-100",
+   "motivo": null,
+   "ventaja": "Oferta flash «solo hoy».",
+   "fecha_limite": "2026-10-22",
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 26.95
+    }
+   ]
+  },
+  {
+   "id": "primor-drjart-lip-7",
+   "producto": "Ceramidin Bálsamo Labial Hidratante",
+   "marca": "Dr. Jart+",
+   "formato": "7 ml",
+   "tienda": "Primor",
+   "precio_actual": 9.52,
+   "precio_anterior": 16.0,
+   "descuento_pct": 40,
+   "enlace": "https://www.primor.eu/es_es/dr-jart-ceramidin-balsamo-labial-hidratante-122365.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/8/8/8809844997628_0_73fc.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "kbeauty",
+   "tipo": "comparador",
+   "grupo": "g-drjart-lip-7",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 9.52
+    }
+   ]
+  },
+  {
+   "id": "druni-drjart-lip-7",
+   "producto": "Ceramidin Lip Balm",
+   "marca": "Dr. Jart+",
+   "formato": "7 ml",
+   "tienda": "Druni",
+   "precio_actual": 9.95,
+   "precio_anterior": 16.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/ceramidin-lip-balm-dr-jart",
+   "imagen": "https://www.druni.es/media/catalog/product/5/0/5021909.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "kbeauty",
+   "tipo": "comparador",
+   "grupo": "g-drjart-lip-7",
+   "motivo": null,
+   "ventaja": "Oferta flash «solo hoy».",
+   "fecha_limite": "2026-10-22",
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 9.95
+    }
+   ]
+  },
+  {
+   "id": "druni-eucerin-dual-30",
+   "producto": "Anti-Pigment Dual Serum antimanchas",
+   "marca": "Eucerin",
+   "formato": "30 ml",
+   "tienda": "Druni",
+   "precio_actual": 44.95,
+   "precio_anterior": 46.65,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/anti-pigment-dual-serum-eucerin",
+   "imagen": "https://www.druni.es/media/catalog/product/5/7/5795032.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-eucerin-dual",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 44.95
+    }
+   ]
+  },
+  {
+   "id": "primor-eucerin-dual-30",
+   "producto": "Anti-Pigment Dual Serum antimanchas",
+   "marca": "Eucerin",
+   "formato": "30 ml",
+   "tienda": "Primor",
+   "precio_actual": 41.94,
+   "precio_anterior": 41.95,
+   "descuento_pct": null,
+   "enlace": "https://www.primor.eu/es_es/eucerin-anti-pigment-dual-serum-antimanchas-60861.html",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-eucerin-dual",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 41.94
+    }
+   ]
+  },
+  {
+   "id": "primor-chubby",
+   "producto": "Chubby Stick Maquillaje para Definir Contorno Facial",
+   "marca": "Clinique",
+   "formato": "según tono",
+   "tienda": "Primor",
+   "precio_actual": 18.9,
+   "precio_anterior": 37.5,
+   "descuento_pct": null,
+   "enlace": "https://www.primor.eu/es_es/clinique-chubby-stick-maquillaje-para-definir-140411.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/1/9/192333301708_1_ff58.webp",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "comparador",
+   "grupo": "g-chubby",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 18.9
+    }
+   ]
+  },
+  {
+   "id": "druni-chubby",
+   "producto": "Contorno Chubby Stick",
+   "marca": "Clinique",
+   "formato": "según tono",
+   "tienda": "Druni",
+   "precio_actual": 18.95,
+   "precio_anterior": 37.5,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/contorno-chubby-stick-clinique-maquillaje-para-definir",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "comparador",
+   "grupo": "g-chubby",
+   "motivo": null,
+   "ventaja": "Oferta flash «solo hoy».",
+   "fecha_limite": "2026-10-22",
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 18.95
+    }
+   ]
+  },
+  {
+   "id": "primor-wondersculpt",
+   "producto": "Gel de Cejas Wonder Sculpt",
+   "marca": "Clarins",
+   "formato": "según tono",
+   "tienda": "Primor",
+   "precio_actual": 12.9,
+   "precio_anterior": 28.0,
+   "descuento_pct": 54,
+   "enlace": "https://www.primor.eu/es_es/clarins-gel-de-cejas-wonder-sculpt-145450.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3666057427367_1_a064.webp",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "comparador",
+   "grupo": "g-wondersculpt",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 12.9
+    }
+   ]
+  },
+  {
+   "id": "druni-wondersculpt",
+   "producto": "Gel de Cejas Wonder Sculpt",
+   "marca": "Clarins",
+   "formato": "según tono",
+   "tienda": "Druni",
+   "precio_actual": 12.95,
+   "precio_anterior": 28.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/gel-de-cejas-wonder-sculpt-clarins-fijador-efecto-natural",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "comparador",
+   "grupo": "g-wondersculpt",
+   "motivo": null,
+   "ventaja": "Oferta flash «solo hoy».",
+   "fecha_limite": "2026-10-22",
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 12.95
+    }
+   ]
+  },
+  {
+   "id": "primor-touche",
+   "producto": "Touche Éclat Iluminador Facial",
+   "marca": "Yves Saint Laurent",
+   "formato": "según tono",
+   "tienda": "Primor",
+   "precio_actual": 21.9,
+   "precio_anterior": 45.0,
+   "descuento_pct": 51,
+   "enlace": "https://www.primor.eu/es_es/yves-saint-laurent-touche-eclat-iluminador-facial-109897.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/3/3365440007017_1_4be6.webp",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "comparador",
+   "grupo": "g-touche",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 21.9
+    }
+   ]
+  },
+  {
+   "id": "druni-touche",
+   "producto": "Touche Éclat Corrector e Iluminador",
+   "marca": "Yves Saint Laurent",
+   "formato": "según tono",
+   "tienda": "Druni",
+   "precio_actual": 21.95,
+   "precio_anterior": 45.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/touche-eclat-yves-saint-laurent-corrector-maquillaje-iluminador",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "comparador",
+   "grupo": "g-touche",
+   "motivo": null,
+   "ventaja": "Oferta flash «solo hoy».",
+   "fecha_limite": "2026-10-22",
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 21.95
+    }
+   ]
+  },
+  {
+   "id": "primor-lancaster365",
+   "producto": "365 Skin Repair Liposomal Cellular Serum",
+   "marca": "Lancaster",
+   "formato": "30 / 50 ml",
+   "tienda": "Primor",
+   "precio_actual": 39.9,
+   "precio_anterior": 87.0,
+   "descuento_pct": null,
+   "enlace": "https://www.primor.eu/es_es/lancaster-365-skin-repair-liposomal-cellular-serum-119447.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/M/A/MAIN_3616303470432_27e1.jpeg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-lancaster365",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 39.9
+    }
+   ]
+  },
+  {
+   "id": "druni-lancaster365",
+   "producto": "365 Skin Repair Liposomal Cellular Serum",
+   "marca": "Lancaster",
+   "formato": "30 / 50 ml",
+   "tienda": "Druni",
+   "precio_actual": 39.95,
+   "precio_anterior": 87.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/365-skin-repair-liposomal-cellular-serum-lancaster-serum-reparador",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-lancaster365",
+   "motivo": null,
+   "ventaja": "Oferta flash «solo hoy».",
+   "fecha_limite": "2026-10-22",
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 39.95
+    }
+   ]
+  },
+  {
+   "id": "druni-doublewear-1ud",
+   "producto": "Double Wear Smooth & Blur Primer",
+   "marca": "Estée Lauder",
+   "formato": "1 ud (tamaño no indicado)",
+   "tienda": "Druni",
+   "precio_actual": 26.95,
+   "precio_anterior": 50.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/double-wear-smooth-blur-primer-estee-lauder",
+   "imagen": "https://www.druni.es/media/catalog/product/3/7/3731504.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "comparador",
+   "grupo": "g-doublewear",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": "2026-10-22",
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 26.95
+    }
+   ]
+  },
+  {
+   "id": "primor-doublewear-40ml",
+   "producto": "Double Wear Smooth & Blur Primer",
+   "marca": "Estée Lauder",
+   "formato": "40 ml",
+   "tienda": "Primor",
+   "precio_actual": 26.9,
+   "precio_anterior": 50.0,
+   "descuento_pct": null,
+   "enlace": "https://www.primor.eu/es_es/estee-lauder-double-wear-smooth-blur-primer-99667.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/8/8/887167677036_1_bb12.webp",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "comparador",
+   "grupo": "g-doublewear",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 26.9
     }
    ]
   },
@@ -70,8 +912,9 @@
    "precio_anterior": 65.9,
    "descuento_pct": null,
    "enlace": "https://www.druni.es/avene-hyaluron-activ-procedure-serum-peeling-avene-serum-facial-rejuvenecedor",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
+   "imagen": "https://www.druni.es/media/catalog/product/5/8/5812365.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "comparador",
    "grupo": "g-avene-peeling",
@@ -97,8 +940,9 @@
    "precio_anterior": 21.99,
    "descuento_pct": null,
    "enlace": "https://www.druni.es/aqua-intense-rilastil-gel-crema-hidratante-pieles-deshidratadas",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
+   "imagen": "https://www.druni.es/media/catalog/product/5/7/5796767.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "comparador",
    "grupo": "g-rilastil-aqua",
@@ -115,56 +959,86 @@
    ]
   },
   {
-   "id": "druni-doublewear-1ud",
-   "producto": "Double Wear Smooth & Blur Primer",
-   "marca": "Estée Lauder",
-   "formato": "1 ud (tamaño no indicado)",
+   "id": "druni-nubiance-500",
+   "producto": "Anti Dark-Spot Body Lotion leche corporal unificante",
+   "marca": "Nubiance",
+   "formato": "500 ml",
    "tienda": "Druni",
-   "precio_actual": 26.95,
-   "precio_anterior": 50.0,
+   "precio_actual": 31.2,
+   "precio_anterior": 39.0,
    "descuento_pct": null,
-   "enlace": "https://www.druni.es/double-wear-smooth-blur-primer-estee-lauder",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
-   "categoria": "maquillaje",
+   "enlace": "https://www.druni.es/anti-dark-spot-body-nubiance-leche-corporal-unificante",
+   "imagen": "https://www.druni.es/media/catalog/product/5/0/5023742.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
    "tipo": "comparador",
-   "grupo": "g-doublewear",
+   "grupo": "g-nubiance",
    "motivo": null,
-   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda.",
+   "ventaja": null,
    "fecha_limite": null,
    "precio_desde": false,
    "ejemplo": false,
    "historial": [
     {
      "fecha": "2026-10-22",
-     "precio": 26.95
+     "precio": 31.2
     }
    ]
   },
   {
-   "id": "primor-doublewear-40ml",
-   "producto": "Double Wear Smooth & Blur Primer",
-   "marca": "Estée Lauder",
-   "formato": "40 ml",
-   "tienda": "Primor",
-   "precio_actual": 26.9,
-   "precio_anterior": 50.0,
+   "id": "druni-boj-relief-sun-50",
+   "producto": "Relief Sun Aqua Fresh Rice SPF50+",
+   "marca": "Beauty of Joseon",
+   "formato": "50 ml",
+   "tienda": "Druni",
+   "precio_actual": 14.74,
+   "precio_anterior": 16.95,
    "descuento_pct": null,
-   "enlace": "https://www.primor.eu/es_es/estee-lauder-double-wear-smooth-blur-primer-99667.html",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
-   "categoria": "maquillaje",
-   "tipo": "comparador",
-   "grupo": "g-doublewear",
-   "motivo": null,
-   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda.",
+   "enlace": "https://www.druni.es/relief-sun-aqua-fresh-rice-beauty-of-joseon-protector-solar-spf-50",
+   "imagen": "https://www.druni.es/media/catalog/product/1/4/1467743.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "kbeauty",
+   "tipo": "kbeauty",
+   "grupo": null,
+   "motivo": "En la sección «Virales TikTok» de Druni (59 valoraciones).",
+   "ventaja": null,
    "fecha_limite": null,
    "precio_desde": false,
    "ejemplo": false,
    "historial": [
     {
      "fecha": "2026-10-22",
-     "precio": 26.9
+     "precio": 14.74
+    }
+   ]
+  },
+  {
+   "id": "druni-boj-rice-probiotics-50",
+   "producto": "Rice + Probiotics protector solar orgánico SPF50+",
+   "marca": "Beauty of Joseon",
+   "formato": "50 ml",
+   "tienda": "Druni",
+   "precio_actual": 14.95,
+   "precio_anterior": null,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/rice-probiotics-beauty-of-joseon-protector-solar-organico",
+   "imagen": "https://www.druni.es/media/catalog/product/1/4/1467068.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "kbeauty",
+   "tipo": "kbeauty",
+   "grupo": null,
+   "motivo": "En la sección «Virales TikTok» de Druni (77 valoraciones).",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 14.95
     }
    ]
   },
@@ -178,8 +1052,9 @@
    "precio_anterior": 39.0,
    "descuento_pct": null,
    "enlace": "https://www.druni.es/ceramidintm-serum-hidratante-reparador-de-la-barrera-cutanea-30ml-dr-jart-serum-reparador",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
+   "imagen": "https://www.druni.es/media/catalog/product/5/0/5023807.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
    "categoria": "kbeauty",
    "tipo": "kbeauty",
    "grupo": null,
@@ -196,191 +1071,422 @@
    ]
   },
   {
-   "id": "druni-eucerin-dual-30",
-   "producto": "Anti-Pigment Dual Serum antimanchas",
-   "marca": "Eucerin",
-   "formato": "30 ml",
+   "id": "druni-ordinary-niacinamide",
+   "producto": "Niacinamide 10% + Zinc 1%",
+   "marca": "The Ordinary",
+   "formato": "30 / 60 / 120 ml",
    "tienda": "Druni",
-   "precio_actual": 44.95,
-   "precio_anterior": 46.65,
+   "precio_actual": 6.0,
+   "precio_anterior": null,
    "descuento_pct": null,
-   "enlace": "https://www.druni.es/anti-pigment-dual-serum-eucerin",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
+   "enlace": "https://www.druni.es/niacinamide-10-zinc-1-the-ordinary-formula-antienrojecimiento",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
-   "tipo": "comparador",
-   "grupo": "g-eucerin-dual",
-   "motivo": null,
-   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda.",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "En la sección «Virales TikTok» de Druni (1.888 valoraciones).",
+   "ventaja": null,
    "fecha_limite": null,
-   "precio_desde": false,
+   "precio_desde": true,
    "ejemplo": false,
    "historial": [
     {
      "fecha": "2026-10-22",
-     "precio": 44.95
+     "precio": 6.0
     }
    ]
   },
   {
-   "id": "primor-eucerin-dual-30",
-   "producto": "Anti-Pigment Dual Serum antimanchas",
-   "marca": "Eucerin",
-   "formato": "30 ml",
-   "tienda": "Primor",
-   "precio_actual": 41.94,
-   "precio_anterior": 41.95,
-   "descuento_pct": null,
-   "enlace": "https://www.primor.eu/es_es/eucerin-anti-pigment-dual-serum-antimanchas-60861.html",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
-   "categoria": "cuidado-piel",
-   "tipo": "comparador",
-   "grupo": "g-eucerin-dual",
-   "motivo": null,
-   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda.",
-   "fecha_limite": null,
-   "precio_desde": false,
-   "ejemplo": false,
-   "historial": [
-    {
-     "fecha": "2026-10-22",
-     "precio": 41.94
-    }
-   ]
-  },
-  {
-   "id": "druni-nubiance-500",
-   "producto": "Anti Dark-Spot Body Lotion leche corporal unificante",
-   "marca": "Nubiance",
-   "formato": "500 ml",
+   "id": "druni-cerave-gel-espumoso",
+   "producto": "Gel Limpiador Espumoso piel normal a grasa",
+   "marca": "CeraVe",
+   "formato": "236 / 473 ml",
    "tienda": "Druni",
-   "precio_actual": 31.2,
-   "precio_anterior": 39.0,
+   "precio_actual": 8.98,
+   "precio_anterior": 11.2,
    "descuento_pct": null,
-   "enlace": "https://www.druni.es/anti-dark-spot-body-nubiance-leche-corporal-unificante",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
+   "enlace": "https://www.druni.es/gel-limpiador-espumoso-cerave-piel-normal-grasa",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
-   "tipo": "comparador",
-   "grupo": "g-nubiance",
-   "motivo": null,
-   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda.",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "En la sección «Virales TikTok» de Druni (615 valoraciones).",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 8.98
+    }
+   ]
+  },
+  {
+   "id": "druni-lrp-cicaplast-b5",
+   "producto": "Cicaplast Baume B5+",
+   "marca": "La Roche-Posay",
+   "formato": "40 / 100 ml",
+   "tienda": "Druni",
+   "precio_actual": 9.95,
+   "precio_anterior": 14.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/cicaplast-baume-b5-la-roche-posay-balsamo-reparador-calmante",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "En la sección «Virales TikTok» de Druni (292 valoraciones).",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 9.95
+    }
+   ]
+  },
+  {
+   "id": "druni-babaria-cebolla-700",
+   "producto": "Champú Extracto de Cebolla",
+   "marca": "Babaria",
+   "formato": "700 ml",
+   "tienda": "Druni",
+   "precio_actual": 2.99,
+   "precio_anterior": null,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/champu-extracto-cebolla-babaria-antioxidante-estimulante",
+   "imagen": "https://www.druni.es/media/catalog/product/1/3/1306624.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cabello",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "En la sección «Virales TikTok» de Druni (173 valoraciones).",
+   "ventaja": "Promoción «2ª al 50 %» según Druni.",
    "fecha_limite": null,
    "precio_desde": false,
    "ejemplo": false,
    "historial": [
     {
      "fecha": "2026-10-22",
-     "precio": 31.2
+     "precio": 2.99
     }
    ]
   },
   {
-   "id": "primor-wondersculpt-clear-5",
-   "producto": "Gel de cejas Wonder Sculpt Clear",
-   "marca": "Clarins",
-   "formato": "5 ml",
-   "tienda": "Primor",
-   "precio_actual": 13.43,
-   "precio_anterior": 28.0,
+   "id": "druni-kerastase-kgenesis",
+   "producto": "K Genesis Sérum Anti-Chute Fortifiant",
+   "marca": "Kérastase",
+   "formato": "30 / 90 ml",
+   "tienda": "Druni",
+   "precio_actual": 22.99,
+   "precio_anterior": null,
    "descuento_pct": null,
-   "enlace": "https://www.primor.eu/es_es/clarins-gel-de-cejas-wonder-sculpt-clear-145423.html",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
+   "enlace": "https://www.druni.es/k-genesis-serum-anti-chute-fortifiant-kerastase-serum-anti-caida-cabello-debilitado",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cabello",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "En la sección «Virales TikTok» de Druni (160 valoraciones).",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 22.99
+    }
+   ]
+  },
+  {
+   "id": "druni-ziaja-cabra-200",
+   "producto": "Leche de Cabra Mascarilla capilar",
+   "marca": "Ziaja",
+   "formato": "200 ml",
+   "tienda": "Druni",
+   "precio_actual": 2.89,
+   "precio_anterior": null,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/leche-cabra-mascarilla-ziaja-capilar",
+   "imagen": "https://www.druni.es/media/catalog/product/1/3/1309134.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cabello",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "En la sección «Virales TikTok» de Druni (115 valoraciones).",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 2.89
+    }
+   ]
+  },
+  {
+   "id": "druni-lancome-lashidole",
+   "producto": "Lash Idôle Mascara volumen",
+   "marca": "Lancôme",
+   "formato": "según versión",
+   "tienda": "Druni",
+   "precio_actual": 18.95,
+   "precio_anterior": 40.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/lash-idole-mascara-lancome-pestanas-volumen",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
    "categoria": "maquillaje",
-   "tipo": "flash",
+   "tipo": "viral",
    "grupo": null,
-   "motivo": null,
-   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda. Oferta flash de 24 h.",
+   "motivo": "En la sección «Virales TikTok» de Druni (54 valoraciones).",
+   "ventaja": null,
    "fecha_limite": null,
-   "precio_desde": false,
+   "precio_desde": true,
    "ejemplo": false,
    "historial": [
     {
      "fecha": "2026-10-22",
-     "precio": 13.43
+     "precio": 18.95
     }
    ]
   },
   {
-   "id": "primor-guerlain-abeille-150",
-   "producto": "Abeille Royale Loción Fortificante con Jalea Real",
-   "marca": "Guerlain",
-   "formato": "150 ml",
-   "tienda": "Primor",
-   "precio_actual": 36.09,
-   "precio_anterior": 88.05,
+   "id": "druni-revitalift-vitc-30",
+   "producto": "Revitalift Clinical Sérum 12% Vitamina C",
+   "marca": "L'Oréal Paris",
+   "formato": "30 ml",
+   "tienda": "Druni",
+   "precio_actual": 18.49,
+   "precio_anterior": 23.9,
    "descuento_pct": null,
-   "enlace": "https://www.primor.eu/es_es/guerlain-abeille-royale-locion-fortificante-con-jalea-real-14253.html",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
+   "enlace": "https://www.druni.es/revitalift-clinical-serum-12-vitamin-c-loreal-paris",
+   "imagen": "https://www.druni.es/media/catalog/product/1/4/1462530.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
-   "tipo": "flash",
+   "tipo": "viral",
    "grupo": null,
-   "motivo": null,
-   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda. El listado de ofertas flash mostraba 43,99 €; aquí va el precio de la ficha (36,09 €, -59% según la tienda).",
+   "motivo": "En la sección «Virales TikTok» de Druni (45 valoraciones).",
+   "ventaja": null,
    "fecha_limite": null,
    "precio_desde": false,
    "ejemplo": false,
    "historial": [
     {
      "fecha": "2026-10-22",
-     "precio": 36.09
+     "precio": 18.49
     }
    ]
   },
   {
-   "id": "primor-clarins-serumv-50",
-   "producto": "Serum V Shaping Facial Lift",
-   "marca": "Clarins",
-   "formato": "50 ml",
-   "tienda": "Primor",
-   "precio_actual": 42.18,
-   "precio_anterior": 95.0,
+   "id": "druni-liposan-cherry",
+   "producto": "Cherry Shine bálsamo labial",
+   "marca": "Liposan",
+   "formato": "1 ud",
+   "tienda": "Druni",
+   "precio_actual": 2.99,
+   "precio_anterior": null,
    "descuento_pct": null,
-   "enlace": "https://www.primor.eu/es_es/clarins-serum-v-shaping-facial-lift-contorno-perfecto-15809.html",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
-   "categoria": "cuidado-piel",
-   "tipo": "flash",
+   "enlace": "https://www.druni.es/cherry-shine-liposan-balsamo-labial",
+   "imagen": "https://www.druni.es/media/catalog/product/1/4/1452281.jpg",
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "viral",
    "grupo": null,
-   "motivo": null,
-   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda. El listado mostraba 56,99 €; aquí va el precio de la ficha.",
+   "motivo": "En la sección «Virales TikTok» de Druni (50 valoraciones).",
+   "ventaja": null,
    "fecha_limite": null,
    "precio_desde": false,
    "ejemplo": false,
    "historial": [
     {
      "fecha": "2026-10-22",
-     "precio": 42.18
+     "precio": 2.99
     }
    ]
   },
   {
-   "id": "primor-drjart-lipbalm-7",
-   "producto": "Ceramidin Bálsamo Labial Hidratante",
-   "marca": "Dr. Jart+",
-   "formato": "7 ml",
-   "tienda": "Primor",
-   "precio_actual": 9.52,
-   "precio_anterior": 16.0,
+   "id": "druni-rimmel-bronzer",
+   "producto": "Natural Bronzer polvo bronceador",
+   "marca": "Rimmel",
+   "formato": "según tono",
+   "tienda": "Druni",
+   "precio_actual": 6.5,
+   "precio_anterior": 7.99,
    "descuento_pct": null,
-   "enlace": "https://www.primor.eu/es_es/dr-jart-ceramidin-balsamo-labial-hidratante-122365.html",
-   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
-   "disponibilidad": "no confirmada",
-   "categoria": "kbeauty",
-   "tipo": "kbeauty",
+   "enlace": "https://www.druni.es/natural-bronzer-rimmel-polvos-bronceadores",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "viral",
    "grupo": null,
-   "motivo": null,
-   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda.",
+   "motivo": "En la sección «Virales TikTok» de Druni (92 valoraciones).",
+   "ventaja": null,
    "fecha_limite": null,
-   "precio_desde": false,
+   "precio_desde": true,
    "ejemplo": false,
    "historial": [
     {
      "fecha": "2026-10-22",
-     "precio": 9.52
+     "precio": 6.5
+    }
+   ]
+  },
+  {
+   "id": "druni-mac-lippencil",
+   "producto": "Lip Pencil lápiz de labios",
+   "marca": "MAC",
+   "formato": "según tono",
+   "tienda": "Druni",
+   "precio_actual": 19.9,
+   "precio_anterior": 27.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/lip-pencil-mac-cosmetics-lapiz-labios",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "En la sección «Virales TikTok» de Druni (14 valoraciones).",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 19.9
+    }
+   ]
+  },
+  {
+   "id": "druni-itcosmetics-cc",
+   "producto": "CC+ Cream Full-Coverage SPF 50+",
+   "marca": "IT Cosmetics",
+   "formato": "según tono",
+   "tienda": "Druni",
+   "precio_actual": 31.85,
+   "precio_anterior": 49.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/cc-cream-full-coverage-foundation-with-spf-50-it-cosmetics-base-maquillaje-cobertura-total",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "En la sección «Virales TikTok» de Druni (154 valoraciones).",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 31.85
+    }
+   ]
+  },
+  {
+   "id": "druni-nyx-buttermelt",
+   "producto": "Buttermelt Blush colorete",
+   "marca": "NYX Professional Makeup",
+   "formato": "según tono",
+   "tienda": "Druni",
+   "precio_actual": 8.75,
+   "precio_anterior": 11.95,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/buttermelt-blush-nyx-professional-make-up-colorete-polvo",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "En la sección «Virales TikTok» de Druni (54 valoraciones).",
+   "ventaja": "Promoción «2ª al 50 %» según Druni.",
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 8.75
+    }
+   ]
+  },
+  {
+   "id": "druni-nars-concealer",
+   "producto": "Radiant Creamy Concealer",
+   "marca": "NARS",
+   "formato": "según tono",
+   "tienda": "Druni",
+   "precio_actual": 28.0,
+   "precio_anterior": 35.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/radiant-creamy-concealer-nars-corrector-multiusos",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "En la sección «Virales TikTok» de Druni (16 valoraciones).",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 28.0
+    }
+   ]
+  },
+  {
+   "id": "druni-sheglam-colorbloom",
+   "producto": "Color Bloom Mate colorete líquido",
+   "marca": "SHEGLAM",
+   "formato": "según tono",
+   "tienda": "Druni",
+   "precio_actual": 6.49,
+   "precio_anterior": null,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/color-bloom-mate-sheglam-colorete-liquido",
+   "imagen": null,
+   "fecha_verificacion": "2026-10-22T16:20:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "En la sección «Virales TikTok» de Druni (4 valoraciones).",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 6.49
     }
    ]
   },
@@ -409,7 +1515,8 @@
      "fecha": "2026-10-22",
      "precio": 17.99
     }
-   ]
+   ],
+   "imagen": null
   },
   {
    "id": "zara-pantalon-fluido-pliegues",
@@ -436,7 +1543,8 @@
      "fecha": "2026-10-22",
      "precio": 12.99
     }
-   ]
+   ],
+   "imagen": null
   },
   {
    "id": "mango-vestido-punto-cuello-pico",
@@ -463,7 +1571,8 @@
      "fecha": "2026-10-22",
      "precio": 19.99
     }
-   ]
+   ],
+   "imagen": null
   },
   {
    "id": "mango-pantalon-lyocell-bombacho",
@@ -490,7 +1599,8 @@
      "fecha": "2026-10-22",
      "precio": 19.99
     }
-   ]
+   ],
+   "imagen": null
   },
   {
    "id": "bershka-pantalon-slim-tiro-bajo",
@@ -517,7 +1627,8 @@
      "fecha": "2026-10-22",
      "precio": 12.99
     }
-   ]
+   ],
+   "imagen": null
   },
   {
    "id": "hm-falda-saten-bajo-encaje",
@@ -544,7 +1655,8 @@
      "fecha": "2026-10-22",
      "precio": 25.99
     }
-   ]
+   ],
+   "imagen": null
   }
  ]
 }

@@ -89,22 +89,25 @@
   {
    "nombre": "Primor",
    "grupo": "base",
-   "acceso": "lectura",
+   "acceso": "navegador",
    "urls": [
     "https://www.primor.eu/es_es/ofertas-flash",
     "https://www.primor.eu/es_es/regalos-por-compra",
     "https://www.primor.eu/es_es/promociones-activas",
     "https://www.primor.eu/es_es/rebajas"
-   ]
+   ],
+   "nota": "En el navegador integrado el listado muestra «Añadir al carrito» y la ficha trae disponibilidad InStock y precios por tamaño (optionPrices). Envío gratis desde 25 €. Los «Agotado» de WebFetch eran un fallo de lectura."
   },
   {
    "nombre": "Druni",
    "grupo": "base",
-   "acceso": "lectura",
+   "acceso": "navegador",
    "urls": [
     "https://www.druni.es/ofertas-flash",
+    "https://www.druni.es/virales-tiktok",
     "https://www.druni.es/promociones"
-   ]
+   ],
+   "nota": "En el navegador integrado cada ficha trae datos estructurados (precio, stock InStock, imagen). Envío gratis desde 20 €. Los «No está disponible» leídos por WebFetch eran un fallo de lectura."
   },
   {
    "nombre": "Sephora",
