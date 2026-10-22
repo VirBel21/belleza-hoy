@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ofertas de belleza hoy · Comparador de precios</title>
+<meta name="description" content="Comparador de precios y ofertas diarias de belleza, K-beauty y moda en España.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Saltar al contenido</a>
+
+<header class="top">
+  <div class="wrap top-row">
+    <strong class="brand"><i aria-hidden="true"></i>Belleza<span>Hoy</span></strong>
+    <nav aria-label="Secciones" class="nav">
+      <a href="#main">Buscar</a><a href="#flash">Flash</a><a href="#comparador">Comparador</a><a href="#kbeauty">K-beauty</a>
+      <a href="#moda">Moda</a><a href="#virales">Virales</a><a href="#calendario">Calendario</a>
+    </nav>
+    <button id="theme" class="btn ghost" type="button" aria-label="Cambiar modo claro u oscuro">◐</button>
+  </div>
+</header>
+
+<main id="main" class="wrap">
+  <div id="example-banner" class="notice warn" hidden>
+    <strong>Datos de ejemplo.</strong> Todos los productos y precios de esta versión son ficticios y llevan la etiqueta «EJEMPLO». No los uses para comprar.
+  </div>
+
+  <section class="hero" aria-labelledby="h-hero">
+    <h1 id="h-hero">Qué merece la pena comprar hoy</h1>
+    <p class="muted" id="updated">Cargando…</p>
+    <div class="search" role="search">
+      <label class="sr-only" for="q">Buscar marca, producto o tienda</label>
+      <input id="q" type="search" autocomplete="off" placeholder="Busca marca, producto o tienda">
+      <div id="chips" class="chips" aria-label="Marcas disponibles"></div>
+      <p id="q-count" class="muted small" aria-live="polite"></p>
+    </div>
+    <div class="hero-grid">
+      <div class="countdown" aria-live="polite">
+        <span class="muted small">Próximo evento</span>
+        <strong id="cd-name">—</strong>
+        <span id="cd-time" class="cd-time">—</span>
+      </div>
+      <div id="key-day" class="notice" hidden></div>
+    </div>
+    <div class="actions">
+      <button id="share" class="btn" type="button">Compartir informe del día</button>
+      <button id="dl-report" class="btn ghost" type="button">Descargar informe (.txt)</button>
+      <a class="btn ghost" id="admin-link" href="admin.html" hidden>Panel de datos</a>
+    </div>
+  </section>
+
+  <section class="filters" aria-label="Filtros">
+    <label>Categoría<select id="f-cat"><option value="">Todas</option></select></label>
+    <label>Tienda<select id="f-store"><option value="">Todas</option></select></label>
+    <label>Marca<select id="f-brand"><option value="">Todas</option></select></label>
+    <label>Descuento mínimo<select id="f-pct">
+      <option value="0">Cualquiera</option><option value="10">≥ 10 %</option><option value="20">≥ 20 %</option>
+      <option value="30">≥ 30 %</option><option value="50">≥ 50 %</option></select></label>
+    <label class="check"><input type="checkbox" id="f-watch"> Solo mi lista</label>
+    <button id="f-reset" class="btn ghost" type="button">Quitar filtros</button>
+  </section>
+
+  <section id="flash" aria-labelledby="h-flash">
+    <h2 id="h-flash">Alertas flash y mayores descuentos</h2>
+    <div id="flash-out"></div>
+  </section>
+
+  <section id="comparador" aria-labelledby="h-cmp">
+    <h2 id="h-cmp">Comparador entre tiendas</h2>
+    <p class="muted small">Solo se comparan productos con el mismo formato. Si hay una sola tienda, lo decimos.</p>
+    <div id="cmp-out"></div>
+  </section>
+
+  <section id="kbeauty" aria-labelledby="h-kb">
+    <h2 id="h-kb">K-beauty <span class="muted small">(máx. 5)</span></h2>
+    <div id="kb-out"></div>
+  </section>
+
+  <section id="moda" aria-labelledby="h-moda">
+    <h2 id="h-moda">Moda <span class="muted small">(máx. 6)</span></h2>
+    <div id="moda-out"></div>
+  </section>
+
+  <section id="virales" aria-labelledby="h-vir">
+    <h2 id="h-vir">Otros virales <span class="muted small">(máx. 5)</span></h2>
+    <div id="vir-out"></div>
+  </section>
+
+  <section id="calendario" aria-labelledby="h-cal">
+    <h2 id="h-cal">Calendario de campañas</h2>
+    <ul id="cal-out" class="cal"></ul>
+  </section>
+
+  <section id="watchlist" aria-labelledby="h-wl">
+    <h2 id="h-wl">Mi lista de seguimiento</h2>
+    <div id="wl-out"></div>
+  </section>
+</main>
+
+<footer class="wrap foot">
+  <p><strong>Aviso:</strong> los precios pueden cambiar en cualquier momento. Confirma siempre el precio, el formato y la disponibilidad en la tienda antes de comprar. Precios en euros con IVA incluido.</p>
+  <p id="aff-note">Esta web no usa enlaces de afiliado.</p>
+  <p class="muted small">Esta web es independiente y no está afiliada a ninguna de las marcas ni tiendas citadas. Las imágenes de producto solo se muestran si proceden de la tienda enlazada.</p>
+</footer>
+
+<div id="toast" role="status" aria-live="polite" class="toast" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>

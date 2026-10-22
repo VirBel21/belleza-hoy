@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Panel de datos · Belleza Hoy</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main class="wrap">
+  <h1>Panel de datos</h1>
+  <p class="muted">Añade o corrige precios, pega JSON y descarga <code>productos.json</code> para subirlo a <code>data/</code>. Los cambios se guardan como borrador en este navegador hasta que descargues el archivo. <a href="index.html">← Volver a la web</a></p>
+
+  <section class="panel" aria-labelledby="a1">
+    <h2 id="a1" style="margin-top:0">Añadir o actualizar un precio</h2>
+    <form id="f" class="form">
+      <label class="wide">Producto<input name="producto" required></label>
+      <label>Marca<input name="marca" required></label>
+      <label>Formato (ml/g)<input name="formato" required placeholder="30 ml"></label>
+      <label>Tienda<select name="tienda" id="tienda"></select></label>
+      <label>Categoría<select name="categoria" id="categoria"></select></label>
+      <label>Sección<select name="tipo"><option value="flash">Flash</option><option value="comparador">Comparador</option><option value="kbeauty">K-beauty</option><option value="moda">Moda</option><option value="viral">Viral</option></select></label>
+      <label>Grupo comparador<input name="grupo" placeholder="g-niacinamida"></label>
+      <label>Precio actual (€)<input name="precio_actual" type="number" step="0.01" min="0" required></label>
+      <label>Precio anterior (€)<input name="precio_anterior" type="number" step="0.01" min="0"></label>
+      <label>% que muestra la tienda<input name="descuento_pct" type="number" min="0" max="100" placeholder="vacío = calcular"></label>
+      <label>Disponibilidad<select name="disponibilidad"><option>disponible</option><option>no disponible</option></select></label>
+      <label>Fecha límite<input name="fecha_limite" type="date"></label>
+      <label class="wide">Enlace directo a la ficha<input name="enlace" type="url" placeholder="https://…"></label>
+      <label class="wide">Motivo viral / ventaja o código<input name="motivo"></label>
+      <label style="flex-direction:row;align-items:center"><input type="checkbox" name="precio_desde"> Precio «desde»</label>
+      <label style="flex-direction:row;align-items:center"><input type="checkbox" name="ejemplo"> Es un dato de ejemplo</label>
+      <div class="wide"><button class="btn" type="submit">Guardar en borrador</button></div>
+    </form>
+    <p class="muted small">Se registra la fecha y hora actual como verificación. Si el producto ya existe (misma tienda, producto y formato), el precio anterior pasa al historial.</p>
+  </section>
+
+  <section class="panel" aria-labelledby="a2">
+    <h2 id="a2" style="margin-top:0">Productos (<span id="n">0</span>)</h2>
+    <div class="actions">
+      <button id="dl-json" class="btn" type="button">Descargar productos.json</button>
+      <button id="dl-csv" class="btn ghost" type="button">Descargar CSV</button>
+      <button id="reset" class="btn ghost" type="button">Descartar borrador</button>
+    </div>
+    <div class="tbl"><table><thead><tr><th>Producto</th><th>Tienda</th><th>Precio</th><th>Fecha</th><th></th></tr></thead><tbody id="rows"></tbody></table></div>
+  </section>
+
+  <section class="panel" aria-labelledby="a3">
+    <h2 id="a3" style="margin-top:0">Pegar JSON (importar)</h2>
+    <p class="muted small">Pega un array de productos o un archivo completo. Se añaden/actualizan por <code>id</code>.</p>
+    <textarea id="paste" aria-label="JSON a importar"></textarea>
+    <p><button id="imp" class="btn ghost" type="button">Importar</button></p>
+  </section>
+
+  <section class="panel" aria-labelledby="a4">
+    <h2 id="a4" style="margin-top:0">URLs fijas de cada tienda</h2>
+    <p class="muted small">Se guardan en <code>data/config.json</code>. Una URL por línea (listados de ofertas o fichas). Descarga el archivo y sustitúyelo.</p>
+    <div id="stores"></div>
+    <p><button id="dl-cfg" class="btn" type="button">Descargar config.json</button></p>
+  </section>
+</main>
+<div id="toast" role="status" class="toast" hidden></div>
+<script src="admin.js"></script>
+</body>
+</html>
