@@ -62,6 +62,7 @@ function card(p, opts = {}) {
       ${d.v ? `<span class="pct" title="${d.calc ? "Cálculo propio" : "Dato de la tienda"}">−${d.v}%${d.calc ? "*" : ""}</span>` : ""}
     </div>
     ${d.calc ? '<div class="meta">* % calculado por nosotros.</div>' : ""}
+    ${p.valoracion && p.valoracion.n >= 5 ? `<div class="rating" title="Valoración de los clientes de ${esc(p.valoracion.fuente)}, no nuestra"><span aria-hidden="true">★</span> <strong>${String(p.valoracion.nota).replace(".", ",")}</strong> <span class="meta">(${p.valoracion.n.toLocaleString("es-ES")} valoraciones en ${esc(p.valoracion.fuente)})</span></div>` : ""}
     ${p.motivo ? `<p class="meta"><strong>Por qué suena:</strong> ${esc(p.motivo)}</p>` : ""}
     ${p.ventaja ? `<p class="meta"><strong>Ventaja:</strong> ${esc(p.ventaja)}</p>` : ""}
     ${p.fecha_limite ? `<div class="meta">Hasta el ${fday(p.fecha_limite)}</div>` : ""}

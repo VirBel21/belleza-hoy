@@ -120,3 +120,5 @@ textarea{width:100%;min-height:120px;font-family:ui-monospace,monospace;font-siz
 .segbtn{font:inherit;font-size:.9rem;font-weight:600;border:0;background:transparent;color:var(--muted);padding:8px 16px;border-radius:999px;cursor:pointer;white-space:nowrap;min-height:40px}
 .segbtn[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
 [hidden]{display:none!important}
+
+.rating{font-size:.9rem}.rating span:first-child{color:#f5a623}
