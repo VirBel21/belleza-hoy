@@ -88,7 +88,12 @@
      "fecha": "2026-10-22",
      "precio": 24.95
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.8,
+    "n": 10,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "primor-wondersculpt-clear-5",
@@ -172,7 +177,12 @@
      "fecha": "2026-10-22",
      "precio": 60.5
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.3,
+    "n": 28,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "primor-rich-girl-30",
@@ -228,7 +238,12 @@
      "fecha": "2026-10-22",
      "precio": 36.95
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.6,
+    "n": 105,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-mercedes-air-100",
@@ -284,7 +299,12 @@
      "fecha": "2026-10-22",
      "precio": 29.95
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.3,
+    "n": 4,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "primor-montblanc-legendblue-set",
@@ -564,7 +584,12 @@
      "fecha": "2026-10-22",
      "precio": 9.95
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 5,
+    "n": 1,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-eucerin-dual-30",
@@ -592,7 +617,12 @@
      "fecha": "2026-10-22",
      "precio": 44.95
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.7,
+    "n": 60,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "primor-eucerin-dual-30",
@@ -676,7 +706,12 @@
      "fecha": "2026-10-22",
      "precio": 18.95
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 5,
+    "n": 1,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "primor-wondersculpt",
@@ -732,7 +767,12 @@
      "fecha": "2026-10-22",
      "precio": 12.95
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 5,
+    "n": 1,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "primor-touche",
@@ -788,7 +828,12 @@
      "fecha": "2026-10-22",
      "precio": 21.95
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.8,
+    "n": 481,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "primor-lancaster365",
@@ -844,7 +889,12 @@
      "fecha": "2026-10-22",
      "precio": 39.95
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 5,
+    "n": 1,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-doublewear-1ud",
@@ -872,7 +922,12 @@
      "fecha": "2026-10-22",
      "precio": 26.95
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 5,
+    "n": 1,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "primor-doublewear-40ml",
@@ -956,7 +1011,12 @@
      "fecha": "2026-10-22",
      "precio": 17.25
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.6,
+    "n": 21,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-nubiance-500",
@@ -1012,7 +1072,12 @@
      "fecha": "2026-10-22",
      "precio": 14.74
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.7,
+    "n": 59,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-boj-rice-probiotics-50",
@@ -1040,7 +1105,12 @@
      "fecha": "2026-10-22",
      "precio": 14.95
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.8,
+    "n": 77,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-ceramidin-30ml",
@@ -1096,7 +1166,12 @@
      "fecha": "2026-10-22",
      "precio": 6.0
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.7,
+    "n": 1888,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-cerave-gel-espumoso",
@@ -1124,7 +1199,12 @@
      "fecha": "2026-10-22",
      "precio": 8.98
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.8,
+    "n": 615,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-lrp-cicaplast-b5",
@@ -1152,7 +1232,12 @@
      "fecha": "2026-10-22",
      "precio": 9.95
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.8,
+    "n": 292,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-babaria-cebolla-700",
@@ -1180,7 +1265,12 @@
      "fecha": "2026-10-22",
      "precio": 2.99
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.6,
+    "n": 173,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-kerastase-kgenesis",
@@ -1208,7 +1298,12 @@
      "fecha": "2026-10-22",
      "precio": 22.99
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.7,
+    "n": 160,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-ziaja-cabra-200",
@@ -1236,7 +1331,12 @@
      "fecha": "2026-10-22",
      "precio": 2.89
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.5,
+    "n": 115,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-lancome-lashidole",
@@ -1264,7 +1364,12 @@
      "fecha": "2026-10-22",
      "precio": 18.95
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.8,
+    "n": 54,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-revitalift-vitc-30",
@@ -1292,7 +1397,12 @@
      "fecha": "2026-10-22",
      "precio": 18.49
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.4,
+    "n": 45,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-liposan-cherry",
@@ -1320,7 +1430,12 @@
      "fecha": "2026-10-22",
      "precio": 2.99
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.6,
+    "n": 50,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-rimmel-bronzer",
@@ -1348,7 +1463,12 @@
      "fecha": "2026-10-22",
      "precio": 6.5
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.3,
+    "n": 92,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-mac-lippencil",
@@ -1376,7 +1496,12 @@
      "fecha": "2026-10-22",
      "precio": 19.9
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.5,
+    "n": 14,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-itcosmetics-cc",
@@ -1404,7 +1529,12 @@
      "fecha": "2026-10-22",
      "precio": 31.85
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.7,
+    "n": 154,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-nyx-buttermelt",
@@ -1432,7 +1562,12 @@
      "fecha": "2026-10-22",
      "precio": 8.75
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.1,
+    "n": 54,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-nars-concealer",
@@ -1460,7 +1595,12 @@
      "fecha": "2026-10-22",
      "precio": 28.0
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 5,
+    "n": 16,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "druni-sheglam-colorbloom",
@@ -1488,7 +1628,12 @@
      "fecha": "2026-10-22",
      "precio": 6.49
     }
-   ]
+   ],
+   "valoracion": {
+    "nota": 4.5,
+    "n": 4,
+    "fuente": "Druni"
+   }
   },
   {
    "id": "zara-jersey-estructura",
