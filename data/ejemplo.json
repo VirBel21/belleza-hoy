@@ -1,0 +1,729 @@
+{
+ "meta": {
+  "actualizado": "2026-10-22T09:00:00+02:00",
+  "ejemplo": true,
+  "umbral_flash": 30,
+  "nota": "Datos de EJEMPLO. No son precios reales."
+ },
+ "productos": [
+  {
+   "id": "ej-flash-1",
+   "producto": "Sérum antiarrugas (EJEMPLO)",
+   "marca": "Lancôme",
+   "formato": "30 ml",
+   "tienda": "Primor",
+   "precio_actual": 49.9,
+   "precio_anterior": 89.0,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": "2026-10-23",
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 79.0
+    },
+    {
+     "fecha": "2026-10-19",
+     "precio": 64.9
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 49.9
+    }
+   ]
+  },
+  {
+   "id": "ej-flash-2",
+   "producto": "Máscara de pestañas volumen (EJEMPLO)",
+   "marca": "Maybelline",
+   "formato": "10 ml",
+   "tienda": "Druni",
+   "precio_actual": 6.5,
+   "precio_anterior": 12.99,
+   "descuento_pct": 50,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": "2026-10-22",
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 9.99
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 6.5
+    }
+   ]
+  },
+  {
+   "id": "ej-flash-3",
+   "producto": "Eau de parfum (EJEMPLO)",
+   "marca": "Rabanne",
+   "formato": "100 ml",
+   "tienda": "Notino",
+   "precio_actual": 72.0,
+   "precio_anterior": 104.0,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": "2026-10-25",
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 72.0
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 72.0
+    }
+   ]
+  },
+  {
+   "id": "ej-cmp-1",
+   "producto": "Sérum niacinamida 10% (EJEMPLO)",
+   "marca": "Medicube",
+   "formato": "30 ml",
+   "tienda": "Primor",
+   "precio_actual": 17.95,
+   "precio_anterior": 22.9,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-niacinamida",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 19.9
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 17.95
+    }
+   ]
+  },
+  {
+   "id": "ej-cmp-2",
+   "producto": "Sérum niacinamida 10% (EJEMPLO)",
+   "marca": "Medicube",
+   "formato": "30 ml",
+   "tienda": "Druni",
+   "precio_actual": 19.5,
+   "precio_anterior": null,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-niacinamida",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 19.5
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 19.5
+    }
+   ]
+  },
+  {
+   "id": "ej-cmp-3",
+   "producto": "Sérum niacinamida 10% (EJEMPLO)",
+   "marca": "Medicube",
+   "formato": "30 ml",
+   "tienda": "Sephora",
+   "precio_actual": 18.9,
+   "precio_anterior": null,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "no disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-niacinamida",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 18.9
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 18.9
+    }
+   ]
+  },
+  {
+   "id": "ej-cmp-4",
+   "producto": "Sérum niacinamida 10% (EJEMPLO)",
+   "marca": "Medicube",
+   "formato": "50 ml",
+   "tienda": "Notino",
+   "precio_actual": 24.0,
+   "precio_anterior": null,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-niacinamida",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": []
+  },
+  {
+   "id": "ej-cmp-5",
+   "producto": "Champú nutritivo (EJEMPLO)",
+   "marca": "Kérastase",
+   "formato": "250 ml",
+   "tienda": "Douglas",
+   "precio_actual": 27.5,
+   "precio_anterior": null,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cabello",
+   "tipo": "comparador",
+   "grupo": "g-champu",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 27.5
+    }
+   ]
+  },
+  {
+   "id": "ej-cmp-6",
+   "producto": "Champú nutritivo (EJEMPLO)",
+   "marca": "Kérastase",
+   "formato": "250 ml",
+   "tienda": "Notino",
+   "precio_actual": 24.9,
+   "precio_anterior": 29.0,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cabello",
+   "tipo": "comparador",
+   "grupo": "g-champu",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 29.0
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 24.9
+    }
+   ]
+  },
+  {
+   "id": "ej-cmp-7",
+   "producto": "Fotoprotector facial SPF50 (EJEMPLO)",
+   "marca": "ISDIN",
+   "formato": "50 ml",
+   "tienda": "Atida/Mifarma",
+   "precio_actual": 21.0,
+   "precio_anterior": null,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-protector",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 21.0
+    }
+   ]
+  },
+  {
+   "id": "ej-kb-1",
+   "producto": "Esencia de caracol (EJEMPLO)",
+   "marca": "COSRX",
+   "formato": "100 ml",
+   "tienda": "YesStyle",
+   "precio_actual": 16.4,
+   "precio_anterior": 21.0,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "kbeauty",
+   "tipo": "kbeauty",
+   "grupo": null,
+   "motivo": "Viral en TikTok por su textura ligera y su uso en rutinas de piel sensible.",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 21.0
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 16.4
+    }
+   ]
+  },
+  {
+   "id": "ej-kb-2",
+   "producto": "Protector solar de arroz (EJEMPLO)",
+   "marca": "Beauty of Joseon",
+   "formato": "50 ml",
+   "tienda": "Stylevana",
+   "precio_actual": 13.9,
+   "precio_anterior": null,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "kbeauty",
+   "tipo": "kbeauty",
+   "grupo": null,
+   "motivo": "Fotoprotector coreano sin sensación grasa; muy recomendado en vídeos de rutina.",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 13.9
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 13.9
+    }
+   ]
+  },
+  {
+   "id": "ej-kb-3",
+   "producto": "Tónico de centella (EJEMPLO)",
+   "marca": "Skin1004",
+   "formato": "210 ml",
+   "tienda": "Soko Glam",
+   "precio_actual": 18.0,
+   "precio_anterior": 24.0,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "kbeauty",
+   "tipo": "kbeauty",
+   "grupo": null,
+   "motivo": "Su ingrediente, la centella asiática, se ha hecho popular para calmar rojeces.",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 24.0
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 18.0
+    }
+   ]
+  },
+  {
+   "id": "ej-kb-4",
+   "producto": "Tinte de labios agua (EJEMPLO)",
+   "marca": "Rom&nd",
+   "formato": "4 g",
+   "tienda": "YesStyle",
+   "precio_actual": 9.5,
+   "precio_anterior": 12.0,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "kbeauty",
+   "tipo": "kbeauty",
+   "grupo": null,
+   "motivo": "Acabado tipo cristal que arrasa en reseñas de maquillaje coreano.",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 12.0
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 9.5
+    }
+   ]
+  },
+  {
+   "id": "ej-kb-5",
+   "producto": "Mascarilla de colágeno (EJEMPLO)",
+   "marca": "Biodance",
+   "formato": "4 uds",
+   "tienda": "Stylevana",
+   "precio_actual": 15.2,
+   "precio_anterior": 19.0,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "kbeauty",
+   "tipo": "kbeauty",
+   "grupo": null,
+   "motivo": "Mascarilla nocturna que se vuelve gel; fenómeno de redes por su efecto jugoso.",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 19.0
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 15.2
+    }
+   ]
+  },
+  {
+   "id": "ej-moda-1",
+   "producto": "Vestido midi plisado (EJEMPLO)",
+   "marca": "Zara",
+   "formato": "talla variable",
+   "tienda": "Zara",
+   "precio_actual": 29.95,
+   "precio_anterior": 49.95,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "moda",
+   "tipo": "moda",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Envío gratis desde 50 € o en tienda.",
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 49.95
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 29.95
+    }
+   ]
+  },
+  {
+   "id": "ej-moda-2",
+   "producto": "Blazer oversize (EJEMPLO)",
+   "marca": "Mango",
+   "formato": "talla variable",
+   "tienda": "Mango",
+   "precio_actual": 35.99,
+   "precio_anterior": 59.99,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "moda",
+   "tipo": "moda",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Código de bienvenida al registrarte (a confirmar en la web).",
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 59.99
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 35.99
+    }
+   ]
+  },
+  {
+   "id": "ej-moda-3",
+   "producto": "Vaquero wide leg (EJEMPLO)",
+   "marca": "Bershka",
+   "formato": "talla variable",
+   "tienda": "Bershka",
+   "precio_actual": 17.99,
+   "precio_anterior": 29.99,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "moda",
+   "tipo": "moda",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Descuento extra por app: no confirmado.",
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 29.99
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 17.99
+    }
+   ]
+  },
+  {
+   "id": "ej-moda-4",
+   "producto": "Botines de piel (EJEMPLO)",
+   "marca": "Stradivarius",
+   "formato": "talla variable",
+   "tienda": "Stradivarius",
+   "precio_actual": 25.99,
+   "precio_anterior": 39.99,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "moda",
+   "tipo": "moda",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Envío gratis a tienda.",
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 39.99
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 25.99
+    }
+   ]
+  },
+  {
+   "id": "ej-moda-5",
+   "producto": "Jersey de punto (EJEMPLO)",
+   "marca": "H&M",
+   "formato": "talla variable",
+   "tienda": "H&M",
+   "precio_actual": 14.99,
+   "precio_anterior": 24.99,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "moda",
+   "tipo": "moda",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Ventaja para miembros: no confirmado.",
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 24.99
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 14.99
+    }
+   ]
+  },
+  {
+   "id": "ej-moda-6",
+   "producto": "Abrigo largo de lana (EJEMPLO)",
+   "marca": "Mango",
+   "formato": "talla variable",
+   "tienda": "Mango",
+   "precio_actual": 59.99,
+   "precio_anterior": 119.99,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "moda",
+   "tipo": "moda",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Sin ventaja adicional confirmada.",
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-15",
+     "precio": 119.99
+    },
+    {
+     "fecha": "2026-10-22",
+     "precio": 59.99
+    }
+   ]
+  },
+  {
+   "id": "ej-vir-1",
+   "producto": "Perfume cremoso de vainilla (EJEMPLO)",
+   "marca": "Armani",
+   "formato": "50 ml",
+   "tienda": "Perfumes Club",
+   "precio_actual": 64.0,
+   "precio_anterior": 89.0,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "Se ha hecho viral como fragancia 'para oler a postre' en redes.",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 64.0
+    }
+   ]
+  },
+  {
+   "id": "ej-vir-2",
+   "producto": "Rizador sin calor (EJEMPLO)",
+   "marca": "Sin marca",
+   "formato": "1 ud",
+   "tienda": "Amazon.es",
+   "precio_actual": 12.9,
+   "precio_anterior": null,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cabello",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "Peinado sin calor para dormir; vídeos con millones de reproducciones. Dato manual (Amazon bloquea robots).",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 12.9
+    }
+   ]
+  },
+  {
+   "id": "ej-vir-3",
+   "producto": "Bálsamo labial con color (EJEMPLO)",
+   "marca": "Laneige",
+   "formato": "10 g",
+   "tienda": "Sephora",
+   "precio_actual": 14.5,
+   "precio_anterior": null,
+   "descuento_pct": null,
+   "enlace": "",
+   "fecha_verificacion": "2026-10-22T09:00:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "viral",
+   "grupo": null,
+   "motivo": "Se agota cada temporada por su efecto jugoso.",
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": true,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 14.5
+    }
+   ]
+  }
+ ]
+}

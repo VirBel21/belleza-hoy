@@ -1,0 +1,550 @@
+{
+ "meta": {
+  "actualizado": "2026-10-22T15:10:00+02:00",
+  "ejemplo": false,
+  "umbral_flash": 30,
+  "nota": "Datos leídos de fichas de Druni y Primor el 22/10/2026. % calculados por nosotros salvo indicación."
+ },
+ "productos": [
+  {
+   "id": "druni-renergie-50ml",
+   "producto": "Rénergie Collagen Lift-Xtend Cream",
+   "marca": "Lancôme",
+   "formato": "50 ml",
+   "tienda": "Druni",
+   "precio_actual": 60.5,
+   "precio_anterior": 110.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/renergie-collage-lift-xtend-cream-lancome-crema-facial-antienvejecimiento",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "cuidado-piel",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "La ficha muestra «Añadir al carrito» y a la vez «No está disponible»: confirma el stock en la tienda.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 60.5
+    }
+   ]
+  },
+  {
+   "id": "druni-biotherm-estuche",
+   "producto": "Aquasource Cica Nutri Cream Estuche",
+   "marca": "Biotherm",
+   "formato": "estuche (crema 50 ml + agua micelar 30 ml + leche corporal 50 ml)",
+   "tienda": "Druni",
+   "precio_actual": 24.95,
+   "precio_anterior": 55.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/aquasource-cica-nutri-cream-estuche-biotherm-tratamiento-regenerante",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "cuidado-piel",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash «solo hoy». Stock sin confirmar en la ficha.",
+   "fecha_limite": "2026-10-22",
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 24.95
+    }
+   ]
+  },
+  {
+   "id": "druni-avene-hyaluron-30ml",
+   "producto": "Hyaluron Activ Procedure Sérum Peeling",
+   "marca": "Avène",
+   "formato": "30 ml",
+   "tienda": "Druni",
+   "precio_actual": 49.95,
+   "precio_anterior": 65.9,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/avene-hyaluron-activ-procedure-serum-peeling-avene-serum-facial-rejuvenecedor",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-avene-peeling",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 49.95
+    }
+   ]
+  },
+  {
+   "id": "druni-rilastil-aqua-40ml",
+   "producto": "Aqua Intense gel-crema hidratante",
+   "marca": "Rilastil",
+   "formato": "40 ml",
+   "tienda": "Druni",
+   "precio_actual": 17.25,
+   "precio_anterior": 21.99,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/aqua-intense-rilastil-gel-crema-hidratante-pieles-deshidratadas",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-rilastil-aqua",
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 17.25
+    }
+   ]
+  },
+  {
+   "id": "druni-doublewear-1ud",
+   "producto": "Double Wear Smooth & Blur Primer",
+   "marca": "Estée Lauder",
+   "formato": "1 ud (tamaño no indicado)",
+   "tienda": "Druni",
+   "precio_actual": 26.95,
+   "precio_anterior": 50.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/double-wear-smooth-blur-primer-estee-lauder",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "maquillaje",
+   "tipo": "comparador",
+   "grupo": "g-doublewear",
+   "motivo": null,
+   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 26.95
+    }
+   ]
+  },
+  {
+   "id": "primor-doublewear-40ml",
+   "producto": "Double Wear Smooth & Blur Primer",
+   "marca": "Estée Lauder",
+   "formato": "40 ml",
+   "tienda": "Primor",
+   "precio_actual": 26.9,
+   "precio_anterior": 50.0,
+   "descuento_pct": null,
+   "enlace": "https://www.primor.eu/es_es/estee-lauder-double-wear-smooth-blur-primer-99667.html",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "maquillaje",
+   "tipo": "comparador",
+   "grupo": "g-doublewear",
+   "motivo": null,
+   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 26.9
+    }
+   ]
+  },
+  {
+   "id": "druni-ceramidin-30ml",
+   "producto": "Ceramidin Sérum Hidratante Reparador de la Barrera Cutánea",
+   "marca": "Dr. Jart+",
+   "formato": "30 ml",
+   "tienda": "Druni",
+   "precio_actual": 31.2,
+   "precio_anterior": 39.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/ceramidintm-serum-hidratante-reparador-de-la-barrera-cutanea-30ml-dr-jart-serum-reparador",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "kbeauty",
+   "tipo": "kbeauty",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": null,
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 31.2
+    }
+   ]
+  },
+  {
+   "id": "druni-eucerin-dual-30",
+   "producto": "Anti-Pigment Dual Serum antimanchas",
+   "marca": "Eucerin",
+   "formato": "30 ml",
+   "tienda": "Druni",
+   "precio_actual": 44.95,
+   "precio_anterior": 46.65,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/anti-pigment-dual-serum-eucerin",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-eucerin-dual",
+   "motivo": null,
+   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 44.95
+    }
+   ]
+  },
+  {
+   "id": "primor-eucerin-dual-30",
+   "producto": "Anti-Pigment Dual Serum antimanchas",
+   "marca": "Eucerin",
+   "formato": "30 ml",
+   "tienda": "Primor",
+   "precio_actual": 41.94,
+   "precio_anterior": 41.95,
+   "descuento_pct": null,
+   "enlace": "https://www.primor.eu/es_es/eucerin-anti-pigment-dual-serum-antimanchas-60861.html",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-eucerin-dual",
+   "motivo": null,
+   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 41.94
+    }
+   ]
+  },
+  {
+   "id": "druni-nubiance-500",
+   "producto": "Anti Dark-Spot Body Lotion leche corporal unificante",
+   "marca": "Nubiance",
+   "formato": "500 ml",
+   "tienda": "Druni",
+   "precio_actual": 31.2,
+   "precio_anterior": 39.0,
+   "descuento_pct": null,
+   "enlace": "https://www.druni.es/anti-dark-spot-body-nubiance-leche-corporal-unificante",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "cuidado-piel",
+   "tipo": "comparador",
+   "grupo": "g-nubiance",
+   "motivo": null,
+   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 31.2
+    }
+   ]
+  },
+  {
+   "id": "primor-wondersculpt-clear-5",
+   "producto": "Gel de cejas Wonder Sculpt Clear",
+   "marca": "Clarins",
+   "formato": "5 ml",
+   "tienda": "Primor",
+   "precio_actual": 13.43,
+   "precio_anterior": 28.0,
+   "descuento_pct": null,
+   "enlace": "https://www.primor.eu/es_es/clarins-gel-de-cejas-wonder-sculpt-clear-145423.html",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "maquillaje",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda. Oferta flash de 24 h.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 13.43
+    }
+   ]
+  },
+  {
+   "id": "primor-guerlain-abeille-150",
+   "producto": "Abeille Royale Loción Fortificante con Jalea Real",
+   "marca": "Guerlain",
+   "formato": "150 ml",
+   "tienda": "Primor",
+   "precio_actual": 36.09,
+   "precio_anterior": 88.05,
+   "descuento_pct": null,
+   "enlace": "https://www.primor.eu/es_es/guerlain-abeille-royale-locion-fortificante-con-jalea-real-14253.html",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "cuidado-piel",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda. El listado de ofertas flash mostraba 43,99 €; aquí va el precio de la ficha (36,09 €, -59% según la tienda).",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 36.09
+    }
+   ]
+  },
+  {
+   "id": "primor-clarins-serumv-50",
+   "producto": "Serum V Shaping Facial Lift",
+   "marca": "Clarins",
+   "formato": "50 ml",
+   "tienda": "Primor",
+   "precio_actual": 42.18,
+   "precio_anterior": 95.0,
+   "descuento_pct": null,
+   "enlace": "https://www.primor.eu/es_es/clarins-serum-v-shaping-facial-lift-contorno-perfecto-15809.html",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "cuidado-piel",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda. El listado mostraba 56,99 €; aquí va el precio de la ficha.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 42.18
+    }
+   ]
+  },
+  {
+   "id": "primor-drjart-lipbalm-7",
+   "producto": "Ceramidin Bálsamo Labial Hidratante",
+   "marca": "Dr. Jart+",
+   "formato": "7 ml",
+   "tienda": "Primor",
+   "precio_actual": 9.52,
+   "precio_anterior": 16.0,
+   "descuento_pct": null,
+   "enlace": "https://www.primor.eu/es_es/dr-jart-ceramidin-balsamo-labial-hidratante-122365.html",
+   "fecha_verificacion": "2026-10-22T14:05:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "kbeauty",
+   "tipo": "kbeauty",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Stock sin confirmar: la ficha muestra «No está disponible»/«Agotado», pero aparece igual en todas las fichas leídas (posible artefacto de lectura). Confirma en la tienda.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 9.52
+    }
+   ]
+  },
+  {
+   "id": "zara-jersey-estructura",
+   "producto": "Jersey punto estructura",
+   "marca": "Zara",
+   "formato": "talla variable",
+   "tienda": "Zara",
+   "precio_actual": 17.99,
+   "precio_anterior": 35.95,
+   "descuento_pct": 49,
+   "enlace": "https://www.zara.com/es/es/jersey-punto-estructura-p06771200.html",
+   "fecha_verificacion": "2026-10-22T15:10:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "moda",
+   "tipo": "moda",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Special Prices del 21/10 al 07/01/2027. Precio leído en el listado de la tienda; el stock por talla no se ha comprobado.",
+   "fecha_limite": "2027-01-07",
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 17.99
+    }
+   ]
+  },
+  {
+   "id": "zara-pantalon-fluido-pliegues",
+   "producto": "Pantalón fluido pliegues",
+   "marca": "Zara",
+   "formato": "talla variable",
+   "tienda": "Zara",
+   "precio_actual": 12.99,
+   "precio_anterior": 25.95,
+   "descuento_pct": 49,
+   "enlace": "https://www.zara.com/es/es/pantalon-fluido-pliegues-p01255521.html",
+   "fecha_verificacion": "2026-10-22T15:10:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "moda",
+   "tipo": "moda",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Special Prices del 10/09 al 07/01/2027. Precio leído en el listado de la tienda; el stock por talla no se ha comprobado.",
+   "fecha_limite": "2027-01-07",
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 12.99
+    }
+   ]
+  },
+  {
+   "id": "mango-vestido-punto-cuello-pico",
+   "producto": "Vestido punto cuello pico",
+   "marca": "Mango",
+   "formato": "talla variable",
+   "tienda": "Mango",
+   "precio_actual": 19.99,
+   "precio_anterior": 39.99,
+   "descuento_pct": 50,
+   "enlace": "https://shop.mango.com/es/es/p/mujer/vestidos-y-monos/midi/vestido-punto-cuello-pico/37064421/74/00",
+   "fecha_verificacion": "2026-10-22T15:10:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "moda",
+   "tipo": "moda",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Sección Promoción de Mango; la tienda no indica fecha de fin. Precio leído en el listado de la tienda; el stock por talla no se ha comprobado.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 19.99
+    }
+   ]
+  },
+  {
+   "id": "mango-pantalon-lyocell-bombacho",
+   "producto": "Pantalón lyocell bombacho",
+   "marca": "Mango",
+   "formato": "talla variable",
+   "tienda": "Mango",
+   "precio_actual": 19.99,
+   "precio_anterior": 39.99,
+   "descuento_pct": 50,
+   "enlace": "https://shop.mango.com/es/es/p/mujer/pantalones/bombachos/pantalon-lyocell-bombacho/37061411/37/00",
+   "fecha_verificacion": "2026-10-22T15:10:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "moda",
+   "tipo": "moda",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Sección Promoción de Mango; la tienda no indica fecha de fin. Precio leído en el listado de la tienda; el stock por talla no se ha comprobado.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 19.99
+    }
+   ]
+  },
+  {
+   "id": "bershka-pantalon-slim-tiro-bajo",
+   "producto": "Pantalón slim tiro bajo",
+   "marca": "Bershka",
+   "formato": "talla variable",
+   "tienda": "Bershka",
+   "precio_actual": 12.99,
+   "precio_anterior": 25.99,
+   "descuento_pct": 50,
+   "enlace": "https://www.bershka.com/es/pantal%C3%B3n-slim-tiro-bajo-c0p229350183.html?colorId=060",
+   "fecha_verificacion": "2026-10-22T15:10:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "moda",
+   "tipo": "moda",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Sección de promociones de Bershka; sin fecha de fin visible. Precio leído en el listado de la tienda; el stock por talla no se ha comprobado.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 12.99
+    }
+   ]
+  },
+  {
+   "id": "hm-falda-saten-bajo-encaje",
+   "producto": "Falda de satén con bajo de encaje",
+   "marca": "H&M",
+   "formato": "talla variable",
+   "tienda": "H&M",
+   "precio_actual": 25.99,
+   "precio_anterior": 37.99,
+   "descuento_pct": 32,
+   "enlace": "https://www2.hm.com/es_es/productpage.1351854001.html",
+   "fecha_verificacion": "2026-10-22T15:10:00+02:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "moda",
+   "tipo": "moda",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Sección Última oportunidad de H&M; sin fecha de fin visible. Precio leído en el listado de la tienda; el stock por talla no se ha comprobado.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 25.99
+    }
+   ]
+  }
+ ]
+}
