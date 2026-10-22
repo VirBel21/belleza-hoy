@@ -1,6 +1,13 @@
 {
  "eventos": [
   {
+   "id": "hal",
+   "nombre": "Primor: Ofertas de Halloween 2026 y código HALLOWEEN (−10 % extra)",
+   "fecha": "2026-10-31",
+   "estado": "no confirmado",
+   "detalle": "Primor no publica la fecha de fin; se asume el 31 de octubre (Halloween). Descuentos de hasta el 83 % según su página (22/10/2026)."
+  },
+  {
    "id": "singles",
    "nombre": "Singles' Day",
    "fecha": "2026-11-11",
@@ -41,13 +48,6 @@
    "fecha": null,
    "estado": "no confirmado",
    "detalle": "Se añadirán cuando la tienda las publique."
-  },
-  {
-   "id": "p1",
-   "nombre": "Primor: código HALLOWEEN, -10% extra en categorías seleccionadas",
-   "fecha": null,
-   "estado": "no confirmado",
-   "detalle": "Primor, promociones activas (leído 22/10/2026). La página no indica fechas ni condiciones."
   },
   {
    "id": "p2",
@@ -92,9 +92,10 @@
    "acceso": "navegador",
    "urls": [
     "https://www.primor.eu/es_es/ofertas-flash",
-    "https://www.primor.eu/es_es/regalos-por-compra",
+    "https://www.primor.eu/es_es/ofertas-halloween",
     "https://www.primor.eu/es_es/promociones-activas",
-    "https://www.primor.eu/es_es/rebajas"
+    "https://www.primor.eu/es_es/rebajas",
+    "https://www.primor.eu/es_es/regalos-por-compra"
    ],
    "nota": "En el navegador integrado el listado muestra «Añadir al carrito» y la ficha trae disponibilidad InStock y precios por tamaño (optionPrices). Envío gratis desde 25 €. Los «Agotado» de WebFetch eran un fallo de lectura."
   },
@@ -230,5 +231,13 @@
   "moda": "Moda"
  },
  "afiliados": false,
- "notas_catalogo": "Stradivarius excluida: sus ofertas solo se ven en su aplicación."
+ "notas_catalogo": "Stradivarius excluida: sus ofertas solo se ven en su aplicación.",
+ "campana": {
+  "nombre": "Halloween en Primor",
+  "texto": "Descuentos de hasta el 83 % en perfumes, maquillaje y cosmética, más el código HALLOWEEN (−10 % extra en categorías seleccionadas).",
+  "hasta": "2026-10-31",
+  "hasta_confirmado": false,
+  "enlace": "https://www.primor.eu/es_es/ofertas-halloween",
+  "codigo": "HALLOWEEN"
+ }
 }

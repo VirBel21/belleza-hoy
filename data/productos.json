@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-22T16:20:00+02:00",
+  "actualizado": "2026-10-22T17:05:00+02:00",
   "ejemplo": false,
   "umbral_flash": 30,
   "nota": "Datos leídos el 22/10/2026 de fichas y listados de Druni, Primor, Zara, Mango, Bershka y H&M. Stock: Druni y Primor marcan «InStock»/botón de compra; moda sin comprobar por talla."
@@ -1802,6 +1802,398 @@
     }
    ],
    "imagen": null
+  },
+  {
+   "id": "primor-hal-hugoboss-bottled-50",
+   "producto": "Boss Bottled Eau de Toilette",
+   "marca": "Hugo Boss",
+   "formato": "50 ml",
+   "tienda": "Primor",
+   "precio_actual": 34.94,
+   "precio_anterior": 99.0,
+   "descuento_pct": 65,
+   "enlace": "https://www.primor.eu/es_es/hugo-boss-boss-bottled-edt-112267.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/M/A/MAIN_737052351018_48b7.webp",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 34.94
+    }
+   ]
+  },
+  {
+   "id": "primor-hal-britney-fantasy-30",
+   "producto": "Fantasy perfume de mujer",
+   "marca": "Britney Spears",
+   "formato": "30 ml",
+   "tienda": "Primor",
+   "precio_actual": 12.95,
+   "precio_anterior": 30.0,
+   "descuento_pct": 57,
+   "enlace": "https://www.primor.eu/es_es/britney-spears-fantasy-perfume-de-mujer-111611.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/0/30F00186_1_c125.webp",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 12.95
+    }
+   ]
+  },
+  {
+   "id": "primor-hal-lancome-renergie-hpn-50",
+   "producto": "Rénergie H.P.N. 300-Peptide Cream",
+   "marca": "Lancôme",
+   "formato": "50 ml",
+   "tienda": "Primor",
+   "precio_actual": 52.93,
+   "precio_anterior": 110.0,
+   "descuento_pct": 52,
+   "enlace": "https://www.primor.eu/es_es/lancome-renergie-h-p-n-300-peptide-cream-106396.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/9/1/91019_2_3c20.webp",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 52.93
+    }
+   ]
+  },
+  {
+   "id": "primor-hal-lattafa-khamrah",
+   "producto": "Khamrah Eau de Parfum unisex",
+   "marca": "Lattafa",
+   "formato": "ver ficha",
+   "tienda": "Primor",
+   "precio_actual": 24.94,
+   "precio_anterior": 50.0,
+   "descuento_pct": 50,
+   "enlace": "https://www.primor.eu/es_es/lattafa-khamrah-eau-de-parfum-unisex-126179.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/l/a/lattafa_c2ab.JPG.webp",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 24.94
+    }
+   ]
+  },
+  {
+   "id": "primor-hal-lattafa-eclaire",
+   "producto": "Eclaire Eau de Parfum",
+   "marca": "Lattafa",
+   "formato": "ver ficha",
+   "tienda": "Primor",
+   "precio_actual": 24.94,
+   "precio_anterior": 50.0,
+   "descuento_pct": 50,
+   "enlace": "https://www.primor.eu/es_es/lattafa-eclaire-eau-de-parfum-137306.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/C/a/Captura_eclaire_4f39.PNG.webp",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 24.94
+    }
+   ]
+  },
+  {
+   "id": "primor-hal-urbandecay-allnighter-30",
+   "producto": "All Nighter Setting Spray Natural",
+   "marca": "Urban Decay",
+   "formato": "30 ml",
+   "tienda": "Primor",
+   "precio_actual": 10.94,
+   "precio_anterior": 22.0,
+   "descuento_pct": 50,
+   "enlace": "https://www.primor.eu/es_es/urban-decay-all-nighter-setting-spray-natural-143777.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3605973072473_1_e50d.webp",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 10.94
+    }
+   ]
+  },
+  {
+   "id": "primor-hal-esteelauder-anr-eye",
+   "producto": "Advanced Night Repair Eye Supercharged Gel-Creme",
+   "marca": "Estée Lauder",
+   "formato": "ver ficha",
+   "tienda": "Primor",
+   "precio_actual": 38.55,
+   "precio_anterior": 77.0,
+   "descuento_pct": null,
+   "enlace": "https://www.primor.eu/es_es/estee-lauder-contorno-de-ojos-antiojeras-y-antiedad-advanced-night-repair-eye-supercharged-gel-creme-60678.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/0/T/0TF22821_1_efa4.webp",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 38.55
+    }
+   ]
+  },
+  {
+   "id": "primor-hal-ysl-nuit-homme-60",
+   "producto": "La Nuit de L'Homme Eau de Parfum",
+   "marca": "Yves Saint Laurent",
+   "formato": "60 ml",
+   "tienda": "Primor",
+   "precio_actual": 62.49,
+   "precio_anterior": 110.0,
+   "descuento_pct": 43,
+   "enlace": "https://www.primor.eu/es_es/yves-saint-laurent-la-nuit-de-l-homme-eau-de-parfum-149077.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/l/a/la_nuit_de_l_homme_eau_de_parfum_ambree_epicee_pou_4cd9.webp",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "perfumeria",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": true,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 62.49
+    }
+   ]
+  },
+  {
+   "id": "primor-hal-clinique-smart-pdrn",
+   "producto": "Smart PDRN + Collagen Cream",
+   "marca": "Clinique",
+   "formato": "ver ficha",
+   "tienda": "Primor",
+   "precio_actual": 39.93,
+   "precio_anterior": 69.0,
+   "descuento_pct": null,
+   "enlace": "https://www.primor.eu/es_es/clinique-crema-smart-collagen-pdrn-152236.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/1/9/192333348482_1_35e3.jpg",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 39.93
+    }
+   ]
+  },
+  {
+   "id": "primor-hal-realtechniques-set",
+   "producto": "Set de brochas Everyday Essentials",
+   "marca": "Real Techniques",
+   "formato": "set",
+   "tienda": "Primor",
+   "precio_actual": 15.98,
+   "precio_anterior": 26.99,
+   "descuento_pct": 41,
+   "enlace": "https://www.primor.eu/es_es/real-techniques-set-de-brochas-everyday-essentials-7736.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/t/e/tec_5cb7.JPG.webp",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "maquillaje",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 15.98
+    }
+   ]
+  },
+  {
+   "id": "primor-hal-medicube-collagenmask",
+   "producto": "Collagen Night Wrapping Mask",
+   "marca": "Medicube",
+   "formato": "ver ficha",
+   "tienda": "Primor",
+   "precio_actual": 20.57,
+   "precio_anterior": 29.9,
+   "descuento_pct": 31,
+   "enlace": "https://www.primor.eu/es_es/medicube-collagen-night-wrapping-mask-136419.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/8/8/8800256118984_8800256113217_COLLAGEN_NIGHT_WRAPPING_MASK_copia_80b2.webp",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "kbeauty",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 20.57
+    }
+   ]
+  },
+  {
+   "id": "primor-hal-medicube-deepvitac",
+   "producto": "Deep Vita C Capsule Cream",
+   "marca": "Medicube",
+   "formato": "ver ficha",
+   "tienda": "Primor",
+   "precio_actual": 25.95,
+   "precio_anterior": 33.0,
+   "descuento_pct": 21,
+   "enlace": "https://www.primor.eu/es_es/medicube-deep-vita-c-capsule-cream-136415.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/8/8/8800256119011_8809982769866_DEEP_VITA_C_CAPSULE_CREAM_2_copia_03b3.png",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "kbeauty",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 25.95
+    }
+   ]
+  },
+  {
+   "id": "primor-hal-vichy-mineral89",
+   "producto": "Minéral 89 Crema Hidratante 72H ligera",
+   "marca": "Vichy",
+   "formato": "ver ficha",
+   "tienda": "Primor",
+   "precio_actual": 18.98,
+   "precio_anterior": 26.5,
+   "descuento_pct": 28,
+   "enlace": "https://www.primor.eu/es_es/vichy-mineral-89-crema-hidratante-72h-ligera-81755.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/3/3337875831888_0_55fa.jpg",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 18.98
+    }
+   ]
+  },
+  {
+   "id": "primor-hal-redken-oneunited",
+   "producto": "One United Elixir",
+   "marca": "Redken",
+   "formato": "ver ficha",
+   "tienda": "Primor",
+   "precio_actual": 17.89,
+   "precio_anterior": 28.62,
+   "descuento_pct": 37,
+   "enlace": "https://www.primor.eu/es_es/redken-one-united-elixir-56955.html",
+   "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/4/3474637102555_main_2fa1.webp",
+   "fecha_verificacion": "2026-10-22T17:05:00+02:00",
+   "disponibilidad": "disponible",
+   "categoria": "cabello",
+   "tipo": "halloween",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta de Halloween 2026 en Primor (sin fecha de fin publicada).",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-10-22",
+     "precio": 17.89
+    }
+   ]
   }
  ]
 }
