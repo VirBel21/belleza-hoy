@@ -5,7 +5,7 @@
    "nombre": "Primor: Ofertas de Halloween 2026 y código HALLOWEEN (−10 % extra)",
    "fecha": "2026-10-31",
    "estado": "no confirmado",
-   "detalle": "Primor no publica la fecha de fin; se asume el 31 de octubre (Halloween). Descuentos de hasta el 83 % según su página (22/10/2026)."
+   "detalle": "Primor no publica la fecha de fin; se asume el 31 de octubre (Halloween). Descuentos de hasta el 83 % según su página (26/10/2026)."
   },
   {
    "id": "singles",
@@ -210,7 +210,7 @@
     "https://shop.mango.com/es/es/c/mujer/promocion/7914393e",
     "https://shop.mango.com/es/es/events"
    ],
-   "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 22/10/2026. La página /events solo describe campañas pasadas, sin fechas de 2026."
+   "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 26/10/2026. La página /events solo describe campañas pasadas, sin fechas de 2026."
   },
   {
    "nombre": "H&M",
