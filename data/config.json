@@ -200,7 +200,7 @@
    "urls": [
     "https://www.bershka.com/es/mujer/promo-hasta-3025-n4404.html"
    ],
-   "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 22/10/2026."
+   "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 28/10/2026."
   },
   {
    "nombre": "Mango",
@@ -210,7 +210,7 @@
     "https://shop.mango.com/es/es/c/mujer/promocion/7914393e",
     "https://shop.mango.com/es/es/events"
    ],
-   "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 26/10/2026. La página /events solo describe campañas pasadas, sin fechas de 2026."
+   "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 28/10/2026. La página /events solo describe campañas pasadas, sin fechas de 2026. El 28/10/2026 el listado solo cargó 9 prendas (lazy-load)."
   },
   {
    "nombre": "H&M",
@@ -219,7 +219,7 @@
    "urls": [
     "https://www2.hm.com/es_es/mujer/last-chance/ver-todos.html"
    ],
-   "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 22/10/2026."
+   "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 28/10/2026."
   }
  ],
  "categorias": {
