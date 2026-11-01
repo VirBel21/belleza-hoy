@@ -5,7 +5,7 @@
    "nombre": "Primor: Ofertas de Halloween 2026 y código HALLOWEEN (−10 % extra)",
    "fecha": "2026-10-31",
    "estado": "no confirmado",
-   "detalle": "Primor no publica la fecha de fin; se asume el 31 de octubre (Halloween). Descuentos de hasta el 83 % según su página (26/10/2026)."
+   "detalle": "Primor no publica la fecha de fin; se asume el 31 de octubre (Halloween). Descuentos de hasta el 83 % según su página (26/10/2026). Campaña finalizada el 31/10/2026; productos retirados el 01/11/2026."
   },
   {
    "id": "singles",
@@ -83,6 +83,13 @@
    "fecha": null,
    "estado": "no confirmado",
    "detalle": "Hasta fin de existencias, 1 por cliente; sin fechas. Ej.: Some By Mi, retinol contorno de ojos en compras de más de 25 €."
+  },
+  {
+   "id": "p7",
+   "nombre": "Primor: código PRIMOR (−10 % extra en categorías seleccionadas)",
+   "fecha": null,
+   "estado": "no confirmado",
+   "detalle": "Banner de Primor leído el 01/11/2026; sin fechas ni condiciones visibles."
   }
  ],
  "tiendas": [
