@@ -1,9 +1,9 @@
 {
  "meta": {
-  "actualizado": "2026-11-04T10:00:00+01:00",
+  "actualizado": "2026-11-05T10:00:00+01:00",
   "ejemplo": false,
   "umbral_flash": 30,
-  "nota": "Datos revisados el 04/11/2026 (navegador integrado): fichas de Druni y Primor. Moda: solo Zara releída hoy; Mango, Bershka y H&M conservan precios del 02/11/2026 (no releídos). Stock de moda sin comprobar por talla. Algunos productos de Primor con variantes ambiguas conservan la verificación del 03/11/2026."
+  "nota": "Datos revisados el 05/11/2026 (navegador integrado). Druni: ~28 fichas releídas (JSON-LD); el resto conserva su verificación del 04/11/2026. Primor: solo se actualizan las fichas cuyo precio de variante principal coincide sin ambigüedad; el resto conserva la verificación anterior. Moda: Zara, Mango, Bershka y H&M leídas hoy; stock por talla sin comprobar."
  },
  "productos": [
   {
@@ -17,7 +17,7 @@
    "descuento_pct": 77,
    "enlace": "https://www.primor.eu/es_es/guy-laroche-drakkar-noir-112248.html",
    "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/3/3360372009436__1__730b.JPG",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "perfume",
@@ -35,6 +35,10 @@
     {
      "fecha": "2026-11-04",
      "precio": 19.93
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 19.93
     }
    ],
    "mostrada_antes": true
@@ -50,7 +54,7 @@
    "descuento_pct": 51,
    "enlace": "https://www.druni.es/obsession-calvin-klein-eau-parfum-mujer",
    "imagen": "https://www.druni.es/media/catalog/product/1/6/1648001.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "perfume",
@@ -67,6 +71,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 39.95
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 39.95
     }
    ],
@@ -88,7 +96,7 @@
    "descuento_pct": 74,
    "enlace": "https://www.druni.es/shock-for-her-calvin-klein-eau-toilette-mujer",
    "imagen": "https://www.druni.es/media/catalog/product/1/6/1648029.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "perfume",
@@ -105,6 +113,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 19.95
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 19.95
     }
    ],
@@ -126,7 +138,7 @@
    "descuento_pct": null,
    "enlace": "https://www.primor.eu/es_es/marc-jacobs-daisy-ever-so-fresh-eau-de-parfum-112042.html",
    "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3616303423841_M_a543.jpeg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "perfume",
@@ -184,9 +196,13 @@
     {
      "fecha": "2026-11-04",
      "precio": 62.97
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 62.97
     }
    ],
-   "mostrada_antes": false
+   "mostrada_antes": true
   },
   {
    "id": "primor-rich-girl-100",
@@ -199,7 +215,7 @@
    "descuento_pct": 52,
    "enlace": "https://www.primor.eu/es_es/police-rich-girl-eau-de-toilette-127009.html",
    "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/0/6/0679602001366_df13.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "comparador",
@@ -249,6 +265,10 @@
     {
      "fecha": "2026-11-04",
      "precio": 29.94
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 29.94
     }
    ],
    "mostrada_antes": true
@@ -264,7 +284,7 @@
    "descuento_pct": 52,
    "enlace": "https://www.druni.es/rich-girl-police-eau-toilette-mujer",
    "imagen": "https://www.druni.es/media/catalog/product/1/6/1699956.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "comparador",
@@ -321,6 +341,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 29.95
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 29.95
     }
    ],
@@ -402,7 +426,7 @@
    "descuento_pct": 20,
    "enlace": "https://www.druni.es/ceramidin-lip-balm-dr-jart",
    "imagen": "https://www.druni.es/media/catalog/product/5/0/5021909.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "kbeauty",
    "tipo": "comparador",
@@ -460,6 +484,10 @@
     {
      "fecha": "2026-11-04",
      "precio": 12.8
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 12.8
     }
    ],
    "valoracion": {
@@ -480,7 +508,7 @@
    "descuento_pct": 4,
    "enlace": "https://www.druni.es/anti-pigment-dual-serum-eucerin",
    "imagen": "https://www.druni.es/media/catalog/product/5/7/5795032.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "comparador",
@@ -537,6 +565,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 44.95
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 44.95
     }
    ],
@@ -758,7 +790,7 @@
    "descuento_pct": null,
    "enlace": "https://www.primor.eu/es_es/clarins-gel-de-cejas-wonder-sculpt-145450.html",
    "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3666057427367_1_a064.webp",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "maquillaje",
    "tipo": "comparador",
@@ -807,6 +839,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 16.74
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 16.74
     }
    ],
@@ -1175,7 +1211,7 @@
    "descuento_pct": 43,
    "enlace": "https://www.druni.es/double-wear-smooth-blur-primer-estee-lauder",
    "imagen": "https://www.druni.es/media/catalog/product/3/7/3731504.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "maquillaje",
    "tipo": "comparador",
@@ -1232,6 +1268,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 28.5
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 28.5
     }
    ],
@@ -1318,7 +1358,7 @@
    "descuento_pct": 24,
    "enlace": "https://www.druni.es/avene-hyaluron-activ-procedure-serum-peeling-avene-serum-facial-rejuvenecedor",
    "imagen": "https://www.druni.es/media/catalog/product/5/8/5812365.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "no disponible",
    "categoria": "cuidado-piel",
    "tipo": "comparador",
@@ -1376,6 +1416,10 @@
     {
      "fecha": "2026-11-04",
      "precio": 49.95
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 49.95
     }
    ],
    "mostrada_antes": true
@@ -1391,7 +1435,7 @@
    "descuento_pct": 22,
    "enlace": "https://www.druni.es/aqua-intense-rilastil-gel-crema-hidratante-pieles-deshidratadas",
    "imagen": "https://www.druni.es/media/catalog/product/5/7/5796767.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "comparador",
@@ -1449,6 +1493,10 @@
     {
      "fecha": "2026-11-04",
      "precio": 17.25
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 17.25
     }
    ],
    "valoracion": {
@@ -1469,7 +1517,7 @@
    "descuento_pct": 20,
    "enlace": "https://www.druni.es/anti-dark-spot-body-nubiance-leche-corporal-unificante",
    "imagen": "https://www.druni.es/media/catalog/product/5/0/5023742.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "comparador",
@@ -1527,6 +1575,10 @@
     {
      "fecha": "2026-11-04",
      "precio": 31.2
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 31.2
     }
    ],
    "mostrada_antes": true
@@ -1542,7 +1594,7 @@
    "descuento_pct": 13,
    "enlace": "https://www.druni.es/relief-sun-aqua-fresh-rice-beauty-of-joseon-protector-solar-spf-50",
    "imagen": "https://www.druni.es/media/catalog/product/1/4/1467743.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "kbeauty",
    "tipo": "kbeauty",
@@ -1600,6 +1652,10 @@
     {
      "fecha": "2026-11-04",
      "precio": 14.74
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 14.74
     }
    ],
    "valoracion": {
@@ -1620,7 +1676,7 @@
    "descuento_pct": null,
    "enlace": "https://www.druni.es/rice-probiotics-beauty-of-joseon-protector-solar-organico",
    "imagen": "https://www.druni.es/media/catalog/product/1/4/1467068.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "kbeauty",
    "tipo": "kbeauty",
@@ -1678,6 +1734,10 @@
     {
      "fecha": "2026-11-04",
      "precio": 14.95
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 14.95
     }
    ],
    "valoracion": {
@@ -1698,7 +1758,7 @@
    "descuento_pct": null,
    "enlace": "https://www.druni.es/ceramidintm-serum-hidratante-reparador-de-la-barrera-cutanea-30ml-dr-jart-serum-reparador",
    "imagen": "https://www.druni.es/media/catalog/product/5/0/5023807.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "kbeauty",
    "tipo": "kbeauty",
@@ -1755,6 +1815,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 26.95
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 26.95
     }
    ],
@@ -1993,7 +2057,7 @@
    "descuento_pct": null,
    "enlace": "https://www.druni.es/champu-extracto-cebolla-babaria-antioxidante-estimulante",
    "imagen": "https://www.druni.es/media/catalog/product/1/3/1306624.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "cabello",
    "tipo": "viral",
@@ -2050,6 +2114,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 2.7
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 2.7
     }
    ],
@@ -2145,7 +2213,7 @@
    "descuento_pct": null,
    "enlace": "https://www.druni.es/leche-cabra-mascarilla-ziaja-capilar",
    "imagen": "https://www.druni.es/media/catalog/product/1/3/1309134.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "cabello",
    "tipo": "viral",
@@ -2202,6 +2270,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 2.89
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 2.89
     }
    ],
@@ -2297,7 +2369,7 @@
    "descuento_pct": 23,
    "enlace": "https://www.druni.es/revitalift-clinical-serum-12-vitamin-c-loreal-paris",
    "imagen": "https://www.druni.es/media/catalog/product/1/4/1462530.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "viral",
@@ -2355,6 +2427,10 @@
     {
      "fecha": "2026-11-04",
      "precio": 18.49
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 18.49
     }
    ],
    "valoracion": {
@@ -2375,7 +2451,7 @@
    "descuento_pct": null,
    "enlace": "https://www.druni.es/cherry-shine-liposan-balsamo-labial",
    "imagen": "https://www.druni.es/media/catalog/product/1/4/1452281.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "maquillaje",
    "tipo": "viral",
@@ -2432,6 +2508,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 2.99
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 2.99
     }
    ],
@@ -2823,7 +2903,7 @@
    "descuento_pct": 20,
    "enlace": "https://www.primor.eu/es_es/nars-sparkling-seduction-liquid-eyeshadow-151801.html",
    "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/1/9/194251171791_1_149a.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "maquillaje",
    "tipo": "comparador",
@@ -2872,6 +2952,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 28.75
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 28.75
     }
    ],
@@ -2948,12 +3032,12 @@
    "marca": "Clarins",
    "formato": "según tono",
    "tienda": "Primor",
-   "precio_actual": 19.18,
+   "precio_actual": 19.19,
    "precio_anterior": 32,
    "descuento_pct": null,
    "enlace": "https://www.primor.eu/es_es/clarins-aceite-de-labios-comfort-108472.html",
    "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/0/M/0ML28905_1_f9fa.jpg",
-   "fecha_verificacion": "2026-11-03T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "maquillaje",
    "tipo": "comparador",
@@ -2995,9 +3079,13 @@
     {
      "fecha": "2026-11-03",
      "precio": 19.18
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 19.19
     }
    ],
-   "mostrada_antes": true
+   "mostrada_antes": false
   },
   {
    "id": "druni-clarins-lipoil",
@@ -3338,7 +3426,7 @@
    "descuento_pct": 41,
    "enlace": "https://www.primor.eu/es_es/clinique-smart-clinical-repair-wrinkle-correcting-crema-antiarrugas-106375.html",
    "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/1/9/192333149744_M_055c.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "comparador",
@@ -3387,6 +3475,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 53.94
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 53.94
     }
    ],
@@ -3473,7 +3565,7 @@
    "descuento_pct": 35,
    "enlace": "https://www.primor.eu/es_es/kiehl-s-facial-fuel-energizing-face-wash-limpiador-facial-106521.html",
    "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/M/_/M_0TM01377_1_16e0.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "comparador",
@@ -3522,6 +3614,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 18.75
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 18.75
     }
    ],
@@ -3742,7 +3838,7 @@
    "descuento_pct": 33,
    "enlace": "https://shop.mango.com/es/es/p/mujer/vaqueros/straight/jeans-rectos-tiro-alto/37085851/TO/00",
    "imagen": null,
-   "fecha_verificacion": "2026-11-02T09:45:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "no confirmada",
    "categoria": "moda",
    "tipo": "moda",
@@ -3788,6 +3884,10 @@
     {
      "fecha": "2026-11-02",
      "precio": 19.99
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 19.99
     }
    ],
    "mostrada_antes": true
@@ -3821,60 +3921,19 @@
     {
      "fecha": "2026-11-02",
      "precio": 14.99
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 14.99
     }
    ],
    "mostrada_antes": true,
-   "fecha_verificacion": "2026-11-02T09:45:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "id": "bershka-jeans-wide-leg-tiro-alto",
    "producto": "Jeans wide leg tiro alto",
    "tienda": "Bershka",
    "precio_actual": 14.99,
    "enlace": "https://www.bershka.com/es/jeans-wide-leg-tiro-alto-c0p226927230.html?colorId=428",
-   "categoria": "moda",
-   "tipo": "moda"
-  },
-  {
-   "marca": "H&M",
-   "formato": "talla variable",
-   "precio_anterior": 12.99,
-   "descuento_pct": 31,
-   "imagen": null,
-   "disponibilidad": "no confirmada",
-   "grupo": null,
-   "motivo": null,
-   "ventaja": null,
-   "fecha_limite": null,
-   "precio_desde": false,
-   "ejemplo": false,
-   "historial": [
-    {
-     "fecha": "2026-10-28",
-     "precio": 8.99
-    },
-    {
-     "fecha": "2026-10-29",
-     "precio": 8.99
-    },
-    {
-     "fecha": "2026-10-31",
-     "precio": 8.99
-    },
-    {
-     "fecha": "2026-11-01",
-     "precio": 8.99
-    },
-    {
-     "fecha": "2026-11-02",
-     "precio": 8.99
-    }
-   ],
-   "mostrada_antes": true,
-   "fecha_verificacion": "2026-11-02T09:45:00+01:00",
-   "id": "hm-top-drapeado-viscosa",
-   "producto": "Top drapeado de viscosa",
-   "tienda": "H&M",
-   "precio_actual": 8.99,
-   "enlace": "https://www2.hm.com/es_es/productpage.1347125004.html",
    "categoria": "moda",
    "tipo": "moda"
   },
@@ -4081,10 +4140,14 @@
     {
      "fecha": "2026-11-04",
      "precio": 24.41
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 24.41
     }
    ],
    "mostrada_antes": true,
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "id": "primor-calvinklein-euphoria-30",
    "producto": "Euphoria Eau de Parfum",
    "tienda": "Primor",
@@ -4134,10 +4197,14 @@
     {
      "fecha": "2026-11-04",
      "precio": 44.99
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 44.99
     }
    ],
    "mostrada_antes": true,
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "id": "primor-jpg-scandal-30",
    "producto": "Scandal Eau de Parfum",
    "tienda": "Primor",
@@ -4187,10 +4254,14 @@
     {
      "fecha": "2026-11-04",
      "precio": 52.14
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 52.14
     }
    ],
    "mostrada_antes": true,
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "id": "primor-daisy-wild-50",
    "producto": "Daisy Wild Eau de Parfum",
    "tienda": "Primor",
@@ -4240,10 +4311,14 @@
     {
      "fecha": "2026-11-04",
      "precio": 54.88
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 54.88
     }
    ],
    "mostrada_antes": true,
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "id": "primor-daisy-sofresh-75",
    "producto": "Daisy So Fresh",
    "tienda": "Primor",
@@ -4412,7 +4487,7 @@
    "descuento_pct": 33,
    "enlace": "https://shop.mango.com/es/es/p/mujer/vestidos-y-monos/fiesta/vestido-asimetrico-fular/37061468/70/00",
    "imagen": null,
-   "fecha_verificacion": "2026-11-02T09:45:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "no confirmada",
    "categoria": "moda",
    "tipo": "moda",
@@ -4438,6 +4513,10 @@
     {
      "fecha": "2026-11-02",
      "precio": 39.99
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 39.99
     }
    ],
    "mostrada_antes": true
@@ -4453,7 +4532,7 @@
    "descuento_pct": 71,
    "enlace": "https://www.druni.es/jeans-urban-pink-karl-lagerfeld-eau-parfum-mujer",
    "imagen": "https://www.druni.es/media/catalog/product/1/6/1699920.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "perfume",
@@ -4474,6 +4553,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 28.95
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 28.95
     }
    ],
@@ -4495,7 +4578,7 @@
    "descuento_pct": 65,
    "enlace": "https://www.druni.es/rome-divino-amore-karl-lagerfeld-eau-parfum-mujer",
    "imagen": "https://www.druni.es/media/catalog/product/1/6/1699261.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "perfume",
@@ -4516,6 +4599,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 34.95
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 34.95
     }
    ],
@@ -4537,7 +4624,7 @@
    "descuento_pct": 65,
    "enlace": "https://www.druni.es/paris-karl-lagerfeld-eau-parfum-mujer",
    "imagen": "https://www.druni.es/media/catalog/product/1/6/1695053.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "perfume",
@@ -4558,6 +4645,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 34.95
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 34.95
     }
    ],
@@ -4579,7 +4670,7 @@
    "descuento_pct": 60,
    "enlace": "https://www.druni.es/wave-x-hollister-eau-de-toilette-hombre",
    "imagen": "https://www.druni.es/media/catalog/product/1/6/1629085.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "perfume",
@@ -4601,6 +4692,10 @@
     {
      "fecha": "2026-11-04",
      "precio": 24.95
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 24.95
     }
    ],
    "mostrada_antes": true,
@@ -4621,7 +4716,7 @@
    "descuento_pct": null,
    "enlace": "https://www.primor.eu/es_es/rochas-orange-horizon-eau-de-toilette-97355.html",
    "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/3/3386460146395_6c5d.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "perfume",
@@ -4638,6 +4733,10 @@
     },
     {
      "fecha": "2026-11-04",
+     "precio": 25.87
+    },
+    {
+     "fecha": "2026-11-05",
      "precio": 25.87
     }
    ],
@@ -4712,7 +4811,7 @@
    "descuento_pct": 42,
    "enlace": "https://www.druni.es/set-lash-idole-flutter-extension-lancome-mascara-pestanas",
    "imagen": "https://www.druni.es/media/catalog/product/3/7/3789185.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "maquillaje",
    "tipo": "flash",
@@ -4726,9 +4825,13 @@
     {
      "fecha": "2026-11-04",
      "precio": 24.95
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 24.95
     }
    ],
-   "mostrada_antes": false,
+   "mostrada_antes": true,
    "valoracion": {
     "nota": 4.4,
     "n": 8,
@@ -4746,7 +4849,7 @@
    "descuento_pct": 48,
    "enlace": "https://www.druni.es/aquasource-hyalu-plump-30-ml-biotherm-gel-hidratante",
    "imagen": "https://www.druni.es/media/catalog/product/5/0/5022637.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "flash",
@@ -4760,9 +4863,13 @@
     {
      "fecha": "2026-11-04",
      "precio": 17.68
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 17.68
     }
    ],
-   "mostrada_antes": false
+   "mostrada_antes": true
   },
   {
    "id": "druni-flash-clinique-alleyesrich",
@@ -4775,7 +4882,7 @@
    "descuento_pct": 44,
    "enlace": "https://www.druni.es/all-about-eyes-rich-clinique-crema-contorno-ojos-rica-hidratantes",
    "imagen": "https://www.druni.es/media/catalog/product/1/7/1782051.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "flash",
@@ -4789,9 +4896,13 @@
     {
      "fecha": "2026-11-04",
      "precio": 25.95
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 25.95
     }
    ],
-   "mostrada_antes": false,
+   "mostrada_antes": true,
    "valoracion": {
     "nota": 4.7,
     "n": 144,
@@ -4809,7 +4920,7 @@
    "descuento_pct": 40,
    "enlace": "https://www.druni.es/addition-concentre-eclat-clarins-tratamiento-autobronceador-rostro",
    "imagen": "https://www.druni.es/media/catalog/product/1/7/1758220.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "flash",
@@ -4823,9 +4934,13 @@
     {
      "fecha": "2026-11-04",
      "precio": 20.7
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 20.7
     }
    ],
-   "mostrada_antes": false,
+   "mostrada_antes": true,
    "valoracion": {
     "nota": 4.5,
     "n": 82,
@@ -4843,7 +4958,7 @@
    "descuento_pct": 40,
    "enlace": "https://www.druni.es/cofre-crema-peptides-spf-30-biotherm",
    "imagen": "https://www.druni.es/media/catalog/product/1/7/1747066.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "flash",
@@ -4857,9 +4972,13 @@
     {
      "fecha": "2026-11-04",
      "precio": 64.95
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 64.95
     }
    ],
-   "mostrada_antes": false,
+   "mostrada_antes": true,
    "valoracion": {
     "nota": 4.6,
     "n": 11,
@@ -4877,7 +4996,7 @@
    "descuento_pct": 41,
    "enlace": "https://www.druni.es/estuche-retinol-ceramide-capsules-elizabeth-arden-rutina-antiedad",
    "imagen": "https://www.druni.es/media/catalog/product/1/7/1797105.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "cuidado-piel",
    "tipo": "flash",
@@ -4891,9 +5010,13 @@
     {
      "fecha": "2026-11-04",
      "precio": 74.95
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 74.95
     }
    ],
-   "mostrada_antes": false
+   "mostrada_antes": true
   },
   {
    "id": "druni-flash-drirenaeris-bb-spf50",
@@ -5032,7 +5155,7 @@
    "descuento_pct": 64,
    "enlace": "https://www.druni.es/feminin-ungaro-eau-toilette-mujer",
    "imagen": "https://www.druni.es/media/catalog/product/1/6/1664031.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "perfume",
@@ -5046,9 +5169,13 @@
     {
      "fecha": "2026-11-04",
      "precio": 24.95
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 24.95
     }
    ],
-   "mostrada_antes": false,
+   "mostrada_antes": true,
    "valoracion": {
     "nota": 3.7,
     "n": 7,
@@ -5066,7 +5193,7 @@
    "descuento_pct": 48,
    "enlace": "https://www.druni.es/estuche-l-eau-issey-pure-issey-miyake-eau-toilette-mujer",
    "imagen": "https://www.druni.es/media/catalog/product/1/6/1647084.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "perfume",
@@ -5080,9 +5207,13 @@
     {
      "fecha": "2026-11-04",
      "precio": 69.95
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 69.95
     }
    ],
-   "mostrada_antes": false,
+   "mostrada_antes": true,
    "valoracion": {
     "nota": 4,
     "n": 64,
@@ -5100,7 +5231,7 @@
    "descuento_pct": 38,
    "enlace": "https://www.druni.es/green-infinity-michael-kors-eau-parfum",
    "imagen": "https://www.druni.es/media/catalog/product/1/6/1629283.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "perfume",
@@ -5114,9 +5245,13 @@
     {
      "fecha": "2026-11-04",
      "precio": 69.95
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 69.95
     }
    ],
-   "mostrada_antes": false
+   "mostrada_antes": true
   },
   {
    "id": "primor-flash-lancome-lashidole-flutter",
@@ -5245,7 +5380,7 @@
    "descuento_pct": 68,
    "enlace": "https://www.primor.eu/es_es/burberry-burberry-for-men-clasica-112262.html",
    "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/M/_/M_4AM00121_1_47ce.jpg",
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "disponible",
    "categoria": "perfumeria",
    "tipo": "perfume",
@@ -5259,9 +5394,13 @@
     {
      "fecha": "2026-11-04",
      "precio": 29.95
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 29.95
     }
    ],
-   "mostrada_antes": false
+   "mostrada_antes": true
   },
   {
    "id": "zara-blusa-volantes-lunares",
@@ -5274,7 +5413,7 @@
    "descuento_pct": 49,
    "enlace": "https://www.zara.com/es/es/blusa-volantes-lunares-p04387268.html",
    "imagen": null,
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "no confirmada",
    "categoria": "moda",
    "tipo": "moda",
@@ -5288,35 +5427,170 @@
     {
      "fecha": "2026-11-04",
      "precio": 12.99
+    },
+    {
+     "fecha": "2026-11-05",
+     "precio": 12.99
     }
    ],
-   "mostrada_antes": false
+   "mostrada_antes": true
   },
   {
-   "id": "zara-jersey-punto-estructura",
-   "producto": "Jersey punto estructura",
+   "id": "druni-flash-biotherm-bluepeptides-eyes",
+   "producto": "Blue Peptides Eyes & Lips Reshaper",
+   "marca": "BIOTHERM",
+   "formato": "15 ml",
+   "tienda": "Druni",
+   "precio_actual": 37.44,
+   "precio_anterior": 72,
+   "descuento_pct": 48,
+   "enlace": "https://www.druni.es/blue-peptides-eyes-lips-reshaper-biotherm",
+   "imagen": "https://www.druni.es/media/catalog/product/5/0/5022294.jpg",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash de Druni (05/11/2026), «Solo hoy». Precio de la ficha (JSON-LD, InStock).",
+   "fecha_limite": "2026-11-05",
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-11-05",
+     "precio": 37.44
+    }
+   ],
+   "mostrada_antes": false,
+   "valoracion": {
+    "nota": 4.3,
+    "n": 7,
+    "fuente": "Druni"
+   }
+  },
+  {
+   "id": "druni-flash-clarins-cofre-doubleserum",
+   "producto": "Cofre Doble Serum + Extra Firming",
+   "marca": "CLARINS",
+   "formato": "Cofre",
+   "tienda": "Druni",
+   "precio_actual": 87.95,
+   "precio_anterior": 147,
+   "descuento_pct": 40,
+   "enlace": "https://www.druni.es/estuche-double-serum-extra-firming-clarins-tratamiento-antiedad-dia-noche",
+   "imagen": "https://www.druni.es/media/catalog/product/1/7/1758134.jpg",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash de Druni (05/11/2026), «Solo hoy». Precio de la ficha (JSON-LD, InStock).",
+   "fecha_limite": "2026-11-05",
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-11-05",
+     "precio": 87.95
+    }
+   ],
+   "mostrada_antes": false,
+   "valoracion": {
+    "nota": 4.6,
+    "n": 33,
+    "fuente": "Druni"
+   }
+  },
+  {
+   "id": "druni-flash-esteelauder-perfectlyclean-150",
+   "producto": "Perfectly Clean Multi-Action Foam Cleanser",
+   "marca": "ESTEE LAUDER",
+   "formato": "150 ml",
+   "tienda": "Druni",
+   "precio_actual": 22.95,
+   "precio_anterior": 39,
+   "descuento_pct": 41,
+   "enlace": "https://www.druni.es/perfectly-clean-multi-action-foam-cleanser-estee-lauder-todo-tipo-pieles",
+   "imagen": "https://www.druni.es/media/catalog/product/1/7/1788010.jpg",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
+   "disponibilidad": "disponible",
+   "categoria": "cuidado-piel",
+   "tipo": "flash",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Oferta flash de Druni (05/11/2026), «Solo hoy». Precio de la ficha (JSON-LD, InStock).",
+   "fecha_limite": "2026-11-05",
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-11-05",
+     "precio": 22.95
+    }
+   ],
+   "mostrada_antes": false,
+   "valoracion": {
+    "nota": 4.8,
+    "n": 68,
+    "fuente": "Druni"
+   }
+  },
+  {
+   "id": "zara-blazer-entallada-rayas",
+   "producto": "Blazer entallada rayas",
    "marca": "Zara",
    "formato": "talla variable",
    "tienda": "Zara",
-   "precio_actual": 17.99,
-   "precio_anterior": 35.95,
+   "precio_actual": 22.99,
+   "precio_anterior": 45.95,
    "descuento_pct": 49,
-   "enlace": "https://www.zara.com/es/es/jersey-punto-estructura-p06771200.html",
+   "enlace": "https://www.zara.com/es/es/blazer-entallada-rayas-p07930598.html",
    "imagen": null,
-   "fecha_verificacion": "2026-11-04T10:00:00+01:00",
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
    "disponibilidad": "no confirmada",
    "categoria": "moda",
    "tipo": "moda",
    "grupo": null,
    "motivo": null,
-   "ventaja": "Special Prices de Zara (DEL 22.09 AL 07.01 según la página). Precio leído en el listado; stock por talla no comprobado.",
+   "ventaja": "Precio leído en la web de Zara el 05/11/2026; tallas sin comprobar.",
    "fecha_limite": "2027-01-07",
    "precio_desde": false,
    "ejemplo": false,
    "historial": [
     {
-     "fecha": "2026-11-04",
-     "precio": 17.99
+     "fecha": "2026-11-05",
+     "precio": 22.99
+    }
+   ],
+   "mostrada_antes": false
+  },
+  {
+   "id": "hm-pantalon-sastre",
+   "producto": "Pantalón sastre",
+   "marca": "H&M",
+   "formato": "talla variable",
+   "tienda": "H&M",
+   "precio_actual": 20.99,
+   "precio_anterior": 29.99,
+   "descuento_pct": 30,
+   "enlace": "https://www2.hm.com/es_es/productpage.1322846001.html",
+   "imagen": null,
+   "fecha_verificacion": "2026-11-05T10:00:00+01:00",
+   "disponibilidad": "no confirmada",
+   "categoria": "moda",
+   "tipo": "moda",
+   "grupo": null,
+   "motivo": null,
+   "ventaja": "Precio leído en la web de H&M el 05/11/2026; tallas sin comprobar.",
+   "fecha_limite": null,
+   "precio_desde": false,
+   "ejemplo": false,
+   "historial": [
+    {
+     "fecha": "2026-11-05",
+     "precio": 20.99
     }
    ],
    "mostrada_antes": false
