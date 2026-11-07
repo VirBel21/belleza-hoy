@@ -1,257 +1,257 @@
 {
- "eventos": [
-  {
-   "id": "hal",
-   "nombre": "Primor: Ofertas de Halloween 2026 y código HALLOWEEN (−10 % extra)",
-   "fecha": "2026-10-31",
-   "estado": "no confirmado",
-   "detalle": "Primor no publica la fecha de fin; se asume el 31 de octubre (Halloween). Descuentos de hasta el 83 % según su página (26/10/2026). Campaña finalizada el 31/10/2026; productos retirados el 01/11/2026."
+  "eventos": [
+    {
+      "id": "hal",
+      "nombre": "Primor: Ofertas de Halloween 2026 y código HALLOWEEN (−10 % extra)",
+      "fecha": "2026-10-31",
+      "estado": "no confirmado",
+      "detalle": "Primor no publica la fecha de fin; se asume el 31 de octubre (Halloween). Descuentos de hasta el 83 % según su página (26/10/2026). Campaña finalizada el 31/10/2026; productos retirados el 01/11/2026."
+    },
+    {
+      "id": "singles",
+      "nombre": "Singles' Day",
+      "fecha": "2026-11-11",
+      "estado": "confirmado",
+      "detalle": "11 de noviembre."
+    },
+    {
+      "id": "bf",
+      "nombre": "Black Friday",
+      "fecha": "2026-11-27",
+      "estado": "confirmado",
+      "detalle": "Viernes 27 de noviembre de 2026."
+    },
+    {
+      "id": "cm",
+      "nombre": "Cyber Monday",
+      "fecha": "2026-11-30",
+      "estado": "confirmado",
+      "detalle": "Lunes 30 de noviembre."
+    },
+    {
+      "id": "bw",
+      "nombre": "Black Week",
+      "fecha": null,
+      "estado": "no confirmado",
+      "detalle": "Muchas tiendas la adelantan a la semana previa; fechas por confirmar tienda a tienda."
+    },
+    {
+      "id": "iva",
+      "nombre": "Días sin IVA",
+      "fecha": null,
+      "estado": "no confirmado",
+      "detalle": "Promoción de cada tienda; pendiente de anuncio."
+    },
+    {
+      "id": "promos",
+      "nombre": "Promociones de tiendas (Primor, Druni, Sephora…)",
+      "fecha": null,
+      "estado": "no confirmado",
+      "detalle": "Se añadirán cuando la tienda las publique."
+    },
+    {
+      "id": "p2",
+      "nombre": "Primor: Sensilis -60%",
+      "fecha": "2026-10-30",
+      "estado": "confirmado",
+      "detalle": "Primor, promociones activas (leído 22/10/2026). Del 15/10 al 30/10 (fecha mostrada: fin)."
+    },
+    {
+      "id": "p3",
+      "nombre": "Primor: Revlon maquillaje, 2ª unidad al 50%",
+      "fecha": "2026-11-19",
+      "estado": "confirmado",
+      "detalle": "Primor, promociones activas (leído 22/10/2026). Del 19/10 al 19/11 (fecha mostrada: fin)."
+    },
+    {
+      "id": "p4",
+      "nombre": "Primor: Leti, 2ª unidad al 15%",
+      "fecha": "2026-11-30",
+      "estado": "confirmado",
+      "detalle": "Primor, promociones activas (leído 22/10/2026). Del 05/10 al 30/11 (fecha mostrada: fin)."
+    },
+    {
+      "id": "p5",
+      "nombre": "Primor: 3 € de descuento en la primera compra por newsletter",
+      "fecha": null,
+      "estado": "no confirmado",
+      "detalle": "Primor, promociones activas (leído 22/10/2026). Sin código ni fechas visibles."
+    },
+    {
+      "id": "p6",
+      "nombre": "Primor: regalos por compra (83 promociones de marca)",
+      "fecha": null,
+      "estado": "no confirmado",
+      "detalle": "Hasta fin de existencias, 1 por cliente; sin fechas. Ej.: Some By Mi, retinol contorno de ojos en compras de más de 25 €."
+    },
+    {
+      "id": "p7",
+      "nombre": "Primor: código PRIMOR (−10 % extra en categorías seleccionadas)",
+      "fecha": null,
+      "estado": "no confirmado",
+      "detalle": "Banner de Primor leído el 01/11/2026; sin fechas ni condiciones visibles."
+    },
+    {
+      "id": "p8",
+      "nombre": "Primor: 3x2 Colgate y 2ª unidad al 30% (Rhinomer, Cantabria Labs)",
+      "fecha": null,
+      "estado": "no confirmado",
+      "detalle": "Primor, promociones activas (leído 02/11/2026). Sin fechas visibles."
+    }
+  ],
+  "tiendas": [
+    {
+      "nombre": "Primor",
+      "grupo": "base",
+      "acceso": "navegador",
+      "urls": [
+        "https://www.primor.eu/es_es/ofertas-flash",
+        "https://www.primor.eu/es_es/ofertas-halloween",
+        "https://www.primor.eu/es_es/promociones-activas",
+        "https://www.primor.eu/es_es/rebajas",
+        "https://www.primor.eu/es_es/regalos-por-compra"
+      ],
+      "nota": "En el navegador integrado el listado muestra «Añadir al carrito» y la ficha trae disponibilidad InStock y precios por tamaño (optionPrices). Envío gratis desde 25 €. Los «Agotado» de WebFetch eran un fallo de lectura."
+    },
+    {
+      "nombre": "Druni",
+      "grupo": "base",
+      "acceso": "navegador",
+      "urls": [
+        "https://www.druni.es/ofertas-flash",
+        "https://www.druni.es/virales-tiktok",
+        "https://www.druni.es/promociones"
+      ],
+      "nota": "En el navegador integrado cada ficha trae datos estructurados (precio, stock InStock, imagen). Envío gratis desde 20 €. Los «No está disponible» leídos por WebFetch eran un fallo de lectura."
+    },
+    {
+      "nombre": "Sephora",
+      "grupo": "base",
+      "acceso": "lectura",
+      "urls": []
+    },
+    {
+      "nombre": "Douglas",
+      "grupo": "comparar",
+      "acceso": "bloqueado",
+      "urls": [],
+      "nota": "Respondieron 403 a la lectura automática el 22/10/2026; no se intenta saltar el bloqueo. Datos a mano."
+    },
+    {
+      "nombre": "Notino",
+      "grupo": "comparar",
+      "acceso": "bloqueado",
+      "urls": [],
+      "nota": "Respondieron 403 a la lectura automática el 22/10/2026; no se intenta saltar el bloqueo. Datos a mano."
+    },
+    {
+      "nombre": "El Corte Inglés",
+      "grupo": "comparar",
+      "acceso": "dinamico",
+      "urls": []
+    },
+    {
+      "nombre": "Perfumes Club",
+      "grupo": "comparar",
+      "acceso": "dinamico",
+      "urls": []
+    },
+    {
+      "nombre": "Marvimundo",
+      "grupo": "comparar",
+      "acceso": "desconocido",
+      "urls": []
+    },
+    {
+      "nombre": "Atida/Mifarma",
+      "grupo": "comparar",
+      "acceso": "desconocido",
+      "urls": []
+    },
+    {
+      "nombre": "Promofarma",
+      "grupo": "comparar",
+      "acceso": "desconocido",
+      "urls": []
+    },
+    {
+      "nombre": "Amazon.es",
+      "grupo": "comparar",
+      "acceso": "bloqueado",
+      "urls": []
+    },
+    {
+      "nombre": "YesStyle",
+      "grupo": "kbeauty",
+      "acceso": "desconocido",
+      "urls": []
+    },
+    {
+      "nombre": "Stylevana",
+      "grupo": "kbeauty",
+      "acceso": "dinamico",
+      "urls": []
+    },
+    {
+      "nombre": "Soko Glam",
+      "grupo": "kbeauty",
+      "acceso": "desconocido",
+      "urls": []
+    },
+    {
+      "nombre": "Zara",
+      "grupo": "moda",
+      "acceso": "navegador",
+      "urls": [
+        "https://www.zara.com/es/es/mujer-precios-especiales-l1314.html"
+      ],
+      "nota": "WebFetch recibe 403; se lee bien con el navegador integrado de Claude (get_page_text). Precios y % los muestra la tienda."
+    },
+    {
+      "nombre": "Bershka",
+      "grupo": "moda",
+      "acceso": "navegador",
+      "urls": [
+        "https://www.bershka.com/es/mujer/promo-hasta-3025-n4404.html"
+      ],
+      "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 28/10/2026."
+    },
+    {
+      "nombre": "Mango",
+      "grupo": "moda",
+      "acceso": "navegador",
+      "urls": [
+        "https://shop.mango.com/es/es/c/mujer/promocion/7914393e",
+        "https://shop.mango.com/es/es/events"
+      ],
+      "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 28/10/2026. La página /events solo describe campañas pasadas, sin fechas de 2026. El 28/10/2026 el listado solo cargó 9 prendas (lazy-load)."
+    },
+    {
+      "nombre": "H&M",
+      "grupo": "moda",
+      "acceso": "navegador",
+      "urls": [
+        "https://www2.hm.com/es_es/mujer/last-chance/ver-todos.html"
+      ],
+      "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 28/10/2026."
+    }
+  ],
+  "categorias": {
+    "maquillaje": "Maquillaje",
+    "cuidado-piel": "Cuidado de la piel",
+    "cabello": "Cuidado capilar",
+    "perfumeria": "Perfumería",
+    "kbeauty": "K-beauty",
+    "moda": "Moda"
   },
-  {
-   "id": "singles",
-   "nombre": "Singles' Day",
-   "fecha": "2026-11-11",
-   "estado": "confirmado",
-   "detalle": "11 de noviembre."
-  },
-  {
-   "id": "bf",
-   "nombre": "Black Friday",
-   "fecha": "2026-11-27",
-   "estado": "confirmado",
-   "detalle": "Viernes 27 de noviembre de 2026."
-  },
-  {
-   "id": "cm",
-   "nombre": "Cyber Monday",
-   "fecha": "2026-11-30",
-   "estado": "confirmado",
-   "detalle": "Lunes 30 de noviembre."
-  },
-  {
-   "id": "bw",
-   "nombre": "Black Week",
-   "fecha": null,
-   "estado": "no confirmado",
-   "detalle": "Muchas tiendas la adelantan a la semana previa; fechas por confirmar tienda a tienda."
-  },
-  {
-   "id": "iva",
-   "nombre": "Días sin IVA",
-   "fecha": null,
-   "estado": "no confirmado",
-   "detalle": "Promoción de cada tienda; pendiente de anuncio."
-  },
-  {
-   "id": "promos",
-   "nombre": "Promociones de tiendas (Primor, Druni, Sephora…)",
-   "fecha": null,
-   "estado": "no confirmado",
-   "detalle": "Se añadirán cuando la tienda las publique."
-  },
-  {
-   "id": "p2",
-   "nombre": "Primor: Sensilis -60%",
-   "fecha": "2026-10-30",
-   "estado": "confirmado",
-   "detalle": "Primor, promociones activas (leído 22/10/2026). Del 15/10 al 30/10 (fecha mostrada: fin)."
-  },
-  {
-   "id": "p3",
-   "nombre": "Primor: Revlon maquillaje, 2ª unidad al 50%",
-   "fecha": "2026-11-19",
-   "estado": "confirmado",
-   "detalle": "Primor, promociones activas (leído 22/10/2026). Del 19/10 al 19/11 (fecha mostrada: fin)."
-  },
-  {
-   "id": "p4",
-   "nombre": "Primor: Leti, 2ª unidad al 15%",
-   "fecha": "2026-11-30",
-   "estado": "confirmado",
-   "detalle": "Primor, promociones activas (leído 22/10/2026). Del 05/10 al 30/11 (fecha mostrada: fin)."
-  },
-  {
-   "id": "p5",
-   "nombre": "Primor: 3 € de descuento en la primera compra por newsletter",
-   "fecha": null,
-   "estado": "no confirmado",
-   "detalle": "Primor, promociones activas (leído 22/10/2026). Sin código ni fechas visibles."
-  },
-  {
-   "id": "p6",
-   "nombre": "Primor: regalos por compra (83 promociones de marca)",
-   "fecha": null,
-   "estado": "no confirmado",
-   "detalle": "Hasta fin de existencias, 1 por cliente; sin fechas. Ej.: Some By Mi, retinol contorno de ojos en compras de más de 25 €."
-  },
-  {
-   "id": "p7",
-   "nombre": "Primor: código PRIMOR (−10 % extra en categorías seleccionadas)",
-   "fecha": null,
-   "estado": "no confirmado",
-   "detalle": "Banner de Primor leído el 01/11/2026; sin fechas ni condiciones visibles."
-  },
-  {
-   "id": "p8",
-   "nombre": "Primor: 3x2 Colgate y 2ª unidad al 30% (Rhinomer, Cantabria Labs)",
-   "fecha": null,
-   "estado": "no confirmado",
-   "detalle": "Primor, promociones activas (leído 02/11/2026). Sin fechas visibles."
+  "afiliados": false,
+  "notas_catalogo": "Stradivarius excluida: sus ofertas solo se ven en su aplicación.",
+  "campana": {
+    "nombre": "Halloween en Primor",
+    "texto": "Descuentos de hasta el 83 % en perfumes, maquillaje y cosmética, más el código HALLOWEEN (−10 % extra en categorías seleccionadas).",
+    "hasta": "2026-10-31",
+    "hasta_confirmado": false,
+    "enlace": "https://www.primor.eu/es_es/ofertas-halloween",
+    "codigo": "HALLOWEEN"
   }
- ],
- "tiendas": [
-  {
-   "nombre": "Primor",
-   "grupo": "base",
-   "acceso": "navegador",
-   "urls": [
-    "https://www.primor.eu/es_es/ofertas-flash",
-    "https://www.primor.eu/es_es/ofertas-halloween",
-    "https://www.primor.eu/es_es/promociones-activas",
-    "https://www.primor.eu/es_es/rebajas",
-    "https://www.primor.eu/es_es/regalos-por-compra"
-   ],
-   "nota": "En el navegador integrado el listado muestra «Añadir al carrito» y la ficha trae disponibilidad InStock y precios por tamaño (optionPrices). Envío gratis desde 25 €. Los «Agotado» de WebFetch eran un fallo de lectura."
-  },
-  {
-   "nombre": "Druni",
-   "grupo": "base",
-   "acceso": "navegador",
-   "urls": [
-    "https://www.druni.es/ofertas-flash",
-    "https://www.druni.es/virales-tiktok",
-    "https://www.druni.es/promociones"
-   ],
-   "nota": "En el navegador integrado cada ficha trae datos estructurados (precio, stock InStock, imagen). Envío gratis desde 20 €. Los «No está disponible» leídos por WebFetch eran un fallo de lectura."
-  },
-  {
-   "nombre": "Sephora",
-   "grupo": "base",
-   "acceso": "lectura",
-   "urls": []
-  },
-  {
-   "nombre": "Douglas",
-   "grupo": "comparar",
-   "acceso": "bloqueado",
-   "urls": [],
-   "nota": "Respondieron 403 a la lectura automática el 22/10/2026; no se intenta saltar el bloqueo. Datos a mano."
-  },
-  {
-   "nombre": "Notino",
-   "grupo": "comparar",
-   "acceso": "bloqueado",
-   "urls": [],
-   "nota": "Respondieron 403 a la lectura automática el 22/10/2026; no se intenta saltar el bloqueo. Datos a mano."
-  },
-  {
-   "nombre": "El Corte Inglés",
-   "grupo": "comparar",
-   "acceso": "dinamico",
-   "urls": []
-  },
-  {
-   "nombre": "Perfumes Club",
-   "grupo": "comparar",
-   "acceso": "dinamico",
-   "urls": []
-  },
-  {
-   "nombre": "Marvimundo",
-   "grupo": "comparar",
-   "acceso": "desconocido",
-   "urls": []
-  },
-  {
-   "nombre": "Atida/Mifarma",
-   "grupo": "comparar",
-   "acceso": "desconocido",
-   "urls": []
-  },
-  {
-   "nombre": "Promofarma",
-   "grupo": "comparar",
-   "acceso": "desconocido",
-   "urls": []
-  },
-  {
-   "nombre": "Amazon.es",
-   "grupo": "comparar",
-   "acceso": "bloqueado",
-   "urls": []
-  },
-  {
-   "nombre": "YesStyle",
-   "grupo": "kbeauty",
-   "acceso": "desconocido",
-   "urls": []
-  },
-  {
-   "nombre": "Stylevana",
-   "grupo": "kbeauty",
-   "acceso": "dinamico",
-   "urls": []
-  },
-  {
-   "nombre": "Soko Glam",
-   "grupo": "kbeauty",
-   "acceso": "desconocido",
-   "urls": []
-  },
-  {
-   "nombre": "Zara",
-   "grupo": "moda",
-   "acceso": "navegador",
-   "urls": [
-    "https://www.zara.com/es/es/mujer-precios-especiales-l1314.html"
-   ],
-   "nota": "WebFetch recibe 403; se lee bien con el navegador integrado de Claude (get_page_text). Precios y % los muestra la tienda."
-  },
-  {
-   "nombre": "Bershka",
-   "grupo": "moda",
-   "acceso": "navegador",
-   "urls": [
-    "https://www.bershka.com/es/mujer/promo-hasta-3025-n4404.html"
-   ],
-   "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 28/10/2026."
-  },
-  {
-   "nombre": "Mango",
-   "grupo": "moda",
-   "acceso": "navegador",
-   "urls": [
-    "https://shop.mango.com/es/es/c/mujer/promocion/7914393e",
-    "https://shop.mango.com/es/es/events"
-   ],
-   "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 28/10/2026. La página /events solo describe campañas pasadas, sin fechas de 2026. El 28/10/2026 el listado solo cargó 9 prendas (lazy-load)."
-  },
-  {
-   "nombre": "H&M",
-   "grupo": "moda",
-   "acceso": "navegador",
-   "urls": [
-    "https://www2.hm.com/es_es/mujer/last-chance/ver-todos.html"
-   ],
-   "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 28/10/2026."
-  }
- ],
- "categorias": {
-  "maquillaje": "Maquillaje",
-  "cuidado-piel": "Cuidado de la piel",
-  "cabello": "Cuidado capilar",
-  "perfumeria": "Perfumería",
-  "kbeauty": "K-beauty",
-  "moda": "Moda"
- },
- "afiliados": false,
- "notas_catalogo": "Stradivarius excluida: sus ofertas solo se ven en su aplicación.",
- "campana": {
-  "nombre": "Halloween en Primor",
-  "texto": "Descuentos de hasta el 83 % en perfumes, maquillaje y cosmética, más el código HALLOWEEN (−10 % extra en categorías seleccionadas).",
-  "hasta": "2026-10-31",
-  "hasta_confirmado": false,
-  "enlace": "https://www.primor.eu/es_es/ofertas-halloween",
-  "codigo": "HALLOWEEN"
- }
 }
