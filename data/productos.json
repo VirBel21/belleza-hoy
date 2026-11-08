@@ -1,9 +1,9 @@
 {
   "meta": {
-    "actualizado": "2026-11-07T10:30:00+01:00",
+    "actualizado": "2026-11-08T10:30:00+01:00",
     "ejemplo": false,
     "umbral_flash": 30,
-    "nota": "Datos revisados el 07/11/2026 (navegador integrado). Druni: 53 fichas releídas (JSON-LD), solo cambia el corrector NARS; ofertas «Solo hoy» de ayer retiradas y las de hoy añadidas. Primor: precio por tamaño (optionPrices) releído en 23 fichas; en 8 fichas no se pudo leer el desglose y conservan su verificación anterior. Moda: no releída hoy (conserva verificación del 05/11/2026)."
+    "nota": "Datos revisados el 08/11/2026 (navegador integrado). Druni: ofertas «Solo hoy» releídas por ficha (JSON-LD, 15 fichas) y listados flash/virales (precios «Tan bajo como» confirmados en listado) sin cambios de precio. Primor: listado flash de hoy leído, pero sus fichas no se releyeron: los productos de Primor conservan su verificación anterior y se retiraron los flash caducados de ayer. Moda: no releída hoy."
   },
   "productos": [
     {
@@ -1622,7 +1622,7 @@
       "descuento_pct": 13,
       "enlace": "https://www.druni.es/relief-sun-aqua-fresh-rice-beauty-of-joseon-protector-solar-spf-50",
       "imagen": "https://www.druni.es/media/catalog/product/1/4/1467743.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "kbeauty",
       "tipo": "kbeauty",
@@ -1692,6 +1692,10 @@
         {
           "fecha": "2026-11-07",
           "precio": 14.74
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 14.74
         }
       ],
       "valoracion": {
@@ -1712,7 +1716,7 @@
       "descuento_pct": null,
       "enlace": "https://www.druni.es/rice-probiotics-beauty-of-joseon-protector-solar-organico",
       "imagen": "https://www.druni.es/media/catalog/product/1/4/1467068.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "kbeauty",
       "tipo": "kbeauty",
@@ -1781,6 +1785,10 @@
         },
         {
           "fecha": "2026-11-07",
+          "precio": 14.95
+        },
+        {
+          "fecha": "2026-11-08",
           "precio": 14.95
         }
       ],
@@ -1887,7 +1895,7 @@
       "descuento_pct": null,
       "enlace": "https://www.druni.es/niacinamide-10-zinc-1-the-ordinary-formula-antienrojecimiento",
       "imagen": "https://www.druni.es/media/catalog/product/4/0/4072.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "viral",
@@ -1949,6 +1957,10 @@
         {
           "fecha": "2026-11-07",
           "precio": 6
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 6
         }
       ],
       "valoracion": {
@@ -1969,7 +1981,7 @@
       "descuento_pct": 20,
       "enlace": "https://www.druni.es/gel-limpiador-espumoso-cerave-piel-normal-grasa",
       "imagen": "https://www.druni.es/media/catalog/product/4/1/4158.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "viral",
@@ -2031,6 +2043,10 @@
         {
           "fecha": "2026-11-07",
           "precio": 8.98
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 8.98
         }
       ],
       "valoracion": {
@@ -2051,7 +2067,7 @@
       "descuento_pct": 29,
       "enlace": "https://www.druni.es/cicaplast-baume-b5-la-roche-posay-balsamo-reparador-calmante",
       "imagen": "https://www.druni.es/media/catalog/product/7/8/7872.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "viral",
@@ -2113,6 +2129,10 @@
         {
           "fecha": "2026-11-07",
           "precio": 9.95
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 9.95
         }
       ],
       "valoracion": {
@@ -2133,7 +2153,7 @@
       "descuento_pct": null,
       "enlace": "https://www.druni.es/champu-extracto-cebolla-babaria-antioxidante-estimulante",
       "imagen": "https://www.druni.es/media/catalog/product/1/3/1306624.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cabello",
       "tipo": "viral",
@@ -2203,6 +2223,10 @@
         {
           "fecha": "2026-11-07",
           "precio": 2.7
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 2.7
         }
       ],
       "valoracion": {
@@ -2223,7 +2247,7 @@
       "descuento_pct": null,
       "enlace": "https://www.druni.es/k-genesis-serum-anti-chute-fortifiant-kerastase-serum-anti-caida-cabello-debilitado",
       "imagen": "https://www.druni.es/media/catalog/product/h/q/hqdefault_134_10.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cabello",
       "tipo": "viral",
@@ -2284,6 +2308,10 @@
         },
         {
           "fecha": "2026-11-07",
+          "precio": 22.99
+        },
+        {
+          "fecha": "2026-11-08",
           "precio": 22.99
         }
       ],
@@ -2395,7 +2423,7 @@
       "descuento_pct": 53,
       "enlace": "https://www.druni.es/lash-idole-mascara-lancome-pestanas-volumen",
       "imagen": "https://www.druni.es/media/catalog/product/8/8/8852.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "viral",
@@ -2456,6 +2484,10 @@
         },
         {
           "fecha": "2026-11-07",
+          "precio": 18.95
+        },
+        {
+          "fecha": "2026-11-08",
           "precio": 18.95
         }
       ],
@@ -2821,7 +2853,7 @@
       "descuento_pct": 27,
       "enlace": "https://www.druni.es/buttermelt-blush-nyx-professional-make-up-colorete-polvo",
       "imagen": "https://www.druni.es/media/catalog/product/8/8/8883.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "viral",
@@ -2882,6 +2914,10 @@
         },
         {
           "fecha": "2026-11-07",
+          "precio": 8.75
+        },
+        {
+          "fecha": "2026-11-08",
           "precio": 8.75
         }
       ],
@@ -5086,39 +5122,6 @@
       "mostrada_antes": false
     },
     {
-      "id": "primor-flash-clinique-jabon-suave-150",
-      "producto": "Jabón facial suave piel mixta (Liquid Facial Soap Mild)",
-      "marca": "CLINIQUE",
-      "formato": "150 ml",
-      "tienda": "Primor",
-      "precio_actual": 19.95,
-      "precio_anterior": 39.5,
-      "descuento_pct": 49,
-      "enlace": "https://www.primor.eu/es_es/clinique-jabon-facial-suave-piel-mixta-27880.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/0/T/0TF02644_1_f3c9.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "cuidado-piel",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de Primor (06/11/2026). Precio de la variante de 150 ml en la ficha (optionPrices: 19,95 €, antes 39,50 €); el listado muestra 19,94 €.",
-      "fecha_limite": "2026-11-06",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-11-06",
-          "precio": 19.95
-        },
-        {
-          "fecha": "2026-11-07",
-          "precio": 19.95
-        }
-      ],
-      "mostrada_antes": false
-    },
-    {
       "id": "druni-flash-anr-eyelift",
       "producto": "Advanced Night Repair Eye Lift + Sculpt",
       "marca": "ESTEE LAUDER",
@@ -5129,23 +5132,27 @@
       "descuento_pct": 48,
       "enlace": "https://www.druni.es/advanced-night-repair-eye-lift-sculpt-estee-lauder-tratamiento-reafirmante-ojos",
       "imagen": "https://www.druni.es/media/catalog/product/1/5/1576297.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 46.95
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 46.95
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.5,
         "n": 22,
@@ -5163,23 +5170,27 @@
       "descuento_pct": 48,
       "enlace": "https://www.druni.es/mini-mascara-sumptuous-extreme-estee-lauder-pestanas-volumen",
       "imagen": "https://www.druni.es/media/catalog/product/3/7/3784260.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 11.95
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 11.95
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.1,
         "n": 40,
@@ -5197,23 +5208,27 @@
       "descuento_pct": 30,
       "enlace": "https://www.druni.es/silky-shine-illuminating-primer-dr-irena-eris-primer-iluminador",
       "imagen": "https://www.druni.es/media/catalog/product/3/7/3729430.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 19.25
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 19.25
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.7,
         "n": 15,
@@ -5231,23 +5246,27 @@
       "descuento_pct": 45,
       "enlace": "https://www.druni.es/set-loveshine-over-gloss-yves-saint-laurent-set-labial",
       "imagen": "https://www.druni.es/media/catalog/product/3/8/3801545.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 25.3
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 25.3
         }
       ],
-      "mostrada_antes": false
+      "mostrada_antes": true
     },
     {
       "id": "druni-flash-moisture-surge",
@@ -5260,23 +5279,27 @@
       "descuento_pct": 40,
       "enlace": "https://www.druni.es/moisture-surge-72h-clinique-crema-hidratante",
       "imagen": "https://www.druni.es/media/catalog/product/1/7/1775096.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 35.95
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 35.95
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.7,
         "n": 35,
@@ -5294,7 +5317,7 @@
       "descuento_pct": 40,
       "enlace": "https://www.druni.es/luminous-silk-armani-base-ligera-acabado-luminoso",
       "imagen": "https://www.druni.es/media/catalog/product/1/0/10226.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "flash",
@@ -5308,9 +5331,13 @@
         {
           "fecha": "2026-11-07",
           "precio": 37.2
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 37.2
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.4,
         "n": 25,
@@ -5328,23 +5355,27 @@
       "descuento_pct": 40,
       "enlace": "https://www.druni.es/balsamo-retinoide-clinique-manana-noche",
       "imagen": "https://www.druni.es/media/catalog/product/5/0/5022074.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 24
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 24
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.1,
         "n": 52,
@@ -5362,23 +5393,27 @@
       "descuento_pct": 36,
       "enlace": "https://www.druni.es/estuche-institute-solutions-dr-irena-eris-tratamiento-de-accion-rejuvenecedora",
       "imagen": "https://www.druni.es/media/catalog/product/3/0/3000086.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 64.95
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 64.95
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.9,
         "n": 6,
@@ -5396,23 +5431,27 @@
       "descuento_pct": 40,
       "enlace": "https://www.druni.es/estuche-life-plankton-biotherm-tratamiento-regenerador",
       "imagen": "https://www.druni.es/media/catalog/product/1/7/1739156.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 71.95
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 71.95
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.4,
         "n": 76,
@@ -5430,7 +5469,7 @@
       "descuento_pct": 45,
       "enlace": "https://www.druni.es/teint-idole-ultra-wear-lancome-fondo-maquillaje-larga-duracion-cobertura-24h",
       "imagen": "https://www.druni.es/media/catalog/product/7/3/7341.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "flash",
@@ -5444,9 +5483,13 @@
         {
           "fecha": "2026-11-07",
           "precio": 30.25
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 30.25
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.8,
         "n": 94,
@@ -5464,7 +5507,7 @@
       "descuento_pct": 35,
       "enlace": "https://www.druni.es/cc-natural-matte-spf-40-it-cosmetics",
       "imagen": "https://www.druni.es/media/catalog/product/8/7/8777.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "flash",
@@ -5478,9 +5521,13 @@
         {
           "fecha": "2026-11-07",
           "precio": 31.85
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 31.85
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4,
         "n": 8,
@@ -5498,23 +5545,27 @@
       "descuento_pct": 43,
       "enlace": "https://www.druni.es/cofre-navidad-monsieur-lancome",
       "imagen": "https://www.druni.es/media/catalog/product/3/7/3720109.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 23.95
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 23.95
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.6,
         "n": 55,
@@ -5532,23 +5583,27 @@
       "descuento_pct": 50,
       "enlace": "https://www.druni.es/estuche-grand-lashes-elizabeth-arden-kit-maquillaje-ojos",
       "imagen": "https://www.druni.es/media/catalog/product/3/7/3730550.png",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 19.95
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 19.95
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.8,
         "n": 15,
@@ -5566,23 +5621,27 @@
       "descuento_pct": 51,
       "enlace": "https://www.druni.es/uv-expert-supra-screen-lancome-serum-invisible",
       "imagen": "https://www.druni.es/media/catalog/product/1/7/1756081.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 23.95
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 23.95
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.5,
         "n": 24,
@@ -5600,23 +5659,27 @@
       "descuento_pct": 40,
       "enlace": "https://www.druni.es/supra-volume-clarins-mascara-pestanas",
       "imagen": "https://www.druni.es/media/catalog/product/2/7/2729115.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 23.1
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 23.1
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.7,
         "n": 203,
@@ -5634,23 +5697,27 @@
       "descuento_pct": 63,
       "enlace": "https://www.druni.es/latte-matcha-dkny-eau-parfum-mujer",
       "imagen": "https://www.druni.es/media/catalog/product/1/7/1709534.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
       "tipo": "perfume",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 29.95
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 29.95
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 5,
         "n": 1,
@@ -5668,23 +5735,27 @@
       "descuento_pct": 63,
       "enlace": "https://www.druni.es/latte-pistachio-dkny-eau-parfum-mujer",
       "imagen": "https://www.druni.es/media/catalog/product/1/7/1709533.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
       "tipo": "perfume",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 29.95
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 29.95
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 5,
         "n": 1,
@@ -5702,23 +5773,27 @@
       "descuento_pct": 63,
       "enlace": "https://www.druni.es/latte-vanilla-dkny-eau-parfum-mujer",
       "imagen": "https://www.druni.es/media/catalog/product/1/7/1709535.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-08T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
       "tipo": "perfume",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta «Solo hoy» de Druni (07/11/2026). Precio de la ficha; precio anterior del listado.",
-      "fecha_limite": "2026-11-07",
+      "ventaja": "Oferta «Solo hoy» de Druni (08/11/2026). Precio de la ficha; precio anterior del listado.",
+      "fecha_limite": "2026-11-08",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [
         {
           "fecha": "2026-11-07",
           "precio": 29.95
+        },
+        {
+          "fecha": "2026-11-08",
+          "precio": 29.95
         }
       ],
-      "mostrada_antes": false,
+      "mostrada_antes": true,
       "valoracion": {
         "nota": 4.7,
         "n": 10,
@@ -5871,122 +5946,6 @@
         {
           "fecha": "2026-11-07",
           "precio": 31.99
-        }
-      ],
-      "mostrada_antes": false
-    },
-    {
-      "id": "primor-flash-renergie-liftxtend-50",
-      "producto": "Rénergie Collagen Lift-Xtend Cream",
-      "marca": "LANCÔME",
-      "formato": "50 ml",
-      "tienda": "Primor",
-      "precio_actual": 47.6,
-      "precio_anterior": 110,
-      "descuento_pct": 57,
-      "enlace": "https://www.primor.eu/es_es/lancome-renergie-collage-lift-xtend-cream-141334.html",
-      "imagen": null,
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "cuidado-piel",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de Primor (07/11/2026). Precio de la ficha (variante indicada).",
-      "fecha_limite": null,
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-11-07",
-          "precio": 47.6
-        }
-      ],
-      "mostrada_antes": false
-    },
-    {
-      "id": "primor-flash-hydra-zen-50",
-      "producto": "Hydra Zen Crema Anti-estrés",
-      "marca": "LANCÔME",
-      "formato": "50 ml",
-      "tienda": "Primor",
-      "precio_actual": 29.65,
-      "precio_anterior": 60,
-      "descuento_pct": 51,
-      "enlace": "https://www.primor.eu/es_es/lancome-hydra-zen-crema-anti-estres-106197.html",
-      "imagen": null,
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "cuidado-piel",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de Primor (07/11/2026). Precio de la ficha (variante indicada).",
-      "fecha_limite": null,
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-11-07",
-          "precio": 29.65
-        }
-      ],
-      "mostrada_antes": false
-    },
-    {
-      "id": "primor-flash-monsieur-big-10",
-      "producto": "Máscara de Pestañas Monsieur Big",
-      "marca": "LANCÔME",
-      "formato": "10 ml",
-      "tienda": "Primor",
-      "precio_actual": 19.75,
-      "precio_anterior": 40,
-      "descuento_pct": 51,
-      "enlace": "https://www.primor.eu/es_es/lancome-mascara-de-pestanas-monsieur-big-gran-volumen-efecto-pestanas-postizas-110768.html",
-      "imagen": null,
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de Primor (07/11/2026). Precio de la ficha (variante indicada).",
-      "fecha_limite": null,
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-11-07",
-          "precio": 19.75
-        }
-      ],
-      "mostrada_antes": false
-    },
-    {
-      "id": "primor-flash-biotherm-force-supreme-50",
-      "producto": "Force Supreme Gel Antiage",
-      "marca": "BIOTHERM",
-      "formato": "50 ml",
-      "tienda": "Primor",
-      "precio_actual": 57.99,
-      "precio_anterior": 112,
-      "descuento_pct": 48,
-      "enlace": "https://www.primor.eu/es_es/biotherm-force-supreme-gel-antiage-106517.html",
-      "imagen": null,
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "cuidado-piel",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de Primor (07/11/2026). Precio de la ficha (variante indicada).",
-      "fecha_limite": null,
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-11-07",
-          "precio": 57.99
         }
       ],
       "mostrada_antes": false
