@@ -111,7 +111,7 @@
         "https://www.primor.eu/es_es/rebajas",
         "https://www.primor.eu/es_es/regalos-por-compra"
       ],
-      "nota": "En el navegador integrado el listado muestra «Añadir al carrito» y la ficha trae disponibilidad InStock y precios por tamaño (optionPrices). Envío gratis desde 25 €. Los «Agotado» de WebFetch eran un fallo de lectura. 12/11/2026: flash releído. 13/11/2026: flash releído."
+      "nota": "En el navegador integrado el listado muestra «Añadir al carrito» y la ficha trae disponibilidad InStock y precios por tamaño (optionPrices). Envío gratis desde 25 €. Los «Agotado» de WebFetch eran un fallo de lectura. 12/11/2026: flash releído. 13/11/2026: flash releído. 14/11/2026: flash releído."
     },
     {
       "nombre": "Druni",
@@ -122,7 +122,7 @@
         "https://www.druni.es/virales-tiktok",
         "https://www.druni.es/promociones"
       ],
-      "nota": "En el navegador integrado cada ficha trae datos estructurados (precio, stock InStock, imagen). Envío gratis desde 20 €. Los «No está disponible» leídos por WebFetch eran un fallo de lectura. 13/11/2026: flash releído."
+      "nota": "En el navegador integrado cada ficha trae datos estructurados (precio, stock InStock, imagen). Envío gratis desde 20 €. Los «No está disponible» leídos por WebFetch eran un fallo de lectura. 13/11/2026: flash releído. 14/11/2026: flash releído."
     },
     {
       "nombre": "Sephora",
