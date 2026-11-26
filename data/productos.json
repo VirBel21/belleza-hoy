@@ -1,9 +1,9 @@
 {
   "meta": {
-    "actualizado": "2026-11-25T10:30:00+01:00",
+    "actualizado": "2026-11-26T10:30:00+01:00",
     "ejemplo": false,
     "umbral_flash": 30,
-    "nota": "Datos revisados el 25/11/2026 (navegador integrado). Releídas las ofertas flash de Druni (listado + JSON-LD de ficha/variantes) y Primor (listado), y las fichas de Druni de comparadores/virales/K-beauty. Fichas de Primor no flash, Zara, Mango, Bershka y H&M conservan su fecha de verificación anterior (no releídos hoy)."
+    "nota": "Datos revisados el 26/11/2026 (navegador integrado). Releídas las ofertas flash de Druni y Primor (listado + fichas: JSON-LD de Druni y optionPrices de Primor), las fichas de los comparadores/virales/K-beauty y las promociones de moda de Zara, Mango, Bershka y H&M (precios de listado; tallas no comprobadas)."
   },
   "productos": [
     {
@@ -12,12 +12,12 @@
       "marca": "Marc Jacobs",
       "formato": "75 ml",
       "tienda": "Primor",
-      "precio_actual": 66.49,
+      "precio_actual": 69.99,
       "precio_anterior": 125,
       "descuento_pct": null,
       "enlace": "https://www.primor.eu/es_es/marc-jacobs-daisy-ever-so-fresh-eau-de-parfum-112042.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3616303423841_M_a543.jpeg",
-      "fecha_verificacion": "2026-11-17T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
       "tipo": "perfume",
@@ -87,9 +87,13 @@
         {
           "fecha": "2026-11-16",
           "precio": 62.97
+        },
+        {
+          "fecha": "2026-11-17",
+          "precio": 66.49
         }
       ],
-      "mostrada_antes": false
+      "mostrada_antes": true
     },
     {
       "id": "primor-rich-girl-100",
@@ -97,12 +101,12 @@
       "marca": "Police",
       "formato": "100 ml",
       "tienda": "Primor",
-      "precio_actual": 35.95,
+      "precio_actual": 29.94,
       "precio_anterior": 62,
       "descuento_pct": 42,
       "enlace": "https://www.primor.eu/es_es/police-rich-girl-eau-de-toilette-127009.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/0/6/0679602001366_df13.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
       "tipo": "comparador",
@@ -162,7 +166,7 @@
           "precio": 35.95
         }
       ],
-      "mostrada_antes": true
+      "mostrada_antes": false
     },
     {
       "id": "druni-rich-girl-100",
@@ -175,7 +179,7 @@
       "descuento_pct": 52,
       "enlace": "https://www.druni.es/rich-girl-police-eau-toilette-mujer",
       "imagen": "https://www.druni.es/media/catalog/product/1/6/1699956.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
       "tipo": "comparador",
@@ -249,71 +253,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 29.95
-        }
-      ],
-      "mostrada_antes": true
-    },
-    {
-      "id": "primor-drjart-lip-7",
-      "producto": "Ceramidin Bálsamo Labial Hidratante",
-      "marca": "Dr. Jart+",
-      "formato": "7 ml",
-      "tienda": "Primor",
-      "precio_actual": 10.94,
-      "precio_anterior": 16,
-      "descuento_pct": 32,
-      "enlace": "https://www.primor.eu/es_es/dr-jart-ceramidin-balsamo-labial-hidratante-122365.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/8/8/8809844997628_0_73fc.jpg",
-      "fecha_verificacion": "2026-11-13T10:00:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "kbeauty",
-      "tipo": "comparador",
-      "grupo": "g-drjart-lip-7",
-      "motivo": null,
-      "ventaja": null,
-      "fecha_limite": null,
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-10-22",
-          "precio": 9.52
         },
         {
-          "fecha": "2026-10-23",
-          "precio": 9.94
-        },
-        {
-          "fecha": "2026-10-26",
-          "precio": 9.94
-        },
-        {
-          "fecha": "2026-10-28",
-          "precio": 9.94
-        },
-        {
-          "fecha": "2026-10-29",
-          "precio": 10.95
-        },
-        {
-          "fecha": "2026-10-31",
-          "precio": 10.95
-        },
-        {
-          "fecha": "2026-11-01",
-          "precio": 10.94
-        },
-        {
-          "fecha": "2026-11-02",
-          "precio": 10.94
-        },
-        {
-          "fecha": "2026-11-03",
-          "precio": 10.94
-        },
-        {
-          "fecha": "2026-11-04",
-          "precio": 10.94
+          "fecha": "2026-11-25",
+          "precio": 29.95
         }
       ],
       "mostrada_antes": true
@@ -322,20 +265,20 @@
       "id": "druni-drjart-lip-7",
       "producto": "Ceramidin Lip Balm",
       "marca": "Dr. Jart+",
-      "formato": "7 ml",
+      "formato": "según ficha",
       "tienda": "Druni",
       "precio_actual": 12.8,
       "precio_anterior": 16,
       "descuento_pct": 20,
       "enlace": "https://www.druni.es/ceramidin-lip-balm-dr-jart",
       "imagen": "https://www.druni.es/media/catalog/product/5/0/5021909.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "kbeauty",
-      "tipo": "comparador",
-      "grupo": "g-drjart-lip-7",
+      "tipo": "kbeauty",
+      "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash «solo hoy».",
+      "ventaja": "Un solo tamaño en la ficha de Druni. Sin comparación fiable en Primor (cambió su ficha).",
       "fecha_limite": "2026-10-22",
       "precio_desde": false,
       "ejemplo": false,
@@ -403,6 +346,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 12.8
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 12.8
         }
       ],
       "valoracion": {
@@ -423,7 +370,7 @@
       "descuento_pct": 4,
       "enlace": "https://www.druni.es/anti-pigment-dual-serum-eucerin",
       "imagen": "https://www.druni.es/media/catalog/product/5/7/5795032.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "comparador",
@@ -497,6 +444,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 44.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 44.95
         }
       ],
       "valoracion": {
@@ -512,18 +463,18 @@
       "marca": "Eucerin",
       "formato": "30 ml",
       "tienda": "Primor",
-      "precio_actual": 41.94,
+      "precio_actual": 38.23,
       "precio_anterior": 41.95,
       "descuento_pct": 0,
       "enlace": "https://www.primor.eu/es_es/eucerin-anti-pigment-dual-serum-antimanchas-60861.html",
       "imagen": null,
-      "fecha_verificacion": "2026-11-13T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "comparador",
       "grupo": "g-eucerin-dual",
       "motivo": null,
-      "ventaja": null,
+      "ventaja": "Precio de la ficha de Primor (JSON-LD). Sin desglose por tamaño en la ficha; formato según la última verificación.",
       "fecha_limite": null,
       "precio_desde": false,
       "ejemplo": false,
@@ -567,9 +518,13 @@
         {
           "fecha": "2026-11-04",
           "precio": 41.94
+        },
+        {
+          "fecha": "2026-11-13",
+          "precio": 41.94
         }
       ],
-      "mostrada_antes": true
+      "mostrada_antes": false
     },
     {
       "id": "primor-chubby",
@@ -582,7 +537,7 @@
       "descuento_pct": null,
       "enlace": "https://www.primor.eu/es_es/clinique-chubby-stick-maquillaje-para-definir-140411.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/1/9/192333301708_1_ff58.webp",
-      "fecha_verificacion": "2026-11-03T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -643,7 +598,7 @@
       "descuento_pct": 45,
       "enlace": "https://www.druni.es/contorno-chubby-stick-clinique-maquillaje-para-definir",
       "imagen": "https://www.druni.es/media/catalog/product/1/0/10391.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -709,6 +664,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 20.62
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 20.62
         }
       ],
       "valoracion": {
@@ -729,7 +688,7 @@
       "descuento_pct": null,
       "enlace": "https://www.primor.eu/es_es/clarins-gel-de-cejas-wonder-sculpt-145450.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3666057427367_1_a064.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -791,6 +750,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 16.74
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 16.75
         }
       ],
       "mostrada_antes": true
@@ -806,7 +769,7 @@
       "descuento_pct": 40,
       "enlace": "https://www.druni.es/gel-de-cejas-wonder-sculpt-clarins-fijador-efecto-natural",
       "imagen": "https://www.druni.es/media/catalog/product/1/0/10855.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -872,6 +835,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 16.8
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 16.8
         }
       ],
       "valoracion": {
@@ -892,7 +859,7 @@
       "descuento_pct": 45,
       "enlace": "https://www.primor.eu/es_es/yves-saint-laurent-touche-eclat-iluminador-facial-109897.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/3/3365440007017_1_4be6.webp",
-      "fecha_verificacion": "2026-11-16T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -942,6 +909,10 @@
         {
           "fecha": "2026-11-07",
           "precio": 24.74
+        },
+        {
+          "fecha": "2026-11-16",
+          "precio": 24.74
         }
       ],
       "mostrada_antes": true
@@ -957,7 +928,7 @@
       "descuento_pct": 45,
       "enlace": "https://www.druni.es/touche-eclat-yves-saint-laurent-corrector-maquillaje-iluminador",
       "imagen": "https://www.druni.es/media/catalog/product/1/6/1678.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -1023,6 +994,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 24.75
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 24.75
         }
       ],
       "valoracion": {
@@ -1038,12 +1013,12 @@
       "marca": "Lancaster",
       "formato": "30 / 50 ml",
       "tienda": "Primor",
-      "precio_actual": 51.94,
+      "precio_actual": 51.95,
       "precio_anterior": 87,
       "descuento_pct": 40,
       "enlace": "https://www.primor.eu/es_es/lancaster-365-skin-repair-liposomal-cellular-serum-119447.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/M/A/MAIN_3616303470432_27e1.jpeg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "comparador",
@@ -1116,7 +1091,7 @@
       "descuento_pct": 51,
       "enlace": "https://www.druni.es/365-skin-repair-liposomal-cellular-serum-lancaster-serum-reparador",
       "imagen": "https://www.druni.es/media/catalog/product/8/9/8928.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "comparador",
@@ -1182,6 +1157,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 42.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 42.95
         }
       ],
       "valoracion": {
@@ -1202,7 +1181,7 @@
       "descuento_pct": 43,
       "enlace": "https://www.druni.es/double-wear-smooth-blur-primer-estee-lauder",
       "imagen": "https://www.druni.es/media/catalog/product/3/7/3731504.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -1276,6 +1255,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 28.5
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 28.5
         }
       ],
       "valoracion": {
@@ -1296,7 +1279,7 @@
       "descuento_pct": 43,
       "enlace": "https://www.primor.eu/es_es/estee-lauder-double-wear-smooth-blur-primer-99667.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/8/8/887167677036_1_bb12.webp",
-      "fecha_verificacion": "2026-11-17T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -1346,6 +1329,10 @@
         {
           "fecha": "2026-11-04",
           "precio": 28.49
+        },
+        {
+          "fecha": "2026-11-17",
+          "precio": 28.49
         }
       ],
       "mostrada_antes": true
@@ -1361,7 +1348,7 @@
       "descuento_pct": 24,
       "enlace": "https://www.druni.es/avene-hyaluron-activ-procedure-serum-peeling-avene-serum-facial-rejuvenecedor",
       "imagen": "https://www.druni.es/media/catalog/product/5/8/5812365.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "comparador",
@@ -1435,6 +1422,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 49.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 49.95
         }
       ],
       "mostrada_antes": true
@@ -1450,7 +1441,7 @@
       "descuento_pct": 22,
       "enlace": "https://www.druni.es/aqua-intense-rilastil-gel-crema-hidratante-pieles-deshidratadas",
       "imagen": "https://www.druni.es/media/catalog/product/5/7/5796767.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "comparador",
@@ -1524,6 +1515,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 17.25
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 17.25
         }
       ],
       "valoracion": {
@@ -1544,7 +1539,7 @@
       "descuento_pct": 20,
       "enlace": "https://www.druni.es/anti-dark-spot-body-nubiance-leche-corporal-unificante",
       "imagen": "https://www.druni.es/media/catalog/product/5/0/5023742.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "comparador",
@@ -1618,6 +1613,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 31.2
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 31.2
         }
       ],
       "mostrada_antes": true
@@ -1633,7 +1632,7 @@
       "descuento_pct": 13,
       "enlace": "https://www.druni.es/relief-sun-aqua-fresh-rice-beauty-of-joseon-protector-solar-spf-50",
       "imagen": "https://www.druni.es/media/catalog/product/1/4/1467743.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "kbeauty",
       "tipo": "kbeauty",
@@ -1711,6 +1710,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 14.74
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 14.74
         }
       ],
       "valoracion": {
@@ -1731,7 +1734,7 @@
       "descuento_pct": null,
       "enlace": "https://www.druni.es/rice-probiotics-beauty-of-joseon-protector-solar-organico",
       "imagen": "https://www.druni.es/media/catalog/product/1/4/1467068.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "kbeauty",
       "tipo": "kbeauty",
@@ -1809,6 +1812,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 14.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 14.95
         }
       ],
       "valoracion": {
@@ -1829,7 +1836,7 @@
       "descuento_pct": null,
       "enlace": "https://www.druni.es/ceramidintm-serum-hidratante-reparador-de-la-barrera-cutanea-30ml-dr-jart-serum-reparador",
       "imagen": "https://www.druni.es/media/catalog/product/5/0/5023807.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "kbeauty",
       "tipo": "kbeauty",
@@ -1903,6 +1910,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 26.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 26.95
         }
       ],
       "mostrada_antes": true
@@ -1918,7 +1929,7 @@
       "descuento_pct": null,
       "enlace": "https://www.druni.es/niacinamide-10-zinc-1-the-ordinary-formula-antienrojecimiento",
       "imagen": "https://www.druni.es/media/catalog/product/4/0/4072.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "viral",
@@ -1988,6 +1999,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 6
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 6
         }
       ],
       "valoracion": {
@@ -2008,7 +2023,7 @@
       "descuento_pct": 20,
       "enlace": "https://www.druni.es/gel-limpiador-espumoso-cerave-piel-normal-grasa",
       "imagen": "https://www.druni.es/media/catalog/product/4/1/4158.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "viral",
@@ -2078,6 +2093,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 8.98
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 8.98
         }
       ],
       "valoracion": {
@@ -2098,7 +2117,7 @@
       "descuento_pct": 29,
       "enlace": "https://www.druni.es/cicaplast-baume-b5-la-roche-posay-balsamo-reparador-calmante",
       "imagen": "https://www.druni.es/media/catalog/product/7/8/7872.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "viral",
@@ -2168,6 +2187,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 9.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 9.95
         }
       ],
       "valoracion": {
@@ -2188,7 +2211,7 @@
       "descuento_pct": null,
       "enlace": "https://www.druni.es/champu-extracto-cebolla-babaria-antioxidante-estimulante",
       "imagen": "https://www.druni.es/media/catalog/product/1/3/1306624.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cabello",
       "tipo": "viral",
@@ -2266,6 +2289,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 2.7
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 2.7
         }
       ],
       "valoracion": {
@@ -2286,7 +2313,7 @@
       "descuento_pct": null,
       "enlace": "https://www.druni.es/k-genesis-serum-anti-chute-fortifiant-kerastase-serum-anti-caida-cabello-debilitado",
       "imagen": "https://www.druni.es/media/catalog/product/h/q/hqdefault_134_10.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cabello",
       "tipo": "viral",
@@ -2356,6 +2383,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 22.99
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 22.99
         }
       ],
       "valoracion": {
@@ -2376,7 +2407,7 @@
       "descuento_pct": null,
       "enlace": "https://www.druni.es/leche-cabra-mascarilla-ziaja-capilar",
       "imagen": "https://www.druni.es/media/catalog/product/1/3/1309134.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cabello",
       "tipo": "viral",
@@ -2450,6 +2481,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 2.89
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 2.89
         }
       ],
       "valoracion": {
@@ -2470,7 +2505,7 @@
       "descuento_pct": 53,
       "enlace": "https://www.druni.es/lash-idole-mascara-lancome-pestanas-volumen",
       "imagen": "https://www.druni.es/media/catalog/product/8/8/8852.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "viral",
@@ -2540,6 +2575,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 18.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 18.95
         }
       ],
       "valoracion": {
@@ -2560,7 +2599,7 @@
       "descuento_pct": 23,
       "enlace": "https://www.druni.es/revitalift-clinical-serum-12-vitamin-c-loreal-paris",
       "imagen": "https://www.druni.es/media/catalog/product/1/4/1462530.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "viral",
@@ -2634,6 +2673,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 18.49
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 18.49
         }
       ],
       "valoracion": {
@@ -2654,7 +2697,7 @@
       "descuento_pct": null,
       "enlace": "https://www.druni.es/cherry-shine-liposan-balsamo-labial",
       "imagen": "https://www.druni.es/media/catalog/product/1/4/1452281.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "viral",
@@ -2728,6 +2771,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 2.99
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 2.99
         }
       ],
       "valoracion": {
@@ -2748,7 +2795,7 @@
       "descuento_pct": 19,
       "enlace": "https://www.druni.es/natural-bronzer-rimmel-polvos-bronceadores",
       "imagen": "https://www.druni.es/media/catalog/product/3/5/3576.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "viral",
@@ -2814,6 +2861,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 6.5
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 6.5
         }
       ],
       "valoracion": {
@@ -2834,7 +2885,7 @@
       "descuento_pct": 26,
       "enlace": "https://www.druni.es/lip-pencil-mac-cosmetics-lapiz-labios",
       "imagen": "https://www.druni.es/media/catalog/product/6/6/6677.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "viral",
@@ -2900,6 +2951,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 19.9
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 19.9
         }
       ],
       "valoracion": {
@@ -2920,7 +2975,7 @@
       "descuento_pct": 27,
       "enlace": "https://www.druni.es/buttermelt-blush-nyx-professional-make-up-colorete-polvo",
       "imagen": "https://www.druni.es/media/catalog/product/8/8/8883.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "viral",
@@ -2990,6 +3045,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 8.75
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 8.75
         }
       ],
       "valoracion": {
@@ -3010,7 +3069,7 @@
       "descuento_pct": 20,
       "enlace": "https://www.druni.es/radiant-creamy-concealer-nars-corrector-multiusos",
       "imagen": "https://www.druni.es/media/catalog/product/5/4/5421.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "viral",
@@ -3080,6 +3139,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 29.6
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 28
         }
       ],
       "valoracion": {
@@ -3100,7 +3163,7 @@
       "descuento_pct": null,
       "enlace": "https://www.druni.es/color-bloom-mate-sheglam-colorete-liquido",
       "imagen": "https://www.druni.es/media/catalog/product/1/0/10505.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "viral",
@@ -3166,6 +3229,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 6.49
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 6.49
         }
       ],
       "valoracion": {
@@ -3186,7 +3253,7 @@
       "descuento_pct": 20,
       "enlace": "https://www.primor.eu/es_es/nars-sparkling-seduction-liquid-eyeshadow-151801.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/1/9/194251171791_1_149a.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -3240,6 +3307,10 @@
         {
           "fecha": "2026-11-05",
           "precio": 28.75
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 28.75
         }
       ],
       "mostrada_antes": true
@@ -3255,7 +3326,7 @@
       "descuento_pct": 20,
       "enlace": "https://www.druni.es/sparkling-seduction-liquid-eyeshadow-nars-sombra-ojos-liquida",
       "imagen": "https://www.druni.es/media/catalog/product/1/1/11274.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -3317,6 +3388,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 28.8
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 28.8
         }
       ],
       "mostrada_antes": true
@@ -3332,7 +3407,7 @@
       "descuento_pct": null,
       "enlace": "https://www.primor.eu/es_es/clarins-aceite-de-labios-comfort-108472.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/0/M/0ML28905_1_f9fa.jpg",
-      "fecha_verificacion": "2026-11-05T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -3393,7 +3468,7 @@
       "descuento_pct": 58,
       "enlace": "https://www.druni.es/lip-comfort-oil-clarins-aceite-labial-nutritivo-color",
       "imagen": "https://www.druni.es/media/catalog/product/6/1/6192.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -3455,6 +3530,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 13.5
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 13.5
         }
       ],
       "mostrada_antes": true,
@@ -3470,13 +3549,13 @@
       "marca": "Yves Saint Laurent",
       "formato": "según tono",
       "tienda": "Primor",
-      "precio_actual": 26.44,
+      "precio_actual": 25.98,
       "precio_anterior": 57,
       "descuento_pct": null,
       "enlace": "https://www.primor.eu/es_es/yves-saint-laurent-make-me-blush-bold-blurring-blush-colorete-en-polvo-120198.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/6/3614274254303_1_e4f3.jpg",
-      "fecha_verificacion": "2026-11-02T09:45:00+01:00",
-      "disponibilidad": "no confirmada",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
       "grupo": "g-ysl-makemeblush",
@@ -3523,7 +3602,7 @@
           "precio": 26.44
         }
       ],
-      "mostrada_antes": true
+      "mostrada_antes": false
     },
     {
       "id": "druni-ysl-makemeblush",
@@ -3536,7 +3615,7 @@
       "descuento_pct": 47,
       "enlace": "https://www.druni.es/make-me-blush-bold-blurring-blush-yves-saint-laurent-colorete-polvo",
       "imagen": "https://www.druni.es/media/catalog/product/9/1/9176.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -3602,6 +3681,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 31.35
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 30.25
         }
       ],
       "mostrada_antes": true,
@@ -3622,7 +3705,7 @@
       "descuento_pct": 42,
       "enlace": "https://www.primor.eu/es_es/clinique-pop-aceite-para-labios-y-mejillas-128794.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/1/9/192333261538_1_6e03.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -3672,6 +3755,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 18.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 17.87
         }
       ],
       "mostrada_antes": true
@@ -3687,7 +3774,7 @@
       "descuento_pct": 45,
       "enlace": "https://www.druni.es/clinique-pop-lip-cheek-oil-honey-clinique-multitask-labio-mejilla",
       "imagen": "https://www.druni.es/media/catalog/product/9/8/9846.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
@@ -3749,6 +3836,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 17.88
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 17.88
         }
       ],
       "mostrada_antes": true,
@@ -3769,7 +3860,7 @@
       "descuento_pct": 41,
       "enlace": "https://www.primor.eu/es_es/clinique-smart-clinical-repair-wrinkle-correcting-crema-antiarrugas-106375.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/1/9/192333149744_M_055c.jpg",
-      "fecha_verificacion": "2026-11-17T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "comparador",
@@ -3827,6 +3918,10 @@
         {
           "fecha": "2026-11-07",
           "precio": 53.94
+        },
+        {
+          "fecha": "2026-11-17",
+          "precio": 53.94
         }
       ],
       "mostrada_antes": true
@@ -3842,7 +3937,7 @@
       "descuento_pct": 41,
       "enlace": "https://www.druni.es/smart-clinical-repair-cream-clinique-crema-hidratante-antiarrugas",
       "imagen": "https://www.druni.es/media/catalog/product/7/9/7982.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "comparador",
@@ -3900,6 +3995,10 @@
         {
           "fecha": "2026-11-07",
           "precio": 53.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 53.95
         }
       ],
       "mostrada_antes": true,
@@ -3920,7 +4019,7 @@
       "descuento_pct": 35,
       "enlace": "https://www.primor.eu/es_es/kiehl-s-facial-fuel-energizing-face-wash-limpiador-facial-106521.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/M/_/M_0TM01377_1_16e0.jpg",
-      "fecha_verificacion": "2026-11-17T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "comparador",
@@ -3978,6 +4077,10 @@
         {
           "fecha": "2026-11-07",
           "precio": 18.75
+        },
+        {
+          "fecha": "2026-11-17",
+          "precio": 18.75
         }
       ],
       "mostrada_antes": true
@@ -3993,7 +4096,7 @@
       "descuento_pct": 35,
       "enlace": "https://www.druni.es/facial-fuel-energizing-face-wash-kiehls-gel-limpiador-facial-hombre",
       "imagen": "https://www.druni.es/media/catalog/product/5/8/5837.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cuidado-piel",
       "tipo": "comparador",
@@ -4051,79 +4154,10 @@
         {
           "fecha": "2026-11-07",
           "precio": 18.85
-        }
-      ],
-      "mostrada_antes": true
-    },
-    {
-      "id": "primor-boss-alive-30",
-      "producto": "Boss Alive EDP",
-      "marca": "Hugo Boss",
-      "formato": "30 ml",
-      "tienda": "Primor",
-      "precio_actual": 35.9,
-      "precio_anterior": 91,
-      "descuento_pct": 61,
-      "enlace": "https://www.primor.eu/es_es/hugo-boss-boss-alive-edp-111849.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/M/_/M_4AF06471_1_6830.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "perfumeria",
-      "tipo": "comparador",
-      "grupo": "g-boss-alive-30",
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h en Primor. Precio del tamaño de 30 ml. Precio de la ficha de Primor leído el 07/11/2026 (variante del formato indicado).",
-      "fecha_limite": null,
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-10-23",
-          "precio": 36.85
         },
         {
-          "fecha": "2026-10-24",
-          "precio": 39.95
-        },
-        {
-          "fecha": "2026-10-25",
-          "precio": 39.95
-        },
-        {
-          "fecha": "2026-10-26",
-          "precio": 39.95
-        },
-        {
-          "fecha": "2026-10-28",
-          "precio": 39.95
-        },
-        {
-          "fecha": "2026-10-29",
-          "precio": 39.95
-        },
-        {
-          "fecha": "2026-10-31",
-          "precio": 39.95
-        },
-        {
-          "fecha": "2026-11-01",
-          "precio": 39.95
-        },
-        {
-          "fecha": "2026-11-02",
-          "precio": 39.95
-        },
-        {
-          "fecha": "2026-11-03",
-          "precio": 39.95
-        },
-        {
-          "fecha": "2026-11-04",
-          "precio": 39.95
-        },
-        {
-          "fecha": "2026-11-07",
-          "precio": 35.9
+          "fecha": "2026-11-25",
+          "precio": 18.85
         }
       ],
       "mostrada_antes": true
@@ -4139,13 +4173,13 @@
       "descuento_pct": 55,
       "enlace": "https://www.druni.es/boss-alive-hugo-eau-parfum-mujer",
       "imagen": "https://www.druni.es/media/catalog/product/4/3/4312.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
-      "tipo": "comparador",
-      "grupo": "g-boss-alive-30",
+      "tipo": "perfume",
+      "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h («Solo hoy» en Druni).",
+      "ventaja": "Precio de la ficha de Druni (30 ml). Sin comparación fiable en Primor hoy.",
       "fecha_limite": null,
       "precio_desde": false,
       "ejemplo": false,
@@ -4197,6 +4231,10 @@
         {
           "fecha": "2026-11-07",
           "precio": 39.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 39.95
         }
       ],
       "mostrada_antes": true,
@@ -4207,71 +4245,6 @@
       }
     },
     {
-      "id": "mango-jeans-rectos-tiro-alto",
-      "producto": "Jeans rectos tiro alto",
-      "marca": "Mango",
-      "formato": "talla variable",
-      "tienda": "Mango",
-      "precio_actual": 19.99,
-      "precio_anterior": 29.99,
-      "descuento_pct": 33,
-      "enlace": "https://shop.mango.com/es/es/p/mujer/vaqueros/straight/jeans-rectos-tiro-alto/37085851/TO/00",
-      "imagen": null,
-      "fecha_verificacion": "2026-11-16T10:00:00+01:00",
-      "disponibilidad": "no confirmada",
-      "categoria": "moda",
-      "tipo": "moda",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Sección Promoción de Mango; la tienda no indica fecha de fin. Precio leído en el listado de la tienda; el stock por talla no se ha comprobado.",
-      "fecha_limite": null,
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-10-23",
-          "precio": 19.99
-        },
-        {
-          "fecha": "2026-10-24",
-          "precio": 19.99
-        },
-        {
-          "fecha": "2026-10-25",
-          "precio": 19.99
-        },
-        {
-          "fecha": "2026-10-26",
-          "precio": 19.99
-        },
-        {
-          "fecha": "2026-10-28",
-          "precio": 19.99
-        },
-        {
-          "fecha": "2026-10-29",
-          "precio": 19.99
-        },
-        {
-          "fecha": "2026-10-31",
-          "precio": 19.99
-        },
-        {
-          "fecha": "2026-11-01",
-          "precio": 19.99
-        },
-        {
-          "fecha": "2026-11-02",
-          "precio": 19.99
-        },
-        {
-          "fecha": "2026-11-05",
-          "precio": 19.99
-        }
-      ],
-      "mostrada_antes": true
-    },
-    {
       "marca": "Bershka",
       "formato": "talla variable",
       "precio_anterior": 29.99,
@@ -4280,7 +4253,7 @@
       "disponibilidad": "no confirmada",
       "grupo": null,
       "motivo": null,
-      "ventaja": null,
+      "ventaja": "Promociones de Bershka (precio con descuento -50 %); la tienda no indica fecha de fin. Precio del listado; stock por talla no comprobado.",
       "fecha_limite": null,
       "precio_desde": false,
       "ejemplo": false,
@@ -4307,7 +4280,7 @@
         }
       ],
       "mostrada_antes": true,
-      "fecha_verificacion": "2026-11-05T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "id": "bershka-jeans-wide-leg-tiro-alto",
       "producto": "Jeans wide leg tiro alto",
       "tienda": "Bershka",
@@ -4361,14 +4334,18 @@
         {
           "fecha": "2026-11-07",
           "precio": 54.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 54.95
         }
       ],
-      "mostrada_antes": true,
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "mostrada_antes": false,
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "id": "druni-daisy-wild-50",
       "producto": "Daisy Wild Eau de Parfum",
       "tienda": "Druni",
-      "precio_actual": 54.95,
+      "precio_actual": 52.95,
       "enlace": "https://www.druni.es/daisy-wild-marc-jacobs-eau-parfum-mujer",
       "categoria": "perfumeria",
       "tipo": "comparador",
@@ -4423,14 +4400,18 @@
         {
           "fecha": "2026-11-07",
           "precio": 59.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 59.95
         }
       ],
-      "mostrada_antes": true,
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "mostrada_antes": false,
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "id": "druni-daisy-sofresh-75",
       "producto": "Daisy So Fresh Eau de Toilette",
       "tienda": "Druni",
-      "precio_actual": 59.95,
+      "precio_actual": 55.95,
       "enlace": "https://www.druni.es/daisy-so-fresh-marc-jacobs-eau-toilette",
       "categoria": "perfumeria",
       "tipo": "comparador",
@@ -4485,10 +4466,14 @@
         {
           "fecha": "2026-11-07",
           "precio": 39.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 39.95
         }
       ],
       "mostrada_antes": true,
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "id": "druni-clarins-totaleyelift-15",
       "producto": "Total Eye Lift Contorno de ojos efecto lifting",
       "tienda": "Druni",
@@ -4551,10 +4536,14 @@
         {
           "fecha": "2026-11-07",
           "precio": 24.41
+        },
+        {
+          "fecha": "2026-11-17",
+          "precio": 24.41
         }
       ],
       "mostrada_antes": true,
-      "fecha_verificacion": "2026-11-17T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "id": "primor-calvinklein-euphoria-30",
       "producto": "Euphoria Eau de Parfum",
       "tienda": "Primor",
@@ -4615,11 +4604,11 @@
         }
       ],
       "mostrada_antes": true,
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "id": "primor-jpg-scandal-30",
       "producto": "Scandal Eau de Parfum",
       "tienda": "Primor",
-      "precio_actual": 36.66,
+      "precio_actual": 44.99,
       "enlace": "https://www.primor.eu/es_es/jean-paul-gaultier-scandal-eau-de-parfum-111754.html",
       "categoria": "perfumeria",
       "tipo": "perfume"
@@ -4673,10 +4662,14 @@
         {
           "fecha": "2026-11-07",
           "precio": 52.14
+        },
+        {
+          "fecha": "2026-11-17",
+          "precio": 52.14
         }
       ],
       "mostrada_antes": true,
-      "fecha_verificacion": "2026-11-17T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "id": "primor-daisy-wild-50",
       "producto": "Daisy Wild Eau de Parfum",
       "tienda": "Primor",
@@ -4738,14 +4731,18 @@
         {
           "fecha": "2026-11-16",
           "precio": 54.88
+        },
+        {
+          "fecha": "2026-11-17",
+          "precio": 55.48
         }
       ],
-      "mostrada_antes": false,
-      "fecha_verificacion": "2026-11-17T10:30:00+01:00",
+      "mostrada_antes": true,
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "id": "primor-daisy-sofresh-75",
       "producto": "Daisy So Fresh",
       "tienda": "Primor",
-      "precio_actual": 55.48,
+      "precio_actual": 57.95,
       "enlace": "https://www.primor.eu/es_es/marc-jacobs-daisy-so-fresh-111647.html",
       "categoria": "perfumeria",
       "tipo": "comparador"
@@ -4759,7 +4756,7 @@
       "disponibilidad": "disponible",
       "grupo": "clarins-totaleyelift-15",
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h en Primor. Recarga desde 30,37 €.",
+      "ventaja": "Precio de la versión recarga (15 ml); el tarro cuesta 52,94 € en Primor.",
       "fecha_limite": null,
       "precio_desde": false,
       "ejemplo": false,
@@ -4794,11 +4791,11 @@
         }
       ],
       "mostrada_antes": true,
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "id": "primor-clarins-totaleyelift-15",
       "producto": "Total Eye Lift",
       "tienda": "Primor",
-      "precio_actual": 34.91,
+      "precio_actual": 39.94,
       "enlace": "https://www.primor.eu/es_es/clarins-total-eye-lift-131759.html",
       "categoria": "cuidado-piel",
       "tipo": "comparador"
@@ -4811,16 +4808,16 @@
       "tienda": "Druni",
       "precio_actual": 34.95,
       "precio_anterior": 72,
-      "descuento_pct": 51,
+      "descuento_pct": null,
       "enlace": "https://www.druni.es/i-want-choo-jimmy-choo-eau-parfum-mujer",
       "imagen": "https://www.druni.es/media/catalog/product/5/8/5881.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
-      "tipo": "perfume",
-      "grupo": null,
+      "tipo": "comparador",
+      "grupo": "g-iwantchoo",
       "motivo": null,
-      "ventaja": "Oferta flash «Solo hoy» en Druni; 40 ml 34,95 €, 60 ml 45,90 €, 100 ml 69,95 € (precio de la ficha). Precio habitual y % según la tienda.",
+      "ventaja": "Precio desde (40 ml). Comparado con Primor, mismos tamaños 40/60/100 ml.",
       "fecha_limite": null,
       "precio_desde": true,
       "ejemplo": false,
@@ -4856,6 +4853,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 34.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 34.95
         }
       ],
       "mostrada_antes": true,
@@ -4867,23 +4868,23 @@
     },
     {
       "id": "druni-gant-edt-hombre",
-      "producto": "Gant Eau de Toilette para hombre",
+      "producto": "Gant Eau de Toilette",
       "marca": "Gant",
       "formato": "50 / 100 ml",
       "tienda": "Druni",
       "precio_actual": 24.95,
       "precio_anterior": 90,
-      "descuento_pct": 67,
+      "descuento_pct": 72,
       "enlace": "https://www.druni.es/gant-eau-toilette-hombre",
       "imagen": "https://www.druni.es/media/catalog/product/9/4/9444.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
       "tipo": "perfume",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash «Solo hoy» en Druni; 50 ml 29,95 €, 100 ml 49,95 € (precio de la ficha). Precio habitual y % según la tienda.",
-      "fecha_limite": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (50 ml); 100 ml: 39,95 €.",
+      "fecha_limite": "2026-11-26",
       "precio_desde": true,
       "ejemplo": false,
       "historial": [
@@ -4922,6 +4923,10 @@
         {
           "fecha": "2026-11-24",
           "precio": 24.95
+        },
+        {
+          "fecha": "2026-11-25",
+          "precio": 24.95
         }
       ],
       "mostrada_antes": true,
@@ -4932,62 +4937,17 @@
       }
     },
     {
-      "id": "mango-vestido-asimetrico-fular",
-      "producto": "Vestido asimétrico fular",
-      "marca": "Mango",
-      "formato": "talla variable",
-      "tienda": "Mango",
-      "precio_actual": 39.99,
-      "precio_anterior": 59.99,
-      "descuento_pct": 33,
-      "enlace": "https://shop.mango.com/es/es/p/mujer/vestidos-y-monos/fiesta/vestido-asimetrico-fular/37061468/70/00",
-      "imagen": null,
-      "fecha_verificacion": "2026-11-05T10:00:00+01:00",
-      "disponibilidad": "no confirmada",
-      "categoria": "moda",
-      "tipo": "moda",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Sección Promoción de Mango; la tienda no indica fecha de fin. Precio leído en el listado de la tienda; el stock por talla no se ha comprobado.",
-      "fecha_limite": null,
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-10-29",
-          "precio": 39.99
-        },
-        {
-          "fecha": "2026-10-31",
-          "precio": 39.99
-        },
-        {
-          "fecha": "2026-11-01",
-          "precio": 39.99
-        },
-        {
-          "fecha": "2026-11-02",
-          "precio": 39.99
-        },
-        {
-          "fecha": "2026-11-05",
-          "precio": 39.99
-        }
-      ],
-      "mostrada_antes": true
-    },
-    {
       "id": "primor-perf-rochas-orangehorizon",
       "producto": "Orange Horizon Eau de Toilette",
       "marca": "ROCHAS",
       "formato": "30 / 50 / 90 ml",
       "tienda": "Primor",
-      "precio_actual": 39.9,
-      "precio_anterior": 110,
+      "precio_actual": 25.89,
+      "precio_anterior": 69,
       "descuento_pct": null,
       "enlace": "https://www.primor.eu/es_es/rochas-orange-horizon-eau-de-toilette-97355.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/3/3386460146395_6c5d.jpg",
-      "fecha_verificacion": "2026-11-21T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
       "tipo": "perfume",
@@ -5017,6 +4977,10 @@
         {
           "fecha": "2026-11-16",
           "precio": 25.87
+        },
+        {
+          "fecha": "2026-11-21",
+          "precio": 39.9
         }
       ],
       "mostrada_antes": false
@@ -5027,12 +4991,12 @@
       "marca": "GUCCI",
       "formato": "30 / 50 / 100 ml",
       "tienda": "Primor",
-      "precio_actual": 57.9,
+      "precio_actual": 43.94,
       "precio_anterior": 93,
       "descuento_pct": 38,
       "enlace": "https://www.primor.eu/es_es/gucci-flora-gorgeous-magnolia-eau-de-parfum-para-mujer-112114.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/6/3616303470791_7b95.jpeg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
       "tipo": "perfume",
@@ -5052,7 +5016,7 @@
           "precio": 57.9
         }
       ],
-      "mostrada_antes": true
+      "mostrada_antes": false
     },
     {
       "id": "primor-perf-angelschlesser-teanight",
@@ -5065,7 +5029,7 @@
       "descuento_pct": 48,
       "enlace": "https://www.primor.eu/es_es/angel-schlesser-les-eaux-d-un-instant-tea-of-the-night-eau-de-toilette-144157.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/4/A/4AM04174_1b6f.JPG",
-      "fecha_verificacion": "2026-11-16T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
       "tipo": "perfume",
@@ -5083,6 +5047,10 @@
         {
           "fecha": "2026-11-07",
           "precio": 29.95
+        },
+        {
+          "fecha": "2026-11-16",
+          "precio": 29.95
         }
       ],
       "mostrada_antes": true
@@ -5098,7 +5066,7 @@
       "descuento_pct": 58,
       "enlace": "https://www.primor.eu/es_es/chloe-signature-eau-de-parfum-116152.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/M/A/MAIN_3607346232347_413d.jpg",
-      "fecha_verificacion": "2026-11-07T10:00:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
       "tipo": "perfume",
@@ -5131,7 +5099,7 @@
       "descuento_pct": 68,
       "enlace": "https://www.primor.eu/es_es/burberry-burberry-for-men-clasica-112262.html",
       "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/M/_/M_4AM00121_1_47ce.jpg",
-      "fecha_verificacion": "2026-11-17T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "perfumeria",
       "tipo": "perfume",
@@ -5153,97 +5121,10 @@
         {
           "fecha": "2026-11-07",
           "precio": 29.95
-        }
-      ],
-      "mostrada_antes": true
-    },
-    {
-      "id": "zara-blusa-volantes-lunares",
-      "producto": "Blusa volantes lunares",
-      "marca": "Zara",
-      "formato": "talla variable",
-      "tienda": "Zara",
-      "precio_actual": 12.99,
-      "precio_anterior": 25.95,
-      "descuento_pct": 49,
-      "enlace": "https://www.zara.com/es/es/blusa-volantes-lunares-p04387268.html",
-      "imagen": null,
-      "fecha_verificacion": "2026-11-24T10:30:00+01:00",
-      "disponibilidad": "no confirmada",
-      "categoria": "moda",
-      "tipo": "moda",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Special Prices de Zara (DEL 22.09 AL 07.01 según la página). Precio leído en el listado; stock por talla no comprobado.",
-      "fecha_limite": "2027-01-07",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-11-04",
-          "precio": 12.99
         },
         {
-          "fecha": "2026-11-05",
-          "precio": 12.99
-        }
-      ],
-      "mostrada_antes": true
-    },
-    {
-      "id": "zara-blazer-entallada-rayas",
-      "producto": "Blazer entallada rayas",
-      "marca": "Zara",
-      "formato": "talla variable",
-      "tienda": "Zara",
-      "precio_actual": 22.99,
-      "precio_anterior": 45.95,
-      "descuento_pct": 49,
-      "enlace": "https://www.zara.com/es/es/blazer-entallada-rayas-p07930598.html",
-      "imagen": null,
-      "fecha_verificacion": "2026-11-24T10:30:00+01:00",
-      "disponibilidad": "no confirmada",
-      "categoria": "moda",
-      "tipo": "moda",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Precio leído en la web de Zara el 05/11/2026; tallas sin comprobar.",
-      "fecha_limite": "2027-01-07",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-11-05",
-          "precio": 22.99
-        }
-      ],
-      "mostrada_antes": true
-    },
-    {
-      "id": "hm-pantalon-sastre",
-      "producto": "Pantalón sastre",
-      "marca": "H&M",
-      "formato": "talla variable",
-      "tienda": "H&M",
-      "precio_actual": 20.99,
-      "precio_anterior": 29.99,
-      "descuento_pct": 30,
-      "enlace": "https://www2.hm.com/es_es/productpage.1322846001.html",
-      "imagen": null,
-      "fecha_verificacion": "2026-11-11T10:00:00+01:00",
-      "disponibilidad": "no confirmada",
-      "categoria": "moda",
-      "tipo": "moda",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Precio leído en la web de H&M el 05/11/2026; tallas sin comprobar.",
-      "fecha_limite": null,
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-11-05",
-          "precio": 20.99
+          "fecha": "2026-11-17",
+          "precio": 29.95
         }
       ],
       "mostrada_antes": true
@@ -5259,7 +5140,7 @@
       "descuento_pct": 40,
       "enlace": "https://www.primor.eu/es_es/olaplex-n-7-bonding-oil-aceite-capilar-concentrado-118055.html",
       "imagen": null,
-      "fecha_verificacion": "2026-11-17T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "cabello",
       "tipo": "viral",
@@ -5281,9 +5162,13 @@
         {
           "fecha": "2026-11-16",
           "precio": 17.17
+        },
+        {
+          "fecha": "2026-11-17",
+          "precio": 15.33
         }
       ],
-      "mostrada_antes": false
+      "mostrada_antes": true
     },
     {
       "id": "druni-flash-yves-saint-laurent-skin-affair-soft-glow-cushion-f",
@@ -5296,471 +5181,23 @@
       "descuento_pct": null,
       "enlace": "https://www.druni.es/skin-affair-soft-glow-cushion-foundation-yves-saint-laurent-base-liquida-estuche-compacto",
       "imagen": "https://www.druni.es/media/catalog/product/1/1/11280.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
       "grupo": "ysl-cushion",
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha; «desde, según tono».",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Precio desde (mínimo entre tonos) en la ficha de cada tienda; Primor lo incluye hoy en sus ofertas flash.",
+      "fecha_limite": null,
       "precio_desde": true,
       "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "druni-flash-clarins-cofre-duo-lip-comfort-oil",
-      "producto": "Cofre Duo Lip Comfort Oil",
-      "marca": "CLARINS",
-      "formato": "ver ficha",
-      "tienda": "Druni",
-      "precio_actual": 19.95,
-      "precio_anterior": 32,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/cofre-duo-lip-comfort-oil-clarins-labios-brillantes-cuidados",
-      "imagen": "https://www.druni.es/media/catalog/product/3/8/3801557.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "druni-flash-guerlain-terracotta-kisskiss-bee-glow-oil-set",
-      "producto": "Terracotta & Kisskiss Bee Glow Oil Set",
-      "marca": "GUERLAIN",
-      "formato": "ver ficha",
-      "tienda": "Druni",
-      "precio_actual": 49.95,
-      "precio_anterior": 90,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/terracotta-kisskiss-bee-glow-oil-set-guerlain-efecto-buena-cara",
-      "imagen": "https://www.druni.es/media/catalog/product/3/8/3801381.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "druni-flash-yves-saint-laurent-set-touche-eclat-stylos",
-      "producto": "Set Touche Eclat Stylos",
-      "marca": "YVES SAINT LAURENT",
-      "formato": "ver ficha",
-      "tienda": "Druni",
-      "precio_actual": 24.95,
-      "precio_anterior": 47,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/estuche-touche-eclat-yves-saint-laurent-corrector-ojeras-iluminador",
-      "imagen": "https://www.druni.es/media/catalog/product/3/7/3732068.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false,
-      "valoracion": {
-        "nota": 4.6,
-        "n": 355,
-        "fuente": "Druni"
-      }
-    },
-    {
-      "id": "druni-flash-shiseido-revitalessence-matte-foundation",
-      "producto": "Revitalessence Matte Foundation",
-      "marca": "SHISEIDO",
-      "formato": "según tono",
-      "tienda": "Druni",
-      "precio_actual": 37.5,
-      "precio_anterior": 75,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/revitalessence-matte-foundation-shiseido-acabado-mate-luminoso",
-      "imagen": "https://www.druni.es/media/catalog/product/1/1/11499.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha; «desde, según tono».",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": true,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "druni-flash-lancome-cofre-hypnose",
-      "producto": "Cofre Hypnose",
-      "marca": "LANCOME",
-      "formato": "ver ficha",
-      "tienda": "Druni",
-      "precio_actual": 24.95,
-      "precio_anterior": 46,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/estuche-hypnose-lancome-mascara-pestanas-efecto-volumen-definicion",
-      "imagen": "https://www.druni.es/media/catalog/product/2/7/2735090.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false,
-      "valoracion": {
-        "nota": 4.4,
-        "n": 107,
-        "fuente": "Druni"
-      }
-    },
-    {
-      "id": "druni-flash-dr-irena-eris-set-crystal-gloss-y-lipstick-cine",
-      "producto": "Set Crystal Gloss Y Lipstick Cine",
-      "marca": "DR IRENA ERIS",
-      "formato": "ver ficha",
-      "tienda": "Druni",
-      "precio_actual": 24.95,
-      "precio_anterior": 55,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/set-crystal-gloss-lipstick-cine-dr-irena-eris-abios",
-      "imagen": "https://www.druni.es/media/catalog/product/3/8/3801393.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "druni-flash-dr-irena-eris-aquality-oil-control-cream-spf-30",
-      "producto": "Aquality Oil-Control Cream SPF 30",
-      "marca": "DR IRENA ERIS",
-      "formato": "ver ficha",
-      "tienda": "Druni",
-      "precio_actual": 36.4,
-      "precio_anterior": 52,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/aquality-oil-control-cream-spf-30-dr-irena-eris",
-      "imagen": "https://www.druni.es/media/catalog/product/3/0/3000148.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "cuidado-piel",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "druni-flash-lancome-set-absa-longevity-intercept-cream",
-      "producto": "Set ABSA Longevity Intercept Cream",
-      "marca": "LANCOME",
-      "formato": "ver ficha",
-      "tienda": "Druni",
-      "precio_actual": 104.95,
-      "precio_anterior": 190,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/set-absa-longevity-intercept-cream-lancome",
-      "imagen": "https://www.druni.es/media/catalog/product/5/0/5023834.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "cuidado-piel",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "druni-flash-clinique-moisture-surge-eye-96-hour-hydro-filler-c",
-      "producto": "Moisture Surge Eye 96 Hour Hydro-Filler Concentrate",
-      "marca": "CLINIQUE",
-      "formato": "ver ficha",
-      "tienda": "Druni",
-      "precio_actual": 24.95,
-      "precio_anterior": 45,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/moisture-surge-eye-96-hour-hydro-filler-concentrate-clinique-96h-actuacion",
-      "imagen": "https://www.druni.es/media/catalog/product/1/7/1791123.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "cuidado-piel",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false,
-      "valoracion": {
-        "nota": 4.6,
-        "n": 59,
-        "fuente": "Druni"
-      }
-    },
-    {
-      "id": "druni-flash-dr-irena-eris-authority-global-recovery-youth-seru",
-      "producto": "Authority Global Recovery Youth Serum",
-      "marca": "DR IRENA ERIS",
-      "formato": "ver ficha",
-      "tienda": "Druni",
-      "precio_actual": 91.7,
-      "precio_anterior": 131,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/authority-global-recovery-youth-serum-dr-irena-eris",
-      "imagen": "https://www.druni.es/media/catalog/product/3/0/3000147.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "cuidado-piel",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false,
-      "valoracion": {
-        "nota": 4.5,
-        "n": 2,
-        "fuente": "Druni"
-      }
-    },
-    {
-      "id": "druni-flash-clinique-take-the-day-off-charcoal",
-      "producto": "Take The Day Off Charcoal",
-      "marca": "CLINIQUE",
-      "formato": "ver ficha",
-      "tienda": "Druni",
-      "precio_actual": 23.7,
-      "precio_anterior": 39.5,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/take-the-day-off-charcoal-clinique-desmaquillante-ojos-rostro-balsamo",
-      "imagen": "https://www.druni.es/media/catalog/product/1/7/1791186.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "cuidado-piel",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false,
-      "valoracion": {
-        "nota": 4.4,
-        "n": 11,
-        "fuente": "Druni"
-      }
-    },
-    {
-      "id": "druni-flash-jimmy-choo-i-want-choo",
-      "producto": "I Want Choo",
-      "marca": "JIMMY CHOO",
-      "formato": "40 / 60 / 100 ml",
-      "tienda": "Druni",
-      "precio_actual": 34.95,
-      "precio_anterior": 72,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/i-want-choo-jimmy-choo-eau-parfum-mujer",
-      "imagen": "https://www.druni.es/media/catalog/product/5/8/5881.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "perfumeria",
-      "tipo": "perfume",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": true,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false,
-      "valoracion": {
-        "nota": 4.7,
-        "n": 30,
-        "fuente": "Druni"
-      }
-    },
-    {
-      "id": "druni-flash-jimmy-choo-i-want-choo-le-parfum",
-      "producto": "I Want Choo Le Parfum",
-      "marca": "JIMMY CHOO",
-      "formato": "40 / 60 / 100 ml",
-      "tienda": "Druni",
-      "precio_actual": 34.95,
-      "precio_anterior": 74,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/i-want-choo-le-parfum-jimmy-choo-eau-mujer",
-      "imagen": "https://www.druni.es/media/catalog/product/9/0/9021.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "perfumeria",
-      "tipo": "perfume",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": true,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false,
-      "valoracion": {
-        "nota": 4,
-        "n": 10,
-        "fuente": "Druni"
-      }
-    },
-    {
-      "id": "druni-flash-jimmy-choo-i-want-choo-with-love",
-      "producto": "I Want Choo With Love",
-      "marca": "JIMMY CHOO",
-      "formato": "40 / 60 / 100 ml",
-      "tienda": "Druni",
-      "precio_actual": 34.95,
-      "precio_anterior": 76,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/i-want-choo-with-love-jimmy-choo-eau-parfum-mujer",
-      "imagen": "https://www.druni.es/media/catalog/product/9/9/9933.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "perfumeria",
-      "tipo": "perfume",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": true,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false,
-      "valoracion": {
-        "nota": 4.4,
-        "n": 5,
-        "fuente": "Druni"
-      }
-    },
-    {
-      "id": "druni-flash-zadig-voltaire-cofre-z-v-eau-de-toilette-hombre",
-      "producto": "Cofre Z&V Eau de toilette hombre",
-      "marca": "ZADIG & VOLTAIRE",
-      "formato": "ver ficha",
-      "tienda": "Druni",
-      "precio_actual": 58.95,
-      "precio_anterior": 116,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/cofre-zv-zadig-voltaire-eau-toilette-hombre",
-      "imagen": "https://www.druni.es/media/catalog/product/1/6/1639103.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "perfumeria",
-      "tipo": "perfume",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false,
-      "valoracion": {
-        "nota": 4.7,
-        "n": 6,
-        "fuente": "Druni"
-      }
-    },
-    {
-      "id": "druni-flash-pepe-jeans-jeans-tonic-eau-de-parfum-hombre",
-      "producto": "Jeans & Tonic Eau de parfum hombre",
-      "marca": "PEPE JEANS",
-      "formato": "ver ficha",
-      "tienda": "Druni",
-      "precio_actual": 29.95,
-      "precio_anterior": 90,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/tonic-pepe-jeans-eau-parfum-hombre",
-      "imagen": "https://www.druni.es/media/catalog/product/1/6/1619709.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "perfumeria",
-      "tipo": "perfume",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "druni-flash-ralph-lauren-polo-red-extreme-eau-de-parfum-hombre",
-      "producto": "Polo Red Extreme Eau de parfum hombre",
-      "marca": "RALPH LAUREN",
-      "formato": "ver ficha",
-      "tienda": "Druni",
-      "precio_actual": 79.95,
-      "precio_anterior": 140,
-      "descuento_pct": null,
-      "enlace": "https://www.druni.es/polo-red-extreme-ralph-lauren-eau-parfu-hombre",
-      "imagen": "https://www.druni.es/media/catalog/product/1/6/1625138.jpg",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "perfumeria",
-      "tipo": "perfume",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio de la ficha.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
+      "historial": [
+        {
+          "fecha": "2026-11-25",
+          "precio": 33
+        }
+      ],
+      "mostrada_antes": true
     },
     {
       "id": "primor-flash-yves-saint-laurent-skin-affair-soft-glow-cushion-f",
@@ -5768,528 +5205,1173 @@
       "marca": "YVES SAINT LAURENT",
       "formato": "según tono",
       "tienda": "Primor",
-      "precio_actual": 32.99,
+      "precio_actual": 29.65,
       "precio_anterior": 60,
       "descuento_pct": null,
       "enlace": "https://www.primor.eu/es_es/yves-saint-laurent-skin-affair-soft-glow-cushion-foundation-151388.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/4/9/4936968888229_1_6d3d.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/4/9/4936968888229_1_c919.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
       "categoria": "maquillaje",
       "tipo": "comparador",
       "grupo": "ysl-cushion",
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»); «desde, según tono».",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": true,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "primor-flash-clarins-gel-de-cejas-wonder-sculpt-clear",
-      "producto": "Gel de Cejas Wonder Sculpt Clear",
-      "marca": "CLARINS",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 16.75,
-      "precio_anterior": 28,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/clarins-gel-de-cejas-wonder-sculpt-clear-145423.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3666057427343_1_122f.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»).",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": false,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "primor-flash-armani-sombra-de-ojos-l-quida-eye-tint-renovation",
-      "producto": "Sombra de Ojos Líquida Eye Tint Renovation",
-      "marca": "ARMANI",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 22.79,
-      "precio_anterior": 38,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/armani-sombra-de-ojos-liquida-eye-tint-renovation-110839.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/0/M/0MO20422_1_58ad.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»). «Tan bajo como» = mínimo entre variantes.",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Precio desde (mínimo entre tonos) en la ficha de cada tienda; Primor lo incluye hoy en sus ofertas flash.",
+      "fecha_limite": null,
       "precio_desde": true,
       "ejemplo": false,
       "historial": [
         {
-          "fecha": "2026-11-24",
-          "precio": 20.47
+          "fecha": "2026-11-25",
+          "precio": 32.99
         }
       ],
-      "mostrada_antes": true
-    },
-    {
-      "id": "primor-flash-lanc-me-hypn-se-m-scara-de-pesta-as",
-      "producto": "Hypnôse Máscara de pestañas",
-      "marca": "LANCÔME",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 23.98,
-      "precio_anterior": 44,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/lancome-mascara-de-pestanas-hypnose-lancome-109318.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/0/M/0MO16568_1_216f.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»). «Tan bajo como» = mínimo entre variantes.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": true,
-      "ejemplo": false,
-      "historial": [],
       "mostrada_antes": false
     },
     {
-      "id": "primor-flash-it-cosmetics-confidence-in-a-gel-cream-emulsi-n-hi",
-      "producto": "Confidence in a Gel Cream Emulsión Hidratante Anti Edad y Anti Oleosidad",
-      "marca": "IT COSMETICS",
+      "descuento_pct": 43,
+      "imagen": "https://www.druni.es/media/catalog/product/3/7/3726634.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-estuche-lash-idole-lancome-mascara-pestanas-volume",
+      "producto": "Cofre Lash Idole",
+      "marca": "Lancôme",
       "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 41.99,
+      "tienda": "Druni",
+      "precio_actual": 23.95,
+      "precio_anterior": 42,
+      "enlace": "https://www.druni.es/estuche-lash-idole-lancome-mascara-pestanas-volumen",
+      "categoria": "maquillaje",
+      "tipo": "flash",
+      "valoracion": {
+        "nota": 3.9,
+        "n": 28,
+        "fuente": "Druni"
+      }
+    },
+    {
+      "descuento_pct": 45,
+      "imagen": "https://www.druni.es/media/catalog/product/9/3/9382.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-all-hours-hyper-blur-yves-saint-laurent-polvos-sue",
+      "producto": "All Hours Hyper Blur polvos sueltos",
+      "marca": "Yves Saint Laurent",
+      "formato": "según tono",
+      "tienda": "Druni",
+      "precio_actual": 35.75,
       "precio_anterior": 65,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/it-cosmetics-confidence-in-a-gel-cream-emulsion-hidratante-anti-edad-y-anti-oleosidad-102497.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3605972886316_1_8ed6.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "cuidado-piel",
+      "enlace": "https://www.druni.es/all-hours-hyper-blur-yves-saint-laurent-polvos-sueltos",
+      "categoria": "maquillaje",
       "tipo": "flash",
+      "valoracion": {
+        "nota": 5,
+        "n": 4,
+        "fuente": "Druni"
+      }
+    },
+    {
+      "descuento_pct": 45,
+      "imagen": "https://www.druni.es/media/catalog/product/1/8/1846.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»).",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-stay-matte-clinique-polvos-matificantes-pieles-gra",
+      "producto": "Stay Matte polvos compactos",
+      "marca": "Clinique",
+      "formato": "según tono",
+      "tienda": "Druni",
+      "precio_actual": 25.85,
+      "precio_anterior": 47,
+      "enlace": "https://www.druni.es/stay-matte-clinique-polvos-matificantes-pieles-grasas",
+      "categoria": "maquillaje",
+      "tipo": "flash",
+      "valoracion": {
+        "nota": 4.8,
+        "n": 84,
+        "fuente": "Druni"
+      }
+    },
+    {
+      "descuento_pct": 30,
+      "imagen": "https://www.druni.es/media/catalog/product/3/7/3729430.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
       "precio_desde": false,
       "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-11-24",
-          "precio": 35.9
-        }
-      ],
-      "mostrada_antes": true
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-silky-shine-illuminating-primer-dr-irena-eris-prim",
+      "producto": "Silky Shine Illuminating primer iluminador",
+      "marca": "Dr Irena Eris",
+      "formato": "ver ficha",
+      "tienda": "Druni",
+      "precio_actual": 19.25,
+      "precio_anterior": 27.5,
+      "enlace": "https://www.druni.es/silky-shine-illuminating-primer-dr-irena-eris-primer-iluminador",
+      "categoria": "maquillaje",
+      "tipo": "flash",
+      "valoracion": {
+        "nota": 4.7,
+        "n": 15,
+        "fuente": "Druni"
+      }
     },
     {
-      "id": "primor-flash-shiseido-vital-perfection-uplifting-and-firming-ad",
-      "producto": "Vital Perfection Uplifting and Firming Advanced Eye Cream",
-      "marca": "SHISEIDO",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 59.49,
-      "precio_anterior": 118,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/shiseido-vital-perfection-uplifting-and-firming-advanced-eye-cream-131316.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/7/6/768614222828_1_7d50.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "descuento_pct": 40,
+      "imagen": "https://www.druni.es/media/catalog/product/1/0/10403.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
-      "categoria": "cuidado-piel",
-      "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»).",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-double-serum-foundation-clarins-tratamiento-maquil",
+      "producto": "Double Serum Foundation",
+      "marca": "Clarins",
+      "formato": "según tono",
+      "tienda": "Druni",
+      "precio_actual": 36.95,
+      "precio_anterior": 62,
+      "enlace": "https://www.druni.es/double-serum-foundation-clarins-tratamiento-maquillaje",
+      "categoria": "maquillaje",
+      "tipo": "flash",
+      "valoracion": {
+        "nota": 4.6,
+        "n": 31,
+        "fuente": "Druni"
+      }
+    },
+    {
+      "descuento_pct": 40,
+      "imagen": "https://www.druni.es/media/catalog/product/3/8/3801323.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
       "precio_desde": false,
       "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-11-24",
-          "precio": 53.9
-        }
-      ],
-      "mostrada_antes": true
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-set-minis-all-nighter-setting-spray-urban-decay-fi",
+      "producto": "Set Minis All Nighter Setting Spray",
+      "marca": "Urban Decay",
+      "formato": "ver ficha",
+      "tienda": "Druni",
+      "precio_actual": 19.8,
+      "precio_anterior": 33,
+      "enlace": "https://www.druni.es/set-minis-all-nighter-setting-spray-urban-decay-fijador-maquillaje",
+      "categoria": "maquillaje",
+      "tipo": "flash"
     },
     {
-      "id": "primor-flash-lanc-me-absolue-longevity-md-intercept-the-serum",
-      "producto": "Absolue Longevity MD Intercept The Serum",
-      "marca": "LANCÔME",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 110.95,
-      "precio_anterior": 195,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/lancome-absolue-longetity-intercept-serum-144523.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3614274801392_9d2c.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "descuento_pct": 44,
+      "imagen": "https://www.druni.es/media/catalog/product/1/7/1797049.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
-      "categoria": "cuidado-piel",
-      "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»).",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
       "precio_desde": false,
       "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-11-24",
-          "precio": 96.47
-        }
-      ],
-      "mostrada_antes": true
-    },
-    {
-      "id": "primor-flash-clinique-estuche-barbie-take-the-day-off",
-      "producto": "Estuche Barbie Take The Day Off",
-      "marca": "CLINIQUE",
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-cofre-crema-retinol-hpr-ceramide-elizabeth-arden-s",
+      "producto": "Set Duo Retinol + HPR",
+      "marca": "Elizabeth Arden",
       "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 33.95,
-      "precio_anterior": 57,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/clinique-estuche-double-cleanse-barbie-154320.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/1/9/192333364734_0_248c.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
+      "tienda": "Druni",
+      "precio_actual": 69.95,
+      "precio_anterior": 124,
+      "enlace": "https://www.druni.es/cofre-crema-retinol-hpr-ceramide-elizabeth-arden-set-anti-envejecimiento",
       "categoria": "cuidado-piel",
       "tipo": "flash",
+      "valoracion": {
+        "nota": 2.6,
+        "n": 7,
+        "fuente": "Druni"
+      }
+    },
+    {
+      "descuento_pct": 45,
+      "imagen": "https://www.druni.es/media/catalog/product/1/7/1708052.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»).",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
       "precio_desde": false,
       "ejemplo": false,
-      "historial": [
-        {
-          "fecha": "2026-11-24",
-          "precio": 30.5
-        }
-      ],
-      "mostrada_antes": true
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-cofre-genifique-ult-serum-50ml-2-tallas-lancome",
+      "producto": "Cofre Génifique Ultra Sérum",
+      "marca": "Lancôme",
+      "formato": "ver ficha",
+      "tienda": "Druni",
+      "precio_actual": 79.95,
+      "precio_anterior": 145,
+      "enlace": "https://www.druni.es/cofre-genifique-ult-serum-50ml-2-tallas-lancome",
+      "categoria": "cuidado-piel",
+      "tipo": "flash"
     },
     {
-      "id": "primor-flash-carolina-herrera-estuche-de-regalo-ch-men-eau-de-t",
-      "producto": "Estuche de Regalo CH Men Eau de Toilette",
-      "marca": "CAROLINA HERRERA",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 61.49,
-      "precio_anterior": 125,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/carolina-herrera-estuche-de-regalo-ch-men-eau-de-toilette-152474.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/8/4/8411061142141_a335.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "descuento_pct": 30,
+      "imagen": "https://www.druni.es/media/catalog/product/5/0/5021886.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
-      "categoria": "perfumeria",
-      "tipo": "perfume",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»). «Tan bajo como» = mínimo entre variantes.",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-splendid-wrinkle-filler-dr-irena-eris-crema-contor",
+      "producto": "Splendid Wrinkle Filler contorno de ojos",
+      "marca": "Dr Irena Eris",
+      "formato": "ver ficha",
+      "tienda": "Druni",
+      "precio_actual": 31.5,
+      "precio_anterior": 45,
+      "enlace": "https://www.druni.es/splendid-wrinkle-filler-dr-irena-eris-crema-contorno-ojos-rellenadora-arrugas",
+      "categoria": "cuidado-piel",
+      "tipo": "flash",
+      "valoracion": {
+        "nota": 5,
+        "n": 1,
+        "fuente": "Druni"
+      }
+    },
+    {
+      "descuento_pct": 41,
+      "imagen": "https://www.druni.es/media/catalog/product/1/7/1785029.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-estuche-advanced-night-repair-estee-lauder-tratami",
+      "producto": "Estuche Advanced Night Repair",
+      "marca": "Estée Lauder",
+      "formato": "ver ficha",
+      "tienda": "Druni",
+      "precio_actual": 84.95,
+      "precio_anterior": 143,
+      "enlace": "https://www.druni.es/estuche-advanced-night-repair-estee-lauder-tratamiento-anti-edad-dia-noche",
+      "categoria": "cuidado-piel",
+      "tipo": "flash",
+      "valoracion": {
+        "nota": 4.9,
+        "n": 6,
+        "fuente": "Druni"
+      }
+    },
+    {
+      "descuento_pct": 40,
+      "imagen": "https://www.druni.es/media/catalog/product/5/9/5900.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (200 ml); 400 ml: 27,30 €.",
+      "fecha_limite": "2026-11-26",
       "precio_desde": true,
       "ejemplo": false,
       "historial": [],
-      "mostrada_antes": false
+      "mostrada_antes": false,
+      "id": "druni-flash-lotion-tonique-hydratante-clarins-locion-tonica-hi",
+      "producto": "Lotion Tonique Hydratante",
+      "marca": "Clarins",
+      "formato": "200 / 400 ml",
+      "tienda": "Druni",
+      "precio_actual": 20.1,
+      "precio_anterior": 33.5,
+      "enlace": "https://www.druni.es/lotion-tonique-hydratante-clarins-locion-tonica-hidratante",
+      "categoria": "cuidado-piel",
+      "tipo": "flash",
+      "valoracion": {
+        "nota": 4.9,
+        "n": 40,
+        "fuente": "Druni"
+      }
     },
     {
-      "id": "primor-flash-calvin-klein-eternity-women-aromatic-essence-parfu",
-      "producto": "Eternity Women Aromatic Essence Parfum Intense",
-      "marca": "CALVIN KLEIN",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 40.85,
-      "precio_anterior": 153,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/calvin-klein-eternity-women-aromatic-essence-parfum-intense-112175.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/M/A/MAIN_3616303476809_04f9.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "descuento_pct": 43,
+      "imagen": "https://www.druni.es/media/catalog/product/1/7/1783027.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
-      "categoria": "perfumeria",
-      "tipo": "perfume",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»). «Tan bajo como» = mínimo entre variantes.",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-anti-blemish-solutions-clarifying-lotion-clinique",
+      "producto": "Clarifying Lotion Anti-Blemish Solutions",
+      "marca": "Clinique",
+      "formato": "ver ficha",
+      "tienda": "Druni",
+      "precio_actual": 18.95,
+      "precio_anterior": 33.5,
+      "enlace": "https://www.druni.es/anti-blemish-solutions-clarifying-lotion-clinique-locion-clarificante-granos",
+      "categoria": "cuidado-piel",
+      "tipo": "flash",
+      "valoracion": {
+        "nota": 4.5,
+        "n": 63,
+        "fuente": "Druni"
+      }
+    },
+    {
+      "descuento_pct": 57,
+      "imagen": "https://www.druni.es/media/catalog/product/1/6/1699626.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-piopio-ysabel-mora-eau-toilette-infantil",
+      "producto": "Píopío Eau de Toilette Infantil",
+      "marca": "Ysabel Mora",
+      "formato": "ver ficha",
+      "tienda": "Druni",
+      "precio_actual": 12.95,
+      "precio_anterior": 30,
+      "enlace": "https://www.druni.es/piopio-ysabel-mora-eau-toilette-infantil",
+      "categoria": "perfumeria",
+      "tipo": "perfume"
+    },
+    {
+      "descuento_pct": 57,
+      "imagen": "https://www.druni.es/media/catalog/product/1/6/1699627.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-friend-boy-ysabel-mora-eau-toilette-infantil-ninos",
+      "producto": "Friend Boy Eau de Toilette Infantil",
+      "marca": "Ysabel Mora",
+      "formato": "ver ficha",
+      "tienda": "Druni",
+      "precio_actual": 12.95,
+      "precio_anterior": 30,
+      "enlace": "https://www.druni.es/friend-boy-ysabel-mora-eau-toilette-infantil-ninos",
+      "categoria": "perfumeria",
+      "tipo": "perfume",
+      "valoracion": {
+        "nota": 5,
+        "n": 1,
+        "fuente": "Druni"
+      }
+    },
+    {
+      "descuento_pct": 57,
+      "imagen": "https://www.druni.es/media/catalog/product/1/6/1699628.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "druni-flash-friend-girl-ysabel-mora-eau-toilette-infantil-nina",
+      "producto": "Friend Girl Eau de Toilette Infantil",
+      "marca": "Ysabel Mora",
+      "formato": "ver ficha",
+      "tienda": "Druni",
+      "precio_actual": 12.95,
+      "precio_anterior": 30,
+      "enlace": "https://www.druni.es/friend-girl-ysabel-mora-eau-toilette-infantil-ninas",
+      "categoria": "perfumeria",
+      "tipo": "perfume",
+      "valoracion": {
+        "nota": 5,
+        "n": 1,
+        "fuente": "Druni"
+      }
+    },
+    {
+      "descuento_pct": 72,
+      "imagen": "https://www.druni.es/media/catalog/product/9/4/9445.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (50 ml); 100 ml: 39,95 €.",
+      "fecha_limite": "2026-11-26",
       "precio_desde": true,
       "ejemplo": false,
       "historial": [],
-      "mostrada_antes": false
+      "mostrada_antes": false,
+      "id": "druni-flash-gant-ivy-eau-toilette-hombre",
+      "producto": "Gant Ivy Eau de Toilette",
+      "marca": "Gant",
+      "formato": "50 / 100 ml",
+      "tienda": "Druni",
+      "precio_actual": 24.95,
+      "precio_anterior": 90,
+      "enlace": "https://www.druni.es/gant-ivy-eau-toilette-hombre",
+      "categoria": "perfumeria",
+      "tipo": "perfume"
     },
     {
-      "id": "primor-flash-ralph-lauren-estuche-polo-67-eau-de-parfum",
-      "producto": "Estuche Polo 67 Eau de Parfum",
-      "marca": "RALPH LAUREN",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 59.04,
-      "precio_anterior": 142,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/ralph-lauren-estuche-polo-67-eau-de-parfum-152154.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3605973114937_1_bec7.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "descuento_pct": 72,
+      "imagen": "https://www.druni.es/media/catalog/product/9/4/9443.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
-      "categoria": "perfumeria",
-      "tipo": "perfume",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»). «Tan bajo como» = mínimo entre variantes.",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (50 ml); 100 ml: 39,95 €.",
+      "fecha_limite": "2026-11-26",
       "precio_desde": true,
       "ejemplo": false,
       "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "primor-flash-escada-magnetism-edp",
-      "producto": "Magnetism EDP",
-      "marca": "ESCADA",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 22.78,
-      "precio_anterior": 117,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/escada-magnetism-edp-111598.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/4/A/4AF01068_1_a2f5.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
+      "mostrada_antes": false,
+      "id": "druni-flash-gant-1949-eau-toilette-hombre",
+      "producto": "Gant 1949 Eau de Toilette",
+      "marca": "Gant",
+      "formato": "50 / 100 ml",
+      "tienda": "Druni",
+      "precio_actual": 24.95,
+      "precio_anterior": 90,
+      "enlace": "https://www.druni.es/gant-1949-eau-toilette-hombre",
       "categoria": "perfumeria",
       "tipo": "perfume",
+      "valoracion": {
+        "nota": 4,
+        "n": 1,
+        "fuente": "Druni"
+      }
+    },
+    {
+      "descuento_pct": 55,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/C/a/Captura_shiseido_120_3ce8.PNG",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»). «Tan bajo como» = mínimo entre variantes.",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha de Primor (disponible: «Añadir al carrito»).",
+      "fecha_limite": "2026-11-26",
       "precio_desde": true,
       "ejemplo": false,
       "historial": [],
-      "mostrada_antes": false
+      "mostrada_antes": false,
+      "id": "primor-flash-shiseido-revitalessence-skin-matte-base-de-maquillaje",
+      "producto": "Revitalessence Skin Matte base de maquillaje",
+      "marca": "Shiseido",
+      "formato": "30 ml, según tono",
+      "tienda": "Primor",
+      "precio_actual": 33.7,
+      "precio_anterior": 75,
+      "enlace": "https://www.primor.eu/es_es/shiseido-revitalessence-skin-matte-base-de-maquillaje-157164.html",
+      "categoria": "maquillaje",
+      "tipo": "flash"
     },
     {
-      "id": "primor-flash-dolce-gabbana-the-one-eau-de-parfum-intense",
-      "producto": "The One Eau de Parfum Intense",
-      "marca": "DOLCE & GABBANA",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 44.94,
-      "precio_anterior": 96,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/dolce-gabbana-the-one-eau-de-parfum-intense-138556.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/d/o/dolce_1eca.JPG.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "descuento_pct": 50,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/6/3614274983975_1_fa46.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
-      "categoria": "perfumeria",
-      "tipo": "perfume",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»). «Tan bajo como» = mínimo entre variantes.",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha de Primor (disponible: «Añadir al carrito»).",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-lancome-set-de-regalo-absolue-longevity-md",
+      "producto": "Set de regalo Absolue Longevity MD",
+      "marca": "Lancôme",
+      "formato": "ver ficha",
+      "tienda": "Primor",
+      "precio_actual": 94.4,
+      "precio_anterior": 190,
+      "enlace": "https://www.primor.eu/es_es/lancome-set-de-regalo-absolue-longevity-md-154280.html",
+      "categoria": "cuidado-piel",
+      "tipo": "flash"
+    },
+    {
+      "descuento_pct": null,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/0/T/0TF16767_1_1.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha de Primor (disponible: «Añadir al carrito»).",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-clinique-moisture-surge-eye-96-hour-hydro-filler-concen",
+      "producto": "Moisture Surge Eye 96 Hour Hydro-Filler Concentrate",
+      "marca": "Clinique",
+      "formato": "15 ml",
+      "tienda": "Primor",
+      "precio_actual": 22.4,
+      "precio_anterior": 45.5,
+      "enlace": "https://www.primor.eu/es_es/clinique-moisture-surge-eye-96-hour-hydro-filler-concentrate-15660.html",
+      "categoria": "cuidado-piel",
+      "tipo": "flash"
+    },
+    {
+      "descuento_pct": null,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/0/T/0TF23637_1_7e8f.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha (JSON-LD y listado: 21,28 €); la ficha también muestra 19,95 € en un desglose por tamaño sin confirmar.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-clinique-balsamo-desmaquillante-take-the-day-off-charco",
+      "producto": "Take The Day Off Charcoal Cleansing Balm",
+      "marca": "Clinique",
+      "formato": "ver ficha",
+      "tienda": "Primor",
+      "precio_actual": 21.28,
+      "precio_anterior": 39.5,
+      "enlace": "https://www.primor.eu/es_es/clinique-balsamo-desmaquillante-take-the-day-off-charcoal-cleansing-balm-74599.html",
+      "categoria": "cuidado-piel",
+      "tipo": "flash"
+    },
+    {
+      "descuento_pct": 46,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/1/0/100_63ea.JPG",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha de Primor (disponible: «Añadir al carrito»).",
+      "fecha_limite": "2026-11-26",
       "precio_desde": true,
       "ejemplo": false,
       "historial": [],
-      "mostrada_antes": false
+      "mostrada_antes": false,
+      "id": "primor-flash-collistar-rossetto-puro-barra-de-labios",
+      "producto": "Rossetto Puro barra de labios",
+      "marca": "Collistar",
+      "formato": "según tono",
+      "tienda": "Primor",
+      "precio_actual": 15.95,
+      "precio_anterior": 29.5,
+      "enlace": "https://www.primor.eu/es_es/collistar-rossetto-puro-barra-de-labios-114101.html",
+      "categoria": "maquillaje",
+      "tipo": "flash"
     },
     {
+      "descuento_pct": 46,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/6/3614274164664_1_8b51.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha de Primor (disponible: «Añadir al carrito»).",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-armani-luminous-silk-base-de-maquillaje",
+      "producto": "Luminous Silk base de maquillaje",
+      "marca": "Armani",
+      "formato": "30 ml, según tono",
+      "tienda": "Primor",
+      "precio_actual": 33.43,
+      "precio_anterior": 62,
+      "enlace": "https://www.primor.eu/es_es/armani-luminous-silk-base-de-maquillaje-135703.html",
+      "categoria": "maquillaje",
+      "tipo": "flash"
+    },
+    {
+      "descuento_pct": 51,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/M/_/M_0MO17646_1_0e63.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha de Primor (disponible: «Añadir al carrito»).",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-clarins-waterproof-pencil-lapiz-de-ojos",
+      "producto": "Waterproof Pencil lápiz de ojos",
+      "marca": "Clarins",
+      "formato": "según tono",
+      "tienda": "Primor",
+      "precio_actual": 12.9,
+      "precio_anterior": 26.5,
+      "enlace": "https://www.primor.eu/es_es/clarins-waterproof-pencil-lapiz-de-ojos-109647.html",
+      "categoria": "maquillaje",
+      "tipo": "flash"
+    },
+    {
+      "descuento_pct": 53,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/6/3605972549686_1_2034.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (mínimo entre tonos en la ficha); el listado indica 19,90 € para Space Cowboy.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-urban-decay-moondust-mono-sombra-de-ojos-space-cowboy",
+      "producto": "Moondust Mono sombra de ojos",
+      "marca": "Urban Decay",
+      "formato": "según tono",
+      "tienda": "Primor",
+      "precio_actual": 15.59,
+      "precio_anterior": 33,
+      "enlace": "https://www.primor.eu/es_es/urban-decay-moondust-mono-sombra-de-ojos-space-cowboy-93471.html",
+      "categoria": "maquillaje",
+      "tipo": "flash"
+    },
+    {
+      "descuento_pct": 51,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/6/3614274170191_1_1bfa.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (20 ml); 50 ml: 69,90 €.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-lancome-renergie-h-c-f-triple-serum",
+      "producto": "Rénergie H.C.F. Triple Serum",
+      "marca": "Lancôme",
+      "formato": "20 / 50 ml",
+      "tienda": "Primor",
+      "precio_actual": 39.9,
+      "precio_anterior": 82,
+      "enlace": "https://www.primor.eu/es_es/lancome-renergie-h-c-f-triple-serum-113847.html",
+      "categoria": "cuidado-piel",
+      "tipo": "flash"
+    },
+    {
+      "descuento_pct": 57,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/6/3614274096842_1_18ba.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (50 ml); 75 ml: 59,74 €.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-biotherm-blue-peptides-uplift-cream-crema-de-dia-reafir",
+      "producto": "Blue Peptides Uplift Cream crema de día reafirmante",
+      "marca": "Biotherm",
+      "formato": "50 / 75 ml",
+      "tienda": "Primor",
+      "precio_actual": 44.9,
+      "precio_anterior": 105,
+      "enlace": "https://www.primor.eu/es_es/biotherm-blue-peptides-uplift-cream-crema-de-dia-reafirmante-106467.html",
+      "categoria": "cuidado-piel",
+      "tipo": "flash"
+    },
+    {
+      "descuento_pct": 46,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/6/3614275021041_1_ace2.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha de Primor (disponible: «Añadir al carrito»).",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-biotherm-set-festivo-let-it-glow-anti-aging-blue-peptid",
+      "producto": "Set festivo Let It Glow Blue Peptide Uplift Cream SPF30",
+      "marca": "Biotherm",
+      "formato": "ver ficha",
+      "tienda": "Primor",
+      "precio_actual": 58.4,
+      "precio_anterior": 108,
+      "enlace": "https://www.primor.eu/es_es/biotherm-set-festivo-let-it-glow-anti-aging-blue-peptide-uplift-cream-spf30-154272.html",
+      "categoria": "cuidado-piel",
+      "tipo": "flash"
+    },
+    {
+      "descuento_pct": 50,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/4/2/4260180220018_5571.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio del listado y de la ficha (JSON-LD): 79,90 €.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-m2beaute-pack-serum-eyelash-activating-eyezone-care-con",
+      "producto": "Pack Serum Eyelash Activating + Eyezone Care",
+      "marca": "M2Beauté",
+      "formato": "ver ficha",
+      "tienda": "Primor",
+      "precio_actual": 79.9,
+      "precio_anterior": 160,
+      "enlace": "https://www.primor.eu/es_es/m2beaute-pack-serum-eyelash-activating-eyezone-care-conditioning-complex-150067.html",
+      "categoria": "cuidado-piel",
+      "tipo": "flash"
+    },
+    {
+      "descuento_pct": 46,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/8/8/887167785250_2_16ad.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha de Primor (disponible: «Añadir al carrito»).",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-estee-lauder-balsamo-labial-futurist-hydraplump",
+      "producto": "Bálsamo labial Futurist Hydraplump",
+      "marca": "Estée Lauder",
+      "formato": "según tono",
+      "tienda": "Primor",
+      "precio_actual": 23.76,
+      "precio_anterior": 44,
+      "enlace": "https://www.primor.eu/es_es/estee-lauder-balsamo-labial-futurist-hydraplump-148035.html",
+      "categoria": "maquillaje",
+      "tipo": "flash"
+    },
+    {
+      "descuento_pct": 57,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/3/3386460142014_2d51.png",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (60 ml); 100 ml: 62,90 €.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
       "id": "primor-flash-jimmy-choo-i-want-choo-le-parfum",
       "producto": "I Want Choo Le Parfum",
-      "marca": "JIMMY CHOO",
-      "formato": "ver ficha",
+      "marca": "Jimmy Choo",
+      "formato": "60 / 100 ml",
       "tienda": "Primor",
-      "precio_actual": 44.4,
+      "precio_actual": 51.2,
       "precio_anterior": 119,
-      "descuento_pct": null,
       "enlace": "https://www.primor.eu/es_es/jimmy-choo-i-want-choo-le-parfum-115579.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/3/3386460142014_429d.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
       "categoria": "perfumeria",
-      "tipo": "perfume",
+      "tipo": "perfume"
+    },
+    {
+      "descuento_pct": 60,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/3/3386460160841_baa9.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»). «Tan bajo como» = mínimo entre variantes.",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (40 ml).",
+      "fecha_limite": "2026-11-26",
       "precio_desde": true,
       "ejemplo": false,
       "historial": [],
-      "mostrada_antes": false
+      "mostrada_antes": false,
+      "id": "primor-flash-jimmy-choo-i-want-choo-with-love-eau-de-parfum",
+      "producto": "I Want Choo With Love Eau de Parfum",
+      "marca": "Jimmy Choo",
+      "formato": "40 / 60 / 100 ml",
+      "tienda": "Primor",
+      "precio_actual": 31.4,
+      "precio_anterior": 78,
+      "enlace": "https://www.primor.eu/es_es/jimmy-choo-i-want-choo-with-love-eau-de-parfum-131886.html",
+      "categoria": "perfumeria",
+      "tipo": "perfume"
     },
     {
-      "id": "primor-flash-clarins-eclat-minute-embellecedor-labios",
-      "producto": "Eclat Minute Embellecedor Labios",
-      "marca": "CLARINS",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 12.65,
-      "precio_anterior": 29,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/clarins-eclat-minute-embellecedor-labios-108028.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/0/M/0ML05585_1_7fc4.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "descuento_pct": 54,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/z/a/zadig_8498.JPG",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»). «Tan bajo como» = mínimo entre variantes.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": true,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "primor-flash-collistar-puro-gioiello-velvet-barra-de-labios",
-      "producto": "Puro Gioiello Velvet Barra de Labios",
-      "marca": "COLLISTAR",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 18.76,
-      "precio_anterior": 34,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/collistar-puro-gioiello-velvet-barra-de-labios-121995.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/8/0/8015150004169_255e.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»). «Tan bajo como» = mínimo entre variantes.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": true,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "primor-flash-clarins-lip-oil-balm-b-lsamo-labial",
-      "producto": "Lip Oil Balm Bálsamo Labial",
-      "marca": "CLARINS",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 14.12,
-      "precio_anterior": 32,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/clarins-lip-oil-balm-balsamo-labial-108748.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3666057237157_1_bd2a.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»). «Tan bajo como» = mínimo entre variantes.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": true,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "primor-flash-lanc-me-lash-idole-hypnose-curl-goddess",
-      "producto": "Lash Idole Hypnose Curl Goddess",
-      "marca": "LANCÔME",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 17.27,
-      "precio_anterior": 40,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/lancome-lash-idole-hypnose-curl-goddess-138848.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/3/6/3614274491081_1_1aee.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»).",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio del estuche de 100 ml (listado y ficha).",
+      "fecha_limite": "2026-11-26",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [],
-      "mostrada_antes": false
+      "mostrada_antes": false,
+      "id": "primor-flash-zadig-voltaire-this-is-him-eau-de-toilette-estuche-rega",
+      "producto": "This is Him! Eau de Toilette estuche regalo",
+      "marca": "Zadig & Voltaire",
+      "formato": "100 ml (estuche)",
+      "tienda": "Primor",
+      "precio_actual": 53,
+      "precio_anterior": 115.5,
+      "enlace": "https://www.primor.eu/es_es/zadig-voltaire-this-is-him-eau-de-toilette-estuche-regalo-118624.html",
+      "categoria": "perfumeria",
+      "tipo": "perfume"
     },
     {
-      "id": "primor-flash-est-e-lauder-pure-color-barra-de-labios-cremosa-la",
-      "producto": "Pure Color Barra de Labios Cremosa Larga Duración",
-      "marca": "ESTÉE LAUDER",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 25.68,
-      "precio_anterior": 46,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/estee-lauder-pure-color-barra-de-labios-cremosa-larga-duracion-108594.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/8/8/887167615021_42f5.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
+      "descuento_pct": 49,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/3/6/3605971364648_1_5094.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
       "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
       "grupo": null,
       "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»). «Tan bajo como» = mínimo entre variantes.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": true,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "primor-flash-est-e-lauder-l-piz-de-cejas-3-en-1-browperfect-3d",
-      "producto": "Lápiz de cejas 3 en 1 BrowPerfect 3D All-in-One Styler",
-      "marca": "ESTÉE LAUDER",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 17.8,
-      "precio_anterior": 32,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/estee-lauder-lapiz-de-cejas-3-en-1-browperfect-3d-all-in-one-styler-multi-tasker-110494.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/8/8/887167612563_1_70ef.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "maquillaje",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»). «Tan bajo como» = mínimo entre variantes.",
-      "fecha_limite": "2026-11-25",
-      "precio_desde": true,
-      "ejemplo": false,
-      "historial": [],
-      "mostrada_antes": false
-    },
-    {
-      "id": "primor-flash-est-e-lauder-re-nutriv-ultimate-crema-tratamiento",
-      "producto": "Re-Nutriv Ultimate Crema Tratamiento Lifting Anti-Edad",
-      "marca": "ESTÉE LAUDER",
-      "formato": "ver ficha",
-      "tienda": "Primor",
-      "precio_actual": 229.94,
-      "precio_anterior": 425,
-      "descuento_pct": null,
-      "enlace": "https://www.primor.eu/es_es/estee-lauder-re-nutriv-ultimate-crema-tratamiento-lifting-anti-edad-14995.html",
-      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/03a279960917fbea0ccab05a2f947fc9/0/T/0TF06757_1_4d82.webp",
-      "fecha_verificacion": "2026-11-25T10:30:00+01:00",
-      "disponibilidad": "disponible",
-      "categoria": "cuidado-piel",
-      "tipo": "flash",
-      "grupo": null,
-      "motivo": null,
-      "ventaja": "Oferta flash de 24 h (25/11/2026). Precio del listado de Primor (disponible: «Añadir al carrito»).",
-      "fecha_limite": "2026-11-25",
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio de la ficha de Primor (disponible: «Añadir al carrito»).",
+      "fecha_limite": "2026-11-26",
       "precio_desde": false,
       "ejemplo": false,
       "historial": [],
-      "mostrada_antes": false
+      "mostrada_antes": false,
+      "id": "primor-flash-ralph-lauren-polo-red-extreme-eau-de-parfum",
+      "producto": "Polo Red Extreme Eau de Parfum",
+      "marca": "Ralph Lauren",
+      "formato": "125 ml",
+      "tienda": "Primor",
+      "precio_actual": 71.9,
+      "precio_anterior": 140,
+      "enlace": "https://www.primor.eu/es_es/ralph-lauren-polo-red-extreme-eau-de-parfum-148323.html",
+      "categoria": "perfumeria",
+      "tipo": "perfume"
+    },
+    {
+      "descuento_pct": 51,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/M/A/MAIN_3616306115934_920f.png",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (30 ml).",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-gucci-gucci-bloom-parfum-mujer",
+      "producto": "Gucci Bloom Parfum",
+      "marca": "Gucci",
+      "formato": "30 / 50 / 100 ml",
+      "tienda": "Primor",
+      "precio_actual": 49.9,
+      "precio_anterior": 102,
+      "enlace": "https://www.primor.eu/es_es/gucci-gucci-bloom-parfum-mujer-122215.html",
+      "categoria": "perfumeria",
+      "tipo": "perfume"
+    },
+    {
+      "descuento_pct": 50,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/P/T/PT01_3616306701960_e8ca.jpeg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (30 ml).",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-calvin-klein-euphoria-solar-elixir-parfum-intense-para",
+      "producto": "Euphoria Solar Elixir Parfum Intense",
+      "marca": "Calvin Klein",
+      "formato": "30 / 50 / 100 ml",
+      "tienda": "Primor",
+      "precio_actual": 44.9,
+      "precio_anterior": 89,
+      "enlace": "https://www.primor.eu/es_es/calvin-klein-euphoria-solar-elixir-parfum-intense-para-mujer-141075.html",
+      "categoria": "perfumeria",
+      "tipo": "perfume"
+    },
+    {
+      "descuento_pct": 50,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/P/T/PT01_3616305965639_91a0.jpeg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (30 ml).",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-calvin-klein-euphoria-bold-elixir-parfum-intense-para-m",
+      "producto": "Euphoria Bold Elixir Parfum Intense",
+      "marca": "Calvin Klein",
+      "formato": "30 / 50 / 100 ml",
+      "tienda": "Primor",
+      "precio_actual": 44.9,
+      "precio_anterior": 89,
+      "enlace": "https://www.primor.eu/es_es/calvin-klein-euphoria-bold-elixir-parfum-intense-para-mujer-141073.html",
+      "categoria": "perfumeria",
+      "tipo": "perfume"
+    },
+    {
+      "descuento_pct": 53,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/d/_/d_g1_dcea.JPG",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (50 ml); 100 ml: 66,48 €.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-dolce-gabbana-devotion-male-eau-de-parfum",
+      "producto": "Devotion Eau de Parfum Pour Homme",
+      "marca": "Dolce & Gabbana",
+      "formato": "50 / 100 ml",
+      "tienda": "Primor",
+      "precio_actual": 47.9,
+      "precio_anterior": 102,
+      "enlace": "https://www.primor.eu/es_es/dolce-gabbana-devotion-male-eau-de-parfum-120653.html",
+      "categoria": "perfumeria",
+      "tipo": "perfume"
+    },
+    {
+      "descuento_pct": 66,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/P/T/PT01_3616305266163_5cd5.png",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (estuche); otras presentaciones desde 59,94 €.",
+      "fecha_limite": "2026-11-26",
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-calvin-klein-eternity-for-women-edp-estuche-de-regalo-f",
+      "producto": "Estuche Eternity for Women Eau de Parfum",
+      "marca": "Calvin Klein",
+      "formato": "100 ml (estuche)",
+      "tienda": "Primor",
+      "precio_actual": 49.9,
+      "precio_anterior": 147.5,
+      "enlace": "https://www.primor.eu/es_es/calvin-klein-eternity-for-women-edp-estuche-de-regalo-femenino-112702.html",
+      "categoria": "perfumeria",
+      "tipo": "perfume"
+    },
+    {
+      "descuento_pct": 60,
+      "imagen": "https://cdn2.primor.eu/media/catalog/product/cache/6b78ac9ed927a3c2db42a3c84dab4ce5/M/_/M_4AF07317_1_fd59.jpg",
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "disponible",
+      "grupo": "g-iwantchoo",
+      "motivo": null,
+      "ventaja": "Oferta flash de 24 h (26/11/2026). Precio desde (40 ml).",
+      "fecha_limite": null,
+      "precio_desde": true,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "primor-flash-jimmy-choo-i-want-choo-eau-de-parfum",
+      "producto": "I Want Choo Eau de Parfum",
+      "marca": "Jimmy Choo",
+      "formato": "40 / 60 / 100 ml",
+      "tienda": "Primor",
+      "precio_actual": 31.4,
+      "precio_anterior": 78,
+      "enlace": "https://www.primor.eu/es_es/jimmy-choo-i-want-choo-eau-de-parfum-111962.html",
+      "categoria": "perfumeria",
+      "tipo": "comparador"
+    },
+    {
+      "descuento_pct": 56,
+      "imagen": null,
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "no confirmada",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Special Prices de Zara (DEL 20.08 AL 07.01 según la página). Precio del listado; stock por talla no comprobado.",
+      "fecha_limite": "2027-01-07",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "zara-pantalon-balloon-interlock",
+      "producto": "Pantalón balloon interlock",
+      "marca": "Zara",
+      "formato": "talla variable",
+      "tienda": "Zara",
+      "precio_actual": 9.99,
+      "precio_anterior": 22.95,
+      "enlace": "https://www.zara.com/es/es/pantalon-balloon-interlock-p03641806.html",
+      "categoria": "moda",
+      "tipo": "moda"
+    },
+    {
+      "descuento_pct": 53,
+      "imagen": null,
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "no confirmada",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Special Prices de Zara (DEL 26.11 AL 07.01 según la página). Precio del listado; stock por talla no comprobado.",
+      "fecha_limite": "2027-01-07",
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "zara-anorak-acolchado-cuadros",
+      "producto": "Anorak acolchado cuadros",
+      "marca": "Zara",
+      "formato": "talla variable",
+      "tienda": "Zara",
+      "precio_actual": 22.99,
+      "precio_anterior": 49.95,
+      "enlace": "https://www.zara.com/es/es/anorak-acolchado-cuadros-p08372233.html",
+      "categoria": "moda",
+      "tipo": "moda"
+    },
+    {
+      "descuento_pct": 50,
+      "imagen": null,
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "no confirmada",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Sección Promoción de Mango; la tienda no indica fecha de fin. Precio del listado; stock por talla no comprobado.",
+      "fecha_limite": null,
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "mango-chaqueta-lana-doble-botonadura",
+      "producto": "Chaqueta lana doble botonadura",
+      "marca": "Mango",
+      "formato": "talla variable",
+      "tienda": "Mango",
+      "precio_actual": 49.99,
+      "precio_anterior": 99.99,
+      "enlace": "https://shop.mango.com/es/es/p/mujer/chaquetas/cuello-chimenea/chaqueta-lana-doble-botonadura/37096325/32/00",
+      "categoria": "moda",
+      "tipo": "moda"
+    },
+    {
+      "descuento_pct": 50,
+      "imagen": null,
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "no confirmada",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Sección Promoción de Mango; la tienda no indica fecha de fin. Precio del listado; stock por talla no comprobado.",
+      "fecha_limite": null,
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "mango-jeans-sienna-flare-crop",
+      "producto": "Jeans Sienna flare crop",
+      "marca": "Mango",
+      "formato": "talla variable",
+      "tienda": "Mango",
+      "precio_actual": 12.99,
+      "precio_anterior": 25.99,
+      "enlace": "https://shop.mango.com/es/es/p/mujer/vaqueros/flare/jeans-sienna-flare-crop/37091373/TM/00",
+      "categoria": "moda",
+      "tipo": "moda"
+    },
+    {
+      "descuento_pct": 40,
+      "imagen": null,
+      "fecha_verificacion": "2026-11-26T10:30:00+01:00",
+      "disponibilidad": "no confirmada",
+      "grupo": null,
+      "motivo": null,
+      "ventaja": "Sección Última oportunidad de H&M; la tienda no indica fecha de fin. Precio del listado; stock por talla no comprobado.",
+      "fecha_limite": null,
+      "precio_desde": false,
+      "ejemplo": false,
+      "historial": [],
+      "mostrada_antes": false,
+      "id": "hm-falda-talle-alto",
+      "producto": "Falda de talle alto",
+      "marca": "H&M",
+      "formato": "talla variable",
+      "tienda": "H&M",
+      "precio_actual": 12.0,
+      "precio_anterior": 19.99,
+      "enlace": "https://www2.hm.com/es_es/productpage.1348415001.html",
+      "categoria": "moda",
+      "tipo": "moda"
     }
   ]
 }

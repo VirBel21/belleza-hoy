@@ -89,7 +89,7 @@
       "nombre": "Primor: código PRIMOR (−10 % extra en categorías seleccionadas)",
       "fecha": null,
       "estado": "no confirmado",
-      "detalle": "Banner de Primor leído el 01/11/2026; sin fechas ni condiciones visibles."
+      "detalle": "Banner de Primor leído el 01/11/2026; sin fechas ni condiciones visibles. Releído el 26/11/2026: banner «Hasta -10 % en perfumes y estuches, código PRIMOR» (sin fechas)."
     },
     {
       "id": "p8",
@@ -111,7 +111,7 @@
         "https://www.primor.eu/es_es/rebajas",
         "https://www.primor.eu/es_es/regalos-por-compra"
       ],
-      "nota": "En el navegador integrado el listado muestra «Añadir al carrito» y la ficha trae disponibilidad InStock y precios por tamaño (optionPrices). Envío gratis desde 25 €. Los «Agotado» de WebFetch eran un fallo de lectura. 12/11/2026: flash releído. 13/11/2026: flash releído. 14/11/2026: flash releído. 15/11/2026: flash releído. 16/11/2026: flash releído. 17/11/2026: flash releído. 18/11/2026: flash releído. 19/11/2026: flash releído. 20/11/2026: flash releído. 21/11/2026: flash releído. 22/11/2026: flash releído. 23/11/2026: flash releído. 24/11/2026: flash releído. 25/11/2026: flash releído."
+      "nota": "En el navegador integrado el listado muestra «Añadir al carrito» y la ficha trae disponibilidad InStock y precios por tamaño (optionPrices). Envío gratis desde 25 €. Los «Agotado» de WebFetch eran un fallo de lectura. 12/11/2026: flash releído. 13/11/2026: flash releído. 14/11/2026: flash releído. 15/11/2026: flash releído. 16/11/2026: flash releído. 17/11/2026: flash releído. 18/11/2026: flash releído. 19/11/2026: flash releído. 20/11/2026: flash releído. 21/11/2026: flash releído. 22/11/2026: flash releído. 23/11/2026: flash releído. 24/11/2026: flash releído. 25/11/2026: flash releído. 26/11/2026: flash releído."
     },
     {
       "nombre": "Druni",
@@ -122,7 +122,7 @@
         "https://www.druni.es/virales-tiktok",
         "https://www.druni.es/promociones"
       ],
-      "nota": "En el navegador integrado cada ficha trae datos estructurados (precio, stock InStock, imagen). Envío gratis desde 20 €. Los «No está disponible» leídos por WebFetch eran un fallo de lectura. 13/11/2026: flash releído. 14/11/2026: flash releído. 15/11/2026: flash releído. 16/11/2026: flash releído. 17/11/2026: flash releído. 18/11/2026: flash releído. 19/11/2026: flash releído. 20/11/2026: flash releído. 21/11/2026: flash releído. 22/11/2026: flash releído. 23/11/2026: flash releído. 24/11/2026: flash releído. 25/11/2026: flash releído."
+      "nota": "En el navegador integrado cada ficha trae datos estructurados (precio, stock InStock, imagen). Envío gratis desde 20 €. Los «No está disponible» leídos por WebFetch eran un fallo de lectura. 13/11/2026: flash releído. 14/11/2026: flash releído. 15/11/2026: flash releído. 16/11/2026: flash releído. 17/11/2026: flash releído. 18/11/2026: flash releído. 19/11/2026: flash releído. 20/11/2026: flash releído. 21/11/2026: flash releído. 22/11/2026: flash releído. 23/11/2026: flash releído. 24/11/2026: flash releído. 25/11/2026: flash releído. 26/11/2026: flash releído."
     },
     {
       "nombre": "Sephora",
@@ -205,7 +205,7 @@
       "urls": [
         "https://www.zara.com/es/es/mujer-precios-especiales-l1314.html"
       ],
-      "nota": "WebFetch recibe 403; se lee bien con el navegador integrado de Claude (get_page_text). Precios y % los muestra la tienda. 16/11/2026: releída (Special Prices, 'del dd.mm al 07.01'). 24/11/2026: releída, precios sin cambios. 25/11/2026: no releída; se conservan los datos anteriores."
+      "nota": "WebFetch recibe 403; se lee bien con el navegador integrado de Claude (get_page_text). Precios y % los muestra la tienda. 16/11/2026: releída (Special Prices, 'del dd.mm al 07.01'). 24/11/2026: releída, precios sin cambios. 25/11/2026: no releída; se conservan los datos anteriores. 26/11/2026: promociones releídas con el navegador integrado (precios de listado, tallas sin comprobar)."
     },
     {
       "nombre": "Bershka",
@@ -214,7 +214,7 @@
       "urls": [
         "https://www.bershka.com/es/mujer/promo-hasta-3025-n4404.html"
       ],
-      "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). 11/11/2026: la página no mostró precios en el navegador integrado; no se forzó. 16/11/2026: no releída; se conservan los datos anteriores. 25/11/2026: no releída; se conservan los datos anteriores."
+      "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). 11/11/2026: la página no mostró precios en el navegador integrado; no se forzó. 16/11/2026: no releída; se conservan los datos anteriores. 25/11/2026: no releída; se conservan los datos anteriores. 26/11/2026: promociones releídas con el navegador integrado (precios de listado, tallas sin comprobar)."
     },
     {
       "nombre": "Mango",
@@ -224,7 +224,7 @@
         "https://shop.mango.com/es/es/c/mujer/promocion/7914393e",
         "https://shop.mango.com/es/es/events"
       ],
-      "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 28/10/2026. La página /events solo describe campañas pasadas, sin fechas de 2026. El 28/10/2026 el listado solo cargó 9 prendas (lazy-load). 16/11/2026: solo se verificó el precio de los jeans rectos. 24/11/2026: el listado cargó pero sin precios legibles en el DOM; no se actualizó. 25/11/2026: no releída; se conservan los datos anteriores."
+      "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 28/10/2026. La página /events solo describe campañas pasadas, sin fechas de 2026. El 28/10/2026 el listado solo cargó 9 prendas (lazy-load). 16/11/2026: solo se verificó el precio de los jeans rectos. 24/11/2026: el listado cargó pero sin precios legibles en el DOM; no se actualizó. 25/11/2026: no releída; se conservan los datos anteriores. 26/11/2026: promociones releídas con el navegador integrado (precios de listado, tallas sin comprobar)."
     },
     {
       "nombre": "H&M",
@@ -233,7 +233,7 @@
       "urls": [
         "https://www2.hm.com/es_es/mujer/last-chance/ver-todos.html"
       ],
-      "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 28/10/2026. 16/11/2026: no releída; se conservan los datos anteriores. 25/11/2026: no releída; se conservan los datos anteriores."
+      "nota": "WebFetch falla o no ve precios; se lee con el navegador integrado de Claude (get_page_text). Verificado el 28/10/2026. 16/11/2026: no releída; se conservan los datos anteriores. 25/11/2026: no releída; se conservan los datos anteriores. 26/11/2026: promociones releídas con el navegador integrado (precios de listado, tallas sin comprobar)."
     }
   ],
   "categorias": {
