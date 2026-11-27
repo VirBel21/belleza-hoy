@@ -19,7 +19,7 @@
       "nombre": "Black Friday",
       "fecha": "2026-11-27",
       "estado": "confirmado",
-      "detalle": "Viernes 27 de noviembre de 2026."
+      "detalle": "Viernes 27 de noviembre de 2026 (hoy). Zara estrena «Special Prices» DEL 26.11 AL 07.01; Mango y Bershka mantienen sus promociones."
     },
     {
       "id": "cm",
@@ -61,14 +61,14 @@
       "nombre": "Primor: Revlon maquillaje, 2ª unidad al 50%",
       "fecha": "2026-11-19",
       "estado": "confirmado",
-      "detalle": "Primor, promociones activas (leído 22/10/2026). Del 19/10 al 19/11 (fecha mostrada: fin)."
+      "detalle": "Primor, promociones activas (leído 22/10/2026). Del 19/10 al 19/11 (fecha mostrada: fin). Finalizada el 19/11/2026."
     },
     {
       "id": "p4",
       "nombre": "Primor: Leti, 2ª unidad al 15%",
       "fecha": "2026-11-30",
       "estado": "confirmado",
-      "detalle": "Primor, promociones activas (leído 22/10/2026). Del 05/10 al 30/11 (fecha mostrada: fin)."
+      "detalle": "Primor, promociones activas (leído 22/10/2026). Del 05/10 al 30/11 (fecha mostrada: fin). Releída la lista el 27/11/2026: Primor sigue sin mostrar fechas en la página de promociones activas."
     },
     {
       "id": "p5",
@@ -111,7 +111,7 @@
         "https://www.primor.eu/es_es/rebajas",
         "https://www.primor.eu/es_es/regalos-por-compra"
       ],
-      "nota": "En el navegador integrado el listado muestra «Añadir al carrito» y la ficha trae disponibilidad InStock y precios por tamaño (optionPrices). Envío gratis desde 25 €. Los «Agotado» de WebFetch eran un fallo de lectura. 12/11/2026: flash releído. 13/11/2026: flash releído. 14/11/2026: flash releído. 15/11/2026: flash releído. 16/11/2026: flash releído. 17/11/2026: flash releído. 18/11/2026: flash releído. 19/11/2026: flash releído. 20/11/2026: flash releído. 21/11/2026: flash releído. 22/11/2026: flash releído. 23/11/2026: flash releído. 24/11/2026: flash releído. 25/11/2026: flash releído. 26/11/2026: flash releído."
+      "nota": "En el navegador integrado el listado muestra «Añadir al carrito» y la ficha trae disponibilidad InStock y precios por tamaño (optionPrices). Envío gratis desde 25 €. Los «Agotado» de WebFetch eran un fallo de lectura. 12/11/2026: flash releído. 13/11/2026: flash releído. 14/11/2026: flash releído. 15/11/2026: flash releído. 16/11/2026: flash releído. 17/11/2026: flash releído. 18/11/2026: flash releído. 19/11/2026: flash releído. 20/11/2026: flash releído. 21/11/2026: flash releído. 22/11/2026: flash releído. 23/11/2026: flash releído. 24/11/2026: flash releído. 25/11/2026: flash releído. 26/11/2026: flash releído. 27/11/2026: flash releído."
     },
     {
       "nombre": "Druni",
@@ -122,7 +122,7 @@
         "https://www.druni.es/virales-tiktok",
         "https://www.druni.es/promociones"
       ],
-      "nota": "En el navegador integrado cada ficha trae datos estructurados (precio, stock InStock, imagen). Envío gratis desde 20 €. Los «No está disponible» leídos por WebFetch eran un fallo de lectura. 13/11/2026: flash releído. 14/11/2026: flash releído. 15/11/2026: flash releído. 16/11/2026: flash releído. 17/11/2026: flash releído. 18/11/2026: flash releído. 19/11/2026: flash releído. 20/11/2026: flash releído. 21/11/2026: flash releído. 22/11/2026: flash releído. 23/11/2026: flash releído. 24/11/2026: flash releído. 25/11/2026: flash releído. 26/11/2026: flash releído."
+      "nota": "En el navegador integrado cada ficha trae datos estructurados (precio, stock InStock, imagen). Envío gratis desde 20 €. Los «No está disponible» leídos por WebFetch eran un fallo de lectura. 13/11/2026: flash releído. 14/11/2026: flash releído. 15/11/2026: flash releído. 16/11/2026: flash releído. 17/11/2026: flash releído. 18/11/2026: flash releído. 19/11/2026: flash releído. 20/11/2026: flash releído. 21/11/2026: flash releído. 22/11/2026: flash releído. 23/11/2026: flash releído. 24/11/2026: flash releído. 25/11/2026: flash releído. 26/11/2026: flash releído. 27/11/2026: flash releído."
     },
     {
       "nombre": "Sephora",
